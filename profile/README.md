@@ -6,15 +6,15 @@ _Last updated: 2026-06-22 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Site Reliability Engineer (FedRAMP / Security) - NY](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ny-coralogix-33c5f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Principal Architect](https://o11y.jobs/jobs/principal-architect-coralogix-52363?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Backend Engineer](https://o11y.jobs/jobs/senior-backend-engineer-coralogix-b9668?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [SRE Team Lead (FedRAMP / Security) - NY](https://o11y.jobs/jobs/sre-team-lead-fedramp-security-ny-coralogix-a5868?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Site Reliability Engineer (FedRAMP / Security) - NY](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ny-coralogix-33c5f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Sr Product Manager - IC](https://o11y.jobs/jobs/sr-product-manager-ic-signoz-aa8fff?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SigNoz | Remote |
 | [Staff Backend Engineer - Core](https://o11y.jobs/jobs/staff-backend-engineer-core-signoz-a16ae7?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SigNoz | Remote · ₹7000k – ₹10000k |
 | [Senior AI Backend Engineer](https://o11y.jobs/jobs/senior-ai-backend-engineer-komodor-23863?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Software Engineering Team Lead](https://o11y.jobs/jobs/software-engineering-team-lead-coralogix-beb67?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Principal Architect](https://o11y.jobs/jobs/principal-architect-coralogix-52363?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Backend Engineer](https://o11y.jobs/jobs/senior-backend-engineer-komodor-ea560?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Senior Backend Engineer - Grafana Backend Services \| UK \| Remote](https://o11y.jobs/jobs/senior-backend-engineer-grafana-backend-services-uk-remote-grafana-labs-656004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Senior Backend Engineer - Grafana Backend Services \| Sweden \| Remote](https://o11y.jobs/jobs/senior-backend-engineer-grafana-backend-services-sweden-remote-grafana-labs-654004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |

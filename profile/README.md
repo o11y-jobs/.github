@@ -2,23 +2,25 @@
 
 Curated open roles in observability — OpenTelemetry, Prometheus, Grafana, tracing, metrics, logs, SRE and platform engineering. Auto-updated from [o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs).
 
-_Last updated: 2026-06-22 · 100 open roles_
+_Last updated: 2026-06-23 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Software Engineer, Backend (Hybrid)](https://o11y.jobs/jobs/software-engineer-backend-hybrid-splunk-016293?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Milpitas, California, US |
 | [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Site Reliability Engineer (FedRAMP / Security) - NY](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ny-coralogix-33c5f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Senior Software Engineer, Java - Network Team](https://o11y.jobs/jobs/senior-software-engineer-java-network-team-forward-networks-027003?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Forward Networks | Bengaluru, India |
+| [Principal Architect](https://o11y.jobs/jobs/principal-architect-coralogix-52363?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Senior AI Backend Engineer](https://o11y.jobs/jobs/senior-ai-backend-engineer-komodor-23863?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Software Engineering Team Lead](https://o11y.jobs/jobs/software-engineering-team-lead-coralogix-beb67?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [SRE Team Lead (FedRAMP / Security) - NY](https://o11y.jobs/jobs/sre-team-lead-fedramp-security-ny-coralogix-a5868?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Principal Architect](https://o11y.jobs/jobs/principal-architect-coralogix-52363?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Backend Engineer](https://o11y.jobs/jobs/senior-backend-engineer-coralogix-b9668?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Software Engineer - Identity & Authorization Platform](https://o11y.jobs/jobs/senior-software-engineer-identity-authorization-platform-clickhouse-901004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | ClickHouse | Remote |
 | [Principal Software Engineer - Search Scaling - Elasticsearch](https://o11y.jobs/jobs/principal-software-engineer-search-scaling-elasticsearch-elastic-020871?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Poland |
 | [Principal Software Engineer - Vector Search - Elasticsearch](https://o11y.jobs/jobs/principal-software-engineer-vector-search-elasticsearch-elastic-020846?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Poland |
-| [Senior AI Backend Engineer](https://o11y.jobs/jobs/senior-ai-backend-engineer-komodor-23863?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Senior Software Engineer](https://o11y.jobs/jobs/senior-software-engineer-new-relic-141008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Hyderabad, India |
 | [Manager- Software Engineering](https://o11y.jobs/jobs/manager-software-engineering-new-relic-109008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Hyderabad, India |
 | [Cloud and Observability Engineer](https://o11y.jobs/jobs/cloud-and-observability-engineer-coralogix-07c37?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
-| [Site Reliability Engineer (FedRAMP / Security) - NY](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ny-coralogix-33c5f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior SIEM Security Engineer](https://o11y.jobs/jobs/senior-siem-security-engineer-splunk-016331?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
 | [Software Engineer](https://o11y.jobs/jobs/software-engineer-splunk-149511?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
 | [Sr Product Manager - IC](https://o11y.jobs/jobs/sr-product-manager-ic-signoz-aa8fff?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SigNoz | Remote |
@@ -40,7 +42,6 @@ _Last updated: 2026-06-22 · 100 open roles_
 | [DevOps Engineer](https://o11y.jobs/jobs/devops-engineer-splunk-013881?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Caesarea, Israel |
 | [Tetragon Engineering Manager - Isovalent](https://o11y.jobs/jobs/tetragon-engineering-manager-isovalent-splunk-012400?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
 | [Tetragon Software Engineering Technical Leader](https://o11y.jobs/jobs/tetragon-software-engineering-technical-leader-splunk-012994?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
-| [SAAS Operations Engineer](https://o11y.jobs/jobs/saas-operations-engineer-splunk-016140?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
 | [Senior Staff Engineer, Splunk Platform Identity](https://o11y.jobs/jobs/senior-staff-engineer-splunk-platform-identity-splunk-015011?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Boulder, Colorado, US |
 | [Software Engineering Technical Leader](https://o11y.jobs/jobs/software-engineering-technical-leader-splunk-010516?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
 | [Senior Software Engineer - JVM Language Clients](https://o11y.jobs/jobs/senior-software-engineer-jvm-language-clients-clickhouse-656004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | ClickHouse | Tel Aviv  |
@@ -105,7 +106,6 @@ _Last updated: 2026-06-22 · 100 open roles_
 | [Site Reliability Engineer (Hosted Infra) - Platform](https://o11y.jobs/jobs/site-reliability-engineer-hosted-infra-platform-elastic-957649?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | United States |
 | [Staff Applied Scientist - Dashboards](https://o11y.jobs/jobs/staff-applied-scientist-dashboards-datadog-984962?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
 | [Software Engineer - Database Integrations](https://o11y.jobs/jobs/software-engineer-database-integrations-clickhouse-050004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | ClickHouse | United Kingdom |
-| [Senior Software Engineer, Events Analytics Platform](https://o11y.jobs/jobs/senior-software-engineer-events-analytics-platform-sentry-63d73e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · CA$200k – CA$295k |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

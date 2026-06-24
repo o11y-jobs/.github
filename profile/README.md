@@ -2,12 +2,14 @@
 
 Curated open roles in observability — OpenTelemetry, Prometheus, Grafana, tracing, metrics, logs, SRE and platform engineering. Auto-updated from [o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs).
 
-_Last updated: 2026-06-23 · 100 open roles_
+_Last updated: 2026-06-24 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
 | [Devops Engineer](https://o11y.jobs/jobs/devsecops-engineer-coralogix-b0759?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Group Product Manager - Code Security](https://o11y.jobs/jobs/group-product-manager-code-security-datadog-023763?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
+| [Senior Software Engineer - Grafana Databases, Managed Services \| Germany \| Remote](https://o11y.jobs/jobs/senior-software-engineer-grafana-databases-managed-services-germany-remote-grafana-labs-850004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Senior Field Engineer \| Netherlands \| Remote](https://o11y.jobs/jobs/senior-field-engineer-netherlands-remote-grafana-labs-737004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Software Engineering Team Lead](https://o11y.jobs/jobs/software-engineering-team-lead-coralogix-beb67?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Backend Engineer - OpenTelemetry](https://o11y.jobs/jobs/senior-backend-engineer-opentelemetry-coralogix-ee842?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
@@ -69,6 +71,7 @@ _Last updated: 2026-06-23 · 100 open roles_
 | [Backend Engineer](https://o11y.jobs/jobs/backend-engineer-groundcover-8b736?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Groundcover | Tel Aviv |
 | [Frontend Engineer](https://o11y.jobs/jobs/frontend-engineer-groundcover-b7635?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Groundcover | Tel Aviv |
 | [Low Level Developer](https://o11y.jobs/jobs/low-level-developer-groundcover-84a64?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Groundcover | Tel Aviv |
+| [Senior Software Engineer - Streaming Platform](https://o11y.jobs/jobs/senior-software-engineer-streaming-platform-noram-datadog-993551?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
 | [Product Architect](https://o11y.jobs/jobs/product-architect-komodor-66a65?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Site Reliability Engineer (FedRAMP / Security) - CA](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ca-coralogix-d0a69?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Software Engineer - Core Product](https://o11y.jobs/jobs/software-engineer-core-product-pagerduty-951004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | PagerDuty | Toronto |
@@ -103,9 +106,6 @@ _Last updated: 2026-06-23 · 100 open roles_
 | [Senior Software Engineer](https://o11y.jobs/jobs/senior-software-engineer-cribl-984004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
 | [Software Engineer - Fullstack](https://o11y.jobs/jobs/software-engineer-fullstack-new-relic-725008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Hyderabad, India |
 | [Manager, Software Engineering](https://o11y.jobs/jobs/manager-software-engineering-new-relic-295008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Hyderabad, India |
-| [Staff Software Engineer, Cribl AI](https://o11y.jobs/jobs/staff-software-engineer-cribl-ai-cribl-317004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
-| [Senior Site Reliability Engineer](https://o11y.jobs/jobs/senior-site-reliability-engineer-honeycomb-071008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Honeycomb | Remote |
-| [Senior Developer Advocate - Modern App Development](https://o11y.jobs/jobs/senior-developer-advocate-modern-app-development-datadog-985840?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Remote |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

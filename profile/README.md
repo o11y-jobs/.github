@@ -6,12 +6,13 @@ _Last updated: 2026-06-27 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Software Engineering Team Lead](https://o11y.jobs/jobs/software-engineering-team-lead-coralogix-beb67?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Devops Engineer](https://o11y.jobs/jobs/devsecops-engineer-coralogix-b0759?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Senior AI Backend Engineer](https://o11y.jobs/jobs/senior-ai-backend-engineer-komodor-23863?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
+| [Principal Architect](https://o11y.jobs/jobs/principal-architect-coralogix-52363?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-coralogix-ceb66?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [Senior Backend Engineer](https://o11y.jobs/jobs/senior-backend-engineer-coralogix-b9668?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Principal Architect](https://o11y.jobs/jobs/principal-architect-coralogix-52363?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Software Engineering Team Lead](https://o11y.jobs/jobs/software-engineering-team-lead-coralogix-beb67?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Software Engineer -Alerts](https://o11y.jobs/jobs/senior-software-engineer-alerts-new-relic-587008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Ottawa, Canada |
 | [Sr Staff Information Systems Engineer](https://o11y.jobs/jobs/sr-staff-information-systems-engineer-cribl-635004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
 | [Senior Engineering Manager - Security Engineering](https://o11y.jobs/jobs/senior-engineering-manager-security-engineering-clickhouse-214004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | ClickHouse | Remote |
@@ -56,7 +57,6 @@ _Last updated: 2026-06-27 · 100 open roles_
 | [Sr Site Reliability Engineer](https://o11y.jobs/jobs/sr-site-reliability-engineer-signoz-816d55?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SigNoz | Remote · ₹5000k – ₹7000k |
 | [Senior Endpoint Security Engineer](https://o11y.jobs/jobs/senior-endpoint-security-engineer-splunk-016332?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
 | [Senior Software Engineer, Java - Network Team](https://o11y.jobs/jobs/senior-software-engineer-java-network-team-forward-networks-027003?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Forward Networks | Bengaluru, India |
-| [Senior AI Backend Engineer](https://o11y.jobs/jobs/senior-ai-backend-engineer-komodor-23863?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Senior Software Engineer - Identity & Authorization Platform](https://o11y.jobs/jobs/senior-software-engineer-identity-authorization-platform-clickhouse-901004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | ClickHouse | Remote |
 | [Principal Software Engineer - Search Scaling - Elasticsearch](https://o11y.jobs/jobs/principal-software-engineer-search-scaling-elasticsearch-elastic-020871?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Sweden |
 | [Principal Software Engineer - Vector Search - Elasticsearch](https://o11y.jobs/jobs/principal-software-engineer-vector-search-elasticsearch-elastic-020846?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Sweden |

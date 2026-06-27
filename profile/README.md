@@ -2,18 +2,24 @@
 
 Curated open roles in observability — OpenTelemetry, Prometheus, Grafana, tracing, metrics, logs, SRE and platform engineering. Auto-updated from [o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs).
 
-_Last updated: 2026-06-26 · 100 open roles_
+_Last updated: 2026-06-27 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
-| [Senior Backend Engineer](https://o11y.jobs/jobs/senior-backend-engineer-coralogix-b9668?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Principal Architect](https://o11y.jobs/jobs/principal-architect-coralogix-52363?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Software Engineering Team Lead](https://o11y.jobs/jobs/software-engineering-team-lead-coralogix-beb67?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Senior Software Engineer -Alerts](https://o11y.jobs/jobs/senior-software-engineer-alerts-new-relic-587008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Ottawa, Canada |
+| [Sr Staff Information Systems Engineer](https://o11y.jobs/jobs/sr-staff-information-systems-engineer-cribl-635004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
+| [Devops Engineer](https://o11y.jobs/jobs/devsecops-engineer-coralogix-b0759?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Senior Engineering Manager - Security Engineering](https://o11y.jobs/jobs/senior-engineering-manager-security-engineering-clickhouse-214004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | ClickHouse | Remote |
+| [Manager II, Engineering - Logs](https://o11y.jobs/jobs/manager-ii-engineering-logs-datadog-031320?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
+| [Technical Support & QA Automation Engineer](https://o11y.jobs/jobs/technical-support-qa-automation-engineer-coralogix-f866a?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Bucharest, Romania |
+| [Senior Backend Engineer](https://o11y.jobs/jobs/senior-backend-engineer-coralogix-b9668?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Product Manager - Agent Integrations](https://o11y.jobs/jobs/senior-product-manager-agent-integrations-datadog-030599?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
 | [Staff Software Engineer (Cloud Provider Team)](https://o11y.jobs/jobs/staff-software-engineer-cloud-provider-team-sysdig-085ca6?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sysdig | Remote |
 | [Cloud Engineer - Product Metrics](https://o11y.jobs/jobs/cloud-engineer-product-metrics-clickhouse-326004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | ClickHouse | Remote |
 | [Senior Software Engineer, Monitor team](https://o11y.jobs/jobs/senior-software-engineer-monitor-team-sysdig-ddd19d?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sysdig | Remote |
-| [Devops Engineer](https://o11y.jobs/jobs/devsecops-engineer-coralogix-b0759?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Software Engineering Team Lead](https://o11y.jobs/jobs/software-engineering-team-lead-coralogix-beb67?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-coralogix-ceb66?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [Senior Manager, Software Engineering](https://o11y.jobs/jobs/senior-manager-software-engineering-new-relic-138008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Hyderabad, India |
 | [AI Engineer Team Lead](https://o11y.jobs/jobs/ai-engineer-team-lead-komodor-b5867?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
@@ -40,7 +46,6 @@ _Last updated: 2026-06-26 · 100 open roles_
 | [Datadog for Startups - Forward Deployed Engineering Lead](https://o11y.jobs/jobs/datadog-for-startups-forward-deployed-engineering-lead-datadog-003181?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
 | [Senior Engineering Manager, Database](https://o11y.jobs/jobs/senior-engineering-manager-database-timescale-44b226?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Timescale | Remote |
 | [Senior Engineering Manager, Tiger Cloud Apps](https://o11y.jobs/jobs/senior-engineering-manager-tiger-cloud-apps-timescale-72728f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Timescale | Remote |
-| [Principal Architect](https://o11y.jobs/jobs/principal-architect-coralogix-52363?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Manager, Engineering](https://o11y.jobs/jobs/senior-manager-engineering-sumo-logic-984706?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sumo Logic | Bengaluru, Karnataka, India |
 | [SRE Team Lead (FedRAMP / Security) - NY](https://o11y.jobs/jobs/sre-team-lead-fedramp-security-ny-coralogix-a5868?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Group Product Manager - Code Security](https://o11y.jobs/jobs/group-product-manager-code-security-datadog-023763?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
@@ -83,7 +88,6 @@ _Last updated: 2026-06-26 · 100 open roles_
 | [Senior AI Engineer \| Canada \| Remote](https://o11y.jobs/jobs/senior-ai-engineer-canada-remote-grafana-labs-954004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Senior AI Engineer \| US \| Remote](https://o11y.jobs/jobs/senior-ai-engineer-us-remote-grafana-labs-955004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Senior Field Engineer \| Germany \| Remote](https://o11y.jobs/jobs/senior-field-engineer-germany-remote-grafana-labs-341004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
-| [Technical Support & QA Automation Engineer](https://o11y.jobs/jobs/technical-support-qa-automation-engineer-coralogix-f866a?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Bucharest, Romania |
 | [Senior AI Data Engineer](https://o11y.jobs/jobs/senior-ai-data-engineer-elastic-989242?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Spain |
 | [Staff AI Engineer - Data Visualization](https://o11y.jobs/jobs/staff-ai-engineer-data-visualization-datadog-015588?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Bordeaux, France; Grenoble, France; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Nice, France; Paris, France; Sophia Antipolis, France |
 | [Senior Observability Engineer](https://o11y.jobs/jobs/senior-observability-engineer-coralogix-c9065?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
@@ -102,10 +106,6 @@ _Last updated: 2026-06-26 · 100 open roles_
 | [Resident Architect- LATAM](https://o11y.jobs/jobs/resident-architect-latam-honeycomb-514008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Honeycomb | Remote |
 | [Lead SRE, DevOps Group](https://o11y.jobs/jobs/lead-sre-devops-group-bigpanda-wfuahw?utm_source=github&utm_medium=repo&utm_campaign=jobs) | BigPanda | Hybrid |
 | [Senior Software Engineer, Control Plane](https://o11y.jobs/jobs/senior-software-engineer-control-plane-sentry-97d686?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · CA$200k – CA$295k |
-| [Sr Information Systems Engineer, IT Engineering](https://o11y.jobs/jobs/sr-information-systems-engineer-it-engineering-cribl-491004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
-| [Senior Services Architect, Security-Cloud SIEM](https://o11y.jobs/jobs/senior-services-architect-new-york-datadog-996907?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
-| [Senior Software Engineer - Observability Visibility](https://o11y.jobs/jobs/senior-software-engineer-observability-visibility-datadog-001760?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
-| [Principal Software Engineer I - Distributed Systems - Elasticsearch](https://o11y.jobs/jobs/principal-software-engineer-i-distributed-systems-elasticsearch-elastic-002563?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Sweden |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

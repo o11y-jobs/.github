@@ -6,6 +6,7 @@ _Last updated: 2026-06-27 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Devops Engineer](https://o11y.jobs/jobs/devsecops-engineer-coralogix-b0759?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-coralogix-ceb66?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [Senior Backend Engineer](https://o11y.jobs/jobs/senior-backend-engineer-coralogix-b9668?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Principal Architect](https://o11y.jobs/jobs/principal-architect-coralogix-52363?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
@@ -13,7 +14,6 @@ _Last updated: 2026-06-27 · 100 open roles_
 | [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Software Engineer -Alerts](https://o11y.jobs/jobs/senior-software-engineer-alerts-new-relic-587008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Ottawa, Canada |
 | [Sr Staff Information Systems Engineer](https://o11y.jobs/jobs/sr-staff-information-systems-engineer-cribl-635004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
-| [Devops Engineer](https://o11y.jobs/jobs/devsecops-engineer-coralogix-b0759?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Engineering Manager - Security Engineering](https://o11y.jobs/jobs/senior-engineering-manager-security-engineering-clickhouse-214004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | ClickHouse | Remote |
 | [Manager II, Engineering - Logs](https://o11y.jobs/jobs/manager-ii-engineering-logs-datadog-031320?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
 | [Technical Support & QA Automation Engineer](https://o11y.jobs/jobs/technical-support-qa-automation-engineer-coralogix-f866a?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Bucharest, Romania |

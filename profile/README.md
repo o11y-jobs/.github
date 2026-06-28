@@ -2,14 +2,15 @@
 
 Curated open roles in observability — OpenTelemetry, Prometheus, Grafana, tracing, metrics, logs, SRE and platform engineering. Auto-updated from [o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs).
 
-_Last updated: 2026-06-27 · 100 open roles_
+_Last updated: 2026-06-28 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [SRE Team Lead (FedRAMP / Security) - NY](https://o11y.jobs/jobs/sre-team-lead-fedramp-security-ny-coralogix-a5868?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Senior AI Backend Engineer](https://o11y.jobs/jobs/senior-ai-backend-engineer-komodor-23863?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Software Engineering Team Lead](https://o11y.jobs/jobs/software-engineering-team-lead-coralogix-beb67?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Devops Engineer](https://o11y.jobs/jobs/devsecops-engineer-coralogix-b0759?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Senior AI Backend Engineer](https://o11y.jobs/jobs/senior-ai-backend-engineer-komodor-23863?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Principal Architect](https://o11y.jobs/jobs/principal-architect-coralogix-52363?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-coralogix-ceb66?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [Senior Backend Engineer](https://o11y.jobs/jobs/senior-backend-engineer-coralogix-b9668?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
@@ -48,7 +49,6 @@ _Last updated: 2026-06-27 · 100 open roles_
 | [Senior Engineering Manager, Database](https://o11y.jobs/jobs/senior-engineering-manager-database-timescale-44b226?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Timescale | Remote |
 | [Senior Engineering Manager, Tiger Cloud Apps](https://o11y.jobs/jobs/senior-engineering-manager-tiger-cloud-apps-timescale-72728f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Timescale | Remote |
 | [Senior Manager, Engineering](https://o11y.jobs/jobs/senior-manager-engineering-sumo-logic-984706?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sumo Logic | Bengaluru, Karnataka, India |
-| [SRE Team Lead (FedRAMP / Security) - NY](https://o11y.jobs/jobs/sre-team-lead-fedramp-security-ny-coralogix-a5868?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Group Product Manager - Code Security](https://o11y.jobs/jobs/group-product-manager-code-security-datadog-023763?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
 | [Senior Software Engineer - Grafana Databases, Managed Services \| Germany \| Remote](https://o11y.jobs/jobs/senior-software-engineer-grafana-databases-managed-services-germany-remote-grafana-labs-850004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Senior Field Engineer \| Netherlands \| Remote](https://o11y.jobs/jobs/senior-field-engineer-netherlands-remote-grafana-labs-737004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |

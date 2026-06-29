@@ -2,19 +2,21 @@
 
 Curated open roles in observability — OpenTelemetry, Prometheus, Grafana, tracing, metrics, logs, SRE and platform engineering. Auto-updated from [o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs).
 
-_Last updated: 2026-06-28 · 100 open roles_
+_Last updated: 2026-06-29 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
-| [Frontend Engineer](https://o11y.jobs/jobs/frontend-engineer-coralogix-1ac6f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Devops Engineer](https://o11y.jobs/jobs/devsecops-engineer-coralogix-b0759?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Devops Engineer - EU (Remote)](https://o11y.jobs/jobs/devops-engineer-eu-remote-coralogix-5fa6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Backend Engineer (Data Usage)](https://o11y.jobs/jobs/backend-engineer-data-usage-coralogix-0ec67?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Frontend Engineer](https://o11y.jobs/jobs/frontend-engineer-coralogix-1ac6f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Senior Backend Engineer - OpenTelemetry](https://o11y.jobs/jobs/senior-backend-engineer-opentelemetry-coralogix-ee842?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [SRE Team Lead (FedRAMP / Security) - NY](https://o11y.jobs/jobs/sre-team-lead-fedramp-security-ny-coralogix-a5868?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Software Engineering Team Lead](https://o11y.jobs/jobs/software-engineering-team-lead-coralogix-beb67?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Devops Engineer - EU (Remote)](https://o11y.jobs/jobs/devops-engineer-eu-remote-coralogix-5fa6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Devops Engineer](https://o11y.jobs/jobs/devsecops-engineer-coralogix-b0759?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Technical Support & QA Automation Engineer](https://o11y.jobs/jobs/technical-support-qa-automation-engineer-coralogix-f866a?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Bucharest, Romania |
 | [AI Engineer Team Lead](https://o11y.jobs/jobs/ai-engineer-team-lead-komodor-b5867?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-coralogix-ceb66?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
-| [SRE Team Lead (FedRAMP / Security) - NY](https://o11y.jobs/jobs/sre-team-lead-fedramp-security-ny-coralogix-a5868?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior AI Backend Engineer](https://o11y.jobs/jobs/senior-ai-backend-engineer-komodor-23863?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Principal Architect](https://o11y.jobs/jobs/principal-architect-coralogix-52363?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Backend Engineer](https://o11y.jobs/jobs/senior-backend-engineer-coralogix-b9668?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
@@ -35,7 +37,6 @@ _Last updated: 2026-06-28 · 100 open roles_
 | [Senior Software Engineer - Grafana Cloud Observability Provider \| Germany \| Remote](https://o11y.jobs/jobs/senior-software-engineer-grafana-cloud-observability-provider-germany-remote-grafana-labs-645004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Senior Software Engineer - Grafana Cloud Observability Provider \| UK \| Remote](https://o11y.jobs/jobs/senior-software-engineer-grafana-cloud-observability-provider-uk-remote-grafana-labs-597004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Cloud and Observability Engineer (Remote Role, 6pm - 3am)](https://o11y.jobs/jobs/cloud-and-observability-engineer-remote-role-6pm-3am-coralogix-4d169?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Senior Backend Engineer - OpenTelemetry](https://o11y.jobs/jobs/senior-backend-engineer-opentelemetry-coralogix-ee842?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Lead Software Engineer - Frontend](https://o11y.jobs/jobs/lead-software-engineer-frontend-new-relic-190008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Hyderabad, India |
 | [Engineering Manager](https://o11y.jobs/jobs/engineering-manager-sysdig-7c0736?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sysdig | Remote |
 | [Backend Engineer - Data Pipeline](https://o11y.jobs/jobs/backend-engineer-data-pipeline-coralogix-9fa66?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
@@ -71,7 +72,6 @@ _Last updated: 2026-06-28 · 100 open roles_
 | [Senior Backend Engineer - Grafana Backend Services \| Ireland \| Remote](https://o11y.jobs/jobs/senior-backend-engineer-grafana-backend-services-ireland-remote-grafana-labs-651004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Senior Backend Engineer - Grafana Backend Services \| Spain \| Remote](https://o11y.jobs/jobs/senior-backend-engineer-grafana-backend-services-spain-remote-grafana-labs-653004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Senior Backend Engineer - Grafana Backend Services \| Germany \| Remote](https://o11y.jobs/jobs/senior-backend-engineer-grafana-backend-services-germany-remote-grafana-labs-652004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
-| [Backend Engineer (Data Usage)](https://o11y.jobs/jobs/backend-engineer-data-usage-coralogix-0ec67?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Staff Infrastructure Engineer](https://o11y.jobs/jobs/staff-infrastructure-engineer-solarwinds-332005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Manila, Philippines |
 | [Infrastructure Engineering Manager](https://o11y.jobs/jobs/infrastructure-engineering-manager-solarwinds-672005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Manila, Philippines |
 | [Senior Software Engineer (SDE-3)](https://o11y.jobs/jobs/senior-software-engineer-sde-3-solarwinds-921005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Bangalore, India |

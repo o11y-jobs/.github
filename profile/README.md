@@ -6,14 +6,16 @@ _Last updated: 2026-06-30 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Devops Engineer](https://o11y.jobs/jobs/devsecops-engineer-coralogix-b0759?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Software Engineering Team Lead](https://o11y.jobs/jobs/software-engineering-team-lead-coralogix-beb67?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Senior Backend Engineer](https://o11y.jobs/jobs/senior-backend-engineer-coralogix-b9668?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [AI Engineer Team Lead](https://o11y.jobs/jobs/ai-engineer-team-lead-komodor-b5867?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
+| [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Senior Site Reliability Engineer](https://o11y.jobs/jobs/senior-site-reliability-engineer-solarwinds-842005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Brno, Czech Republic |
 | [Sr Backend Engineer - AI](https://o11y.jobs/jobs/sr-backend-engineer-ai-signoz-9c996d?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SigNoz | Remote |
 | [Site Reliability Engineer (FedRAMP / Security) - NY](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ny-coralogix-33c5f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Devops Engineer](https://o11y.jobs/jobs/devsecops-engineer-coralogix-b0759?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Backend Engineer - Data Pipeline](https://o11y.jobs/jobs/backend-engineer-data-pipeline-coralogix-afa61?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Senior Backend Engineer](https://o11y.jobs/jobs/senior-backend-engineer-coralogix-b9668?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Principal Architect](https://o11y.jobs/jobs/principal-architect-coralogix-52363?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Software Engineering Team Lead](https://o11y.jobs/jobs/software-engineering-team-lead-coralogix-beb67?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Product Architect](https://o11y.jobs/jobs/product-architect-komodor-66a65?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-coralogix-ceb66?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [Frontend Engineer](https://o11y.jobs/jobs/frontend-engineer-groundcover-b7635?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Groundcover | Tel Aviv |
@@ -22,7 +24,6 @@ _Last updated: 2026-06-30 · 100 open roles_
 | [Staff Software Engineer - Databases SRE \| Sweden \| Remote](https://o11y.jobs/jobs/staff-software-engineer-databases-sre-sweden-remote-grafana-labs-687004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Staff Software Engineer - Databases SRE \| Spain \| Remote](https://o11y.jobs/jobs/staff-software-engineer-databases-sre-spain-remote-grafana-labs-685004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Staff Software Engineer - Databases SRE \| UK \| Remote](https://o11y.jobs/jobs/staff-software-engineer-databases-sre-uk-remote-grafana-labs-637004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
-| [AI Engineer Team Lead](https://o11y.jobs/jobs/ai-engineer-team-lead-komodor-b5867?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Senior Backend Engineer - OpenTelemetry](https://o11y.jobs/jobs/senior-backend-engineer-opentelemetry-coralogix-ee842?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Software Engineer (Frontend)](https://o11y.jobs/jobs/senior-software-engineer-frontend-new-relic-187008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Hyderabad, India |
 | [Backend Engineer (Data Usage)](https://o11y.jobs/jobs/backend-engineer-data-usage-coralogix-0ec67?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
@@ -73,7 +74,6 @@ _Last updated: 2026-06-30 · 100 open roles_
 | [Software Engineer](https://o11y.jobs/jobs/software-engineer-splunk-149511?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
 | [Sr Product Manager - IC](https://o11y.jobs/jobs/sr-product-manager-ic-signoz-aa8fff?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SigNoz | Remote |
 | [Staff Backend Engineer - Core](https://o11y.jobs/jobs/staff-backend-engineer-core-signoz-a16ae7?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SigNoz | Remote · ₹7000k – ₹10000k |
-| [Senior Backend Engineer](https://o11y.jobs/jobs/senior-backend-engineer-komodor-ea560?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Senior Backend Engineer - Grafana Backend Services \| UK \| Remote](https://o11y.jobs/jobs/senior-backend-engineer-grafana-backend-services-uk-remote-grafana-labs-656004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Senior Backend Engineer - Grafana Backend Services \| Sweden \| Remote](https://o11y.jobs/jobs/senior-backend-engineer-grafana-backend-services-sweden-remote-grafana-labs-654004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Senior Backend Engineer - Grafana Backend Services \| Ireland \| Remote](https://o11y.jobs/jobs/senior-backend-engineer-grafana-backend-services-ireland-remote-grafana-labs-651004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |

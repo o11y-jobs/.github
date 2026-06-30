@@ -6,11 +6,15 @@ _Last updated: 2026-06-30 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
-| [Devops Engineer](https://o11y.jobs/jobs/devsecops-engineer-coralogix-b0759?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Software Engineering Team Lead](https://o11y.jobs/jobs/software-engineering-team-lead-coralogix-beb67?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Cloud and Observability Engineer](https://o11y.jobs/jobs/cloud-and-observability-engineer-coralogix-07c37?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
+| [Software Engineer II - Full Stack - Web Engineering](https://o11y.jobs/jobs/software-engineer-ii-full-stack-web-engineering-elastic-038983?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Spain |
 | [Senior Backend Engineer](https://o11y.jobs/jobs/senior-backend-engineer-coralogix-b9668?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [AI Engineer Team Lead](https://o11y.jobs/jobs/ai-engineer-team-lead-komodor-b5867?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Software Engineering Team Lead](https://o11y.jobs/jobs/software-engineering-team-lead-coralogix-beb67?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Devops Engineer](https://o11y.jobs/jobs/devsecops-engineer-coralogix-b0759?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Mid Fullstack Engineer](https://o11y.jobs/jobs/mid-fullstack-engineer-keep-4a0873?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Keep | Remote |
+| [Senior Software Engineer - Linux](https://o11y.jobs/jobs/senior-software-engineer-linux-datadog-038652?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Tel Aviv, Israel |
+| [AI Engineer Team Lead](https://o11y.jobs/jobs/ai-engineer-team-lead-komodor-b5867?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Senior Site Reliability Engineer](https://o11y.jobs/jobs/senior-site-reliability-engineer-solarwinds-842005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Brno, Czech Republic |
 | [Sr Backend Engineer - AI](https://o11y.jobs/jobs/sr-backend-engineer-ai-signoz-9c996d?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SigNoz | Remote |
 | [Site Reliability Engineer (FedRAMP / Security) - NY](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ny-coralogix-33c5f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
@@ -49,7 +53,6 @@ _Last updated: 2026-06-30 · 100 open roles_
 | [Engineering Manager](https://o11y.jobs/jobs/engineering-manager-sysdig-7c0736?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sysdig | Remote |
 | [Software Engineer (Coralogix AI)](https://o11y.jobs/jobs/software-engineer-coralogix-ai-coralogix-fb254?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Field Reliability Engineer- LATAM](https://o11y.jobs/jobs/field-reliability-engineer-latam-honeycomb-507008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Honeycomb | Remote |
-| [Cloud and Observability Engineer](https://o11y.jobs/jobs/cloud-and-observability-engineer-coralogix-07c37?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [Staff AI Engineer - Grafana AI/ML \| Canada \| Remote](https://o11y.jobs/jobs/staff-ai-engineer-grafana-ai-ml-usa-remote-grafana-labs-673004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Staff AI Engineer - Grafana AI/ML \| USA \| Remote](https://o11y.jobs/jobs/staff-ai-engineer-grafana-ai-ml-usa-remote-grafana-labs-672004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Site Reliability Engineer (FedRAMP / Security) - CA](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ca-coralogix-d0a69?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
@@ -103,9 +106,6 @@ _Last updated: 2026-06-30 · 100 open roles_
 | [Backend Engineer](https://o11y.jobs/jobs/backend-engineer-groundcover-8b736?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Groundcover | Tel Aviv |
 | [Low Level Developer](https://o11y.jobs/jobs/low-level-developer-groundcover-84a64?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Groundcover | Tel Aviv |
 | [Senior Software Engineer - Streaming Platform](https://o11y.jobs/jobs/senior-software-engineer-streaming-platform-noram-datadog-993551?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
-| [Platform Engineer](https://o11y.jobs/jobs/platform-engineer-incident-io-04cd59?utm_source=github&utm_medium=repo&utm_campaign=jobs) | incident.io | Remote · £110k – £200k |
-| [Staff Technical Program Manager](https://o11y.jobs/jobs/staff-technical-program-manager-sentry-c9e38e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $200k – $240k |
-| [Staff Software Engineer - Security Agent](https://o11y.jobs/jobs/staff-software-engineer-k9-security-datadog-007606?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Remote |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

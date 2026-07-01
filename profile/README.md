@@ -6,9 +6,9 @@ _Last updated: 2026-07-01 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
-| [Senior Engineering Manager - Enablement](https://o11y.jobs/jobs/senior-engineering-manager-enablement-honeycomb-118008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Honeycomb | Remote |
 | [Site Reliability Engineer (FedRAMP / Security) - NY](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ny-coralogix-33c5f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Senior Engineering Manager - Enablement](https://o11y.jobs/jobs/senior-engineering-manager-enablement-honeycomb-118008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Honeycomb | Remote |
 | [Cloud and Observability Engineer](https://o11y.jobs/jobs/cloud-and-observability-engineer-coralogix-07c37?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [Software Engineering Team Lead](https://o11y.jobs/jobs/software-engineering-team-lead-coralogix-beb67?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Devops Engineer](https://o11y.jobs/jobs/devsecops-engineer-coralogix-b0759?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
@@ -30,7 +30,6 @@ _Last updated: 2026-07-01 · 100 open roles_
 | [Staff Software Engineer - Databases SRE \| Spain \| Remote](https://o11y.jobs/jobs/staff-software-engineer-databases-sre-spain-remote-grafana-labs-685004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Staff Software Engineer - Databases SRE \| UK \| Remote](https://o11y.jobs/jobs/staff-software-engineer-databases-sre-uk-remote-grafana-labs-637004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Senior Backend Engineer - OpenTelemetry](https://o11y.jobs/jobs/senior-backend-engineer-opentelemetry-coralogix-ee842?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Senior Software Engineer (Frontend)](https://o11y.jobs/jobs/senior-software-engineer-frontend-new-relic-187008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Hyderabad, India |
 | [Backend Engineer (Data Usage)](https://o11y.jobs/jobs/backend-engineer-data-usage-coralogix-0ec67?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Frontend Engineer](https://o11y.jobs/jobs/frontend-engineer-coralogix-1ac6f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [SRE Team Lead (FedRAMP / Security) - NY](https://o11y.jobs/jobs/sre-team-lead-fedramp-security-ny-coralogix-a5868?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
@@ -61,7 +60,6 @@ _Last updated: 2026-07-01 · 100 open roles_
 | [Datadog for Startups - Forward Deployed Engineering Lead](https://o11y.jobs/jobs/datadog-for-startups-forward-deployed-engineering-lead-datadog-003181?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
 | [Senior Engineering Manager, Database](https://o11y.jobs/jobs/senior-engineering-manager-database-timescale-44b226?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Timescale | Remote |
 | [Senior Engineering Manager, Tiger Cloud Apps](https://o11y.jobs/jobs/senior-engineering-manager-tiger-cloud-apps-timescale-72728f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Timescale | Remote |
-| [Senior Manager, Engineering](https://o11y.jobs/jobs/senior-manager-engineering-sumo-logic-984706?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sumo Logic | Bengaluru, Karnataka, India |
 | [Senior Software Engineer](https://o11y.jobs/jobs/senior-software-engineer-splunk-018179?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Galway, Ireland |
 | [Group Product Manager - Code Security](https://o11y.jobs/jobs/group-product-manager-code-security-datadog-023763?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
 | [Senior Software Engineer - Grafana Databases, Managed Services \| Germany \| Remote](https://o11y.jobs/jobs/senior-software-engineer-grafana-databases-managed-services-germany-remote-grafana-labs-850004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
@@ -106,6 +104,8 @@ _Last updated: 2026-07-01 · 100 open roles_
 | [Backend Engineer](https://o11y.jobs/jobs/backend-engineer-groundcover-8b736?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Groundcover | Tel Aviv |
 | [Low Level Developer](https://o11y.jobs/jobs/low-level-developer-groundcover-84a64?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Groundcover | Tel Aviv |
 | [Senior Software Engineer - Streaming Platform](https://o11y.jobs/jobs/senior-software-engineer-streaming-platform-noram-datadog-993551?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
+| [Platform Engineer](https://o11y.jobs/jobs/platform-engineer-incident-io-04cd59?utm_source=github&utm_medium=repo&utm_campaign=jobs) | incident.io | Remote · £110k – £200k |
+| [Staff Technical Program Manager](https://o11y.jobs/jobs/staff-technical-program-manager-sentry-c9e38e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $200k – $240k |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

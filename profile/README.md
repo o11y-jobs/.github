@@ -2,16 +2,22 @@
 
 Curated open roles in observability — OpenTelemetry, Prometheus, Grafana, tracing, metrics, logs, SRE and platform engineering. Auto-updated from [o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs).
 
-_Last updated: 2026-07-02 · 100 open roles_
+_Last updated: 2026-07-03 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
 | [Site Reliability Engineer (FedRAMP / Security) - NY](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ny-coralogix-33c5f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Staff Software Engineer, Infrastructure](https://o11y.jobs/jobs/staff-software-engineer-infrastructure-cribl-922004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
+| [Staff Backend Engineer - Adaptive Telemetry, Databases \| Canada \| Remote](https://o11y.jobs/jobs/staff-backend-engineer-adaptive-telemetry-databases-canada-remote-grafana-labs-385004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
+| [Staff Backend Engineer - Adaptive Telemetry, Databases \| USA \| Remote](https://o11y.jobs/jobs/staff-backend-engineer-adaptive-telemetry-databases-usa-remote-grafana-labs-384004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
+| [Staff Software Engineer - Platform, SysEng \| Canada \| Remote](https://o11y.jobs/jobs/staff-software-engineer-platform-syseng-canada-remote-grafana-labs-293004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
+| [Staff Software Engineer - Platform, SysEng \| USA \| Remote](https://o11y.jobs/jobs/staff-software-engineer-platform-syseng-usa-remote-grafana-labs-292004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
+| [Cloud and Observability Engineer (Remote Role, 6pm - 3am)](https://o11y.jobs/jobs/cloud-and-observability-engineer-remote-role-6pm-3am-coralogix-4d169?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Cloud and Observability Engineer](https://o11y.jobs/jobs/cloud-and-observability-engineer-coralogix-07c37?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
+| [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-coralogix-ceb66?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Software Engineering Team Lead](https://o11y.jobs/jobs/software-engineering-team-lead-coralogix-beb67?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Sr. Customer Technical Architect](https://o11y.jobs/jobs/sr-customer-technical-architect-logicmonitor-044189?utm_source=github&utm_medium=repo&utm_campaign=jobs) | LogicMonitor | San Francisco, CA |
-| [Cloud and Observability Engineer (Remote Role, 6pm - 3am)](https://o11y.jobs/jobs/cloud-and-observability-engineer-remote-role-6pm-3am-coralogix-4d169?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Cloud and Observability Engineer](https://o11y.jobs/jobs/cloud-and-observability-engineer-coralogix-07c37?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [Devops Engineer](https://o11y.jobs/jobs/devsecops-engineer-coralogix-b0759?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Backend Engineer - OpenTelemetry](https://o11y.jobs/jobs/senior-backend-engineer-opentelemetry-coralogix-ee842?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Staff Engineer - Data Semantics](https://o11y.jobs/jobs/staff-engineer-data-semantics-datadog-043560?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Madrid, Spain; Paris, France |
@@ -39,7 +45,6 @@ _Last updated: 2026-07-02 · 100 open roles_
 | [Backend Engineer - Data Pipeline](https://o11y.jobs/jobs/backend-engineer-data-pipeline-coralogix-afa61?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Principal Architect](https://o11y.jobs/jobs/principal-architect-coralogix-52363?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Product Architect](https://o11y.jobs/jobs/product-architect-komodor-66a65?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
-| [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-coralogix-ceb66?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [Frontend Engineer](https://o11y.jobs/jobs/frontend-engineer-groundcover-b7635?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Groundcover | Tel Aviv |
 | [Senior Software Engineer - Streaming Platform Client](https://o11y.jobs/jobs/senior-software-engineer-streaming-platform-client-datadog-035492?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
 | [Staff Software Engineer - Databases SRE \| Germany \| Remote](https://o11y.jobs/jobs/staff-software-engineer-databases-sre-germany-remote-grafana-labs-688004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
@@ -101,11 +106,6 @@ _Last updated: 2026-07-02 · 100 open roles_
 | [Director, Engineering - SPIE (Remote)](https://o11y.jobs/jobs/director-engineering-spie-remote-splunk-015889?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
 | [Senior Staff Engineer, Splunk Platform Identity](https://o11y.jobs/jobs/senior-staff-engineer-splunk-platform-identity-splunk-015011?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Boulder, Colorado, US |
 | [Software Engineering Technical Leader](https://o11y.jobs/jobs/software-engineering-technical-leader-splunk-010516?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
-| [Senior Software Engineer - JVM Language Clients](https://o11y.jobs/jobs/senior-software-engineer-jvm-language-clients-clickhouse-656004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | ClickHouse | Tel Aviv  |
-| [Senior AI Engineer \| Canada \| Remote](https://o11y.jobs/jobs/senior-ai-engineer-canada-remote-grafana-labs-954004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
-| [Senior AI Engineer \| US \| Remote](https://o11y.jobs/jobs/senior-ai-engineer-us-remote-grafana-labs-955004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
-| [Senior Field Engineer \| Germany \| Remote](https://o11y.jobs/jobs/senior-field-engineer-germany-remote-grafana-labs-341004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
-| [Senior AI Data Engineer](https://o11y.jobs/jobs/senior-ai-data-engineer-elastic-989242?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Spain |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

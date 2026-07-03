@@ -6,11 +6,11 @@ _Last updated: 2026-07-03 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
-| [Cloud and Observability Engineer (Remote Role, 6pm - 3am)](https://o11y.jobs/jobs/cloud-and-observability-engineer-remote-role-6pm-3am-coralogix-4d169?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Cloud and Observability Engineer](https://o11y.jobs/jobs/cloud-and-observability-engineer-coralogix-07c37?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [Backend Engineer (Data Usage)](https://o11y.jobs/jobs/backend-engineer-data-usage-coralogix-0ec67?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Site Reliability Engineer (FedRAMP / Security) - NY](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ny-coralogix-33c5f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Cloud and Observability Engineer](https://o11y.jobs/jobs/cloud-and-observability-engineer-coralogix-07c37?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
+| [Cloud and Observability Engineer (Remote Role, 6pm - 3am)](https://o11y.jobs/jobs/cloud-and-observability-engineer-remote-role-6pm-3am-coralogix-4d169?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Site Reliability Engineer (FedRAMP / Security) - NY](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ny-coralogix-33c5f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Devops Engineer](https://o11y.jobs/jobs/devsecops-engineer-coralogix-b0759?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-coralogix-ceb66?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [Staff Software Engineer, Infrastructure](https://o11y.jobs/jobs/staff-software-engineer-infrastructure-cribl-922004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
@@ -104,8 +104,8 @@ _Last updated: 2026-07-03 · 100 open roles_
 | [AI Operations Security Engineer](https://o11y.jobs/jobs/ai-operations-security-engineer-splunk-013697?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Galway, Ireland |
 | [Tetragon Engineering Manager - Isovalent](https://o11y.jobs/jobs/tetragon-engineering-manager-isovalent-splunk-012400?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
 | [Tetragon Software Engineering Technical Leader](https://o11y.jobs/jobs/tetragon-software-engineering-technical-leader-splunk-012994?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
-| [Director, Engineering - SPIE (Remote)](https://o11y.jobs/jobs/director-engineering-spie-remote-splunk-015889?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
 | [Software Engineering Technical Leader](https://o11y.jobs/jobs/software-engineering-technical-leader-splunk-010516?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
+| [Senior Software Engineer - JVM Language Clients](https://o11y.jobs/jobs/senior-software-engineer-jvm-language-clients-clickhouse-656004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | ClickHouse | Tel Aviv  |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

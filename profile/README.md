@@ -8,6 +8,7 @@ _Last updated: 2026-07-09 · 100 open roles_
 | --- | --- | --- |
 | [Site Reliability Engineer (FedRAMP / Security) - NY](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ny-coralogix-33c5f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Senior Software Engineer - Python and Data Ecosystem](https://o11y.jobs/jobs/senior-software-engineer-python-and-data-ecosystem-clickhouse-518004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | ClickHouse | Remote |
 | [Senior Backend Engineer - OpenTelemetry](https://o11y.jobs/jobs/senior-backend-engineer-opentelemetry-coralogix-ee842?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Backend Engineer - Data Pipeline](https://o11y.jobs/jobs/backend-engineer-data-pipeline-coralogix-afa61?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Site Reliability Engineer (FedRAMP / Security) - CA](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ca-coralogix-d0a69?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
@@ -105,7 +106,6 @@ _Last updated: 2026-07-09 · 100 open roles_
 | [Senior Software Engineer - Identity & Authorization Platform](https://o11y.jobs/jobs/senior-software-engineer-identity-authorization-platform-clickhouse-901004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | ClickHouse | Remote |
 | [Principal Software Engineer - Search Infra - Elasticsearch](https://o11y.jobs/jobs/principal-software-engineer-search-scaling-elasticsearch-elastic-020871?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Sweden |
 | [Principal Software Engineer - Vector Search - Elasticsearch](https://o11y.jobs/jobs/principal-software-engineer-vector-search-elasticsearch-elastic-020846?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Sweden |
-| [Manager- Software Engineering](https://o11y.jobs/jobs/manager-software-engineering-new-relic-109008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Hyderabad, India |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

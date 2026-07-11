@@ -2,12 +2,15 @@
 
 Curated open roles in observability — OpenTelemetry, Prometheus, Grafana, tracing, metrics, logs, SRE and platform engineering. Auto-updated from [o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs).
 
-_Last updated: 2026-07-10 · 100 open roles_
+_Last updated: 2026-07-11 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
-| [Site Reliability Engineer (FedRAMP / Security) - CA](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ca-coralogix-d0a69?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Principal Software Engineer](https://o11y.jobs/jobs/principal-software-engineer-splunk-019247?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Fulton, Maryland, US |
+| [Principal Tetragon Software Engineer](https://o11y.jobs/jobs/principal-tetragon-software-engineer-splunk-012996?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
 | [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Site Reliability Engineer (FedRAMP / Security) - CA](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ca-coralogix-d0a69?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Staff Software Engineer, AI Developer Tooling](https://o11y.jobs/jobs/staff-software-engineer-ai-developer-tooling-sentry-529747?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $240k – $320k |
 | [Staff Software Engineer - Databases, Tempo \| United Kingdom \| Remote](https://o11y.jobs/jobs/staff-software-engineer-databases-tempo-united-kingdom-remote-grafana-labs-830004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Staff Software Engineer - Databases, Tempo \| Sweden \| Remote](https://o11y.jobs/jobs/staff-software-engineer-databases-tempo-sweden-remote-grafana-labs-827004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Staff Software Engineer - Databases, Tempo \| Spain \| Remote](https://o11y.jobs/jobs/staff-software-engineer-databases-tempo-spain-remote-grafana-labs-824004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
@@ -103,9 +106,6 @@ _Last updated: 2026-07-10 · 100 open roles_
 | [Manager, Software Engineering, Search Discovery](https://o11y.jobs/jobs/manager-software-engineering-search-discovery-cribl-828004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
 | [Datadog for Startups - Forward Deployed Engineering Lead](https://o11y.jobs/jobs/datadog-for-startups-forward-deployed-engineering-lead-datadog-003181?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
 | [Senior Engineering Manager, Database](https://o11y.jobs/jobs/senior-engineering-manager-database-timescale-44b226?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Timescale | Remote |
-| [Senior Engineering Manager, Tiger Cloud Apps](https://o11y.jobs/jobs/senior-engineering-manager-tiger-cloud-apps-timescale-72728f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Timescale | Remote |
-| [Senior Software Engineer](https://o11y.jobs/jobs/senior-software-engineer-splunk-018179?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Galway, Ireland |
-| [Group Product Manager - Code Security](https://o11y.jobs/jobs/group-product-manager-code-security-datadog-023763?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

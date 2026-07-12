@@ -2,10 +2,12 @@
 
 Curated open roles in observability — OpenTelemetry, Prometheus, Grafana, tracing, metrics, logs, SRE and platform engineering. Auto-updated from [o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs).
 
-_Last updated: 2026-07-11 · 100 open roles_
+_Last updated: 2026-07-12 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Backend Engineer - Data Pipeline](https://o11y.jobs/jobs/backend-engineer-data-pipeline-coralogix-9fa66?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-coralogix-ceb66?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Site Reliability Engineer (FedRAMP / Security) - NY](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ny-coralogix-33c5f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Backend Engineer](https://o11y.jobs/jobs/senior-backend-engineer-coralogix-b9668?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
@@ -20,7 +22,6 @@ _Last updated: 2026-07-11 · 100 open roles_
 | [Staff Software Engineer - Databases, Tempo \| Spain \| Remote](https://o11y.jobs/jobs/staff-software-engineer-databases-tempo-spain-remote-grafana-labs-824004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Staff Software Engineer - Databases, Tempo \| Ireland \| Remote](https://o11y.jobs/jobs/staff-software-engineer-databases-tempo-ireland-remote-grafana-labs-828004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Staff Software Engineer - Databases, Tempo \| Germany \| Remote](https://o11y.jobs/jobs/staff-software-engineer-databases-tempo-germany-remote-grafana-labs-829004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
-| [Backend Engineer - Data Pipeline](https://o11y.jobs/jobs/backend-engineer-data-pipeline-coralogix-afa61?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Software Engineer 2 (Frontend)](https://o11y.jobs/jobs/software-engineer-2-frontend-new-relic-503008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Barcelona, Spain |
 | [Software Engineer (Coralogix AI)](https://o11y.jobs/jobs/software-engineer-coralogix-ai-coralogix-fb254?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Principal Architect](https://o11y.jobs/jobs/principal-architect-coralogix-52363?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
@@ -53,7 +54,6 @@ _Last updated: 2026-07-11 · 100 open roles_
 | [Sr Software Engineer, License Manager](https://o11y.jobs/jobs/sr-software-engineer-license-manager-splunk-019060?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Krakow, Poland |
 | [Software Engineer (Shared Components)](https://o11y.jobs/jobs/software-engineer-shared-components-splunk-018628?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Galway, Ireland |
 | [Engineering Manager II - APM DCS Platform Delivery](https://o11y.jobs/jobs/engineering-manager-ii-apm-dcs-platform-delivery-datadog-046089?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Remote |
-| [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-coralogix-ceb66?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [DevRel](https://o11y.jobs/jobs/devrel-groundcover-1336f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Groundcover | Remote |
 | [Low Level Developer](https://o11y.jobs/jobs/low-level-developer-groundcover-84a64?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Groundcover | Tel Aviv |
 | [Infra Engineer](https://o11y.jobs/jobs/infra-engineer-groundcover-aba47?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Groundcover | Tel Aviv |

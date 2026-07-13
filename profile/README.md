@@ -2,7 +2,7 @@
 
 Curated open roles in observability — OpenTelemetry, Prometheus, Grafana, tracing, metrics, logs, SRE and platform engineering. Auto-updated from [o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs).
 
-_Last updated: 2026-07-12 · 100 open roles_
+_Last updated: 2026-07-13 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |

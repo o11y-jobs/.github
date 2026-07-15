@@ -6,13 +6,18 @@ _Last updated: 2026-07-15 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
-| [Backend Engineer - Data Pipeline](https://o11y.jobs/jobs/backend-engineer-data-pipeline-coralogix-9fa66?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [SRE Team Lead (FedRAMP / Security) - NY](https://o11y.jobs/jobs/sre-team-lead-fedramp-security-ny-coralogix-a5868?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Frontend Engineer](https://o11y.jobs/jobs/frontend-engineer-coralogix-1ac6f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Platform Security - Site Reliability Engineer II](https://o11y.jobs/jobs/platform-security-site-reliability-engineer-ii-elastic-064782?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Greece |
 | [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [SRE Team Lead (FedRAMP / Security) - NY](https://o11y.jobs/jobs/sre-team-lead-fedramp-security-ny-coralogix-a5868?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Principal Architect](https://o11y.jobs/jobs/principal-architect-coralogix-52363?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Senior DevOps Engineer](https://o11y.jobs/jobs/senior-devops-engineer-logicmonitor-063912?utm_source=github&utm_medium=repo&utm_campaign=jobs) | LogicMonitor | Pune, India |
+| [Senior Product Manager, Logs - Observability](https://o11y.jobs/jobs/senior-product-manager-logs-observability-elastic-066646?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Canada |
+| [Senior Software Engineer - Cloud Partner Integrations](https://o11y.jobs/jobs/senior-software-engineer-cloud-partner-integrations-clickhouse-420004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | ClickHouse | Remote |
+| [Backend Engineer - Data Pipeline](https://o11y.jobs/jobs/backend-engineer-data-pipeline-coralogix-9fa66?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Site Reliability Engineer (FedRAMP / Security) - NY](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ny-coralogix-33c5f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Site Reliability Engineer](https://o11y.jobs/jobs/site-reliability-engineer-forward-networks-601003?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Forward Networks | Santa Clara, CA |
 | [Staff Product Manager, Observability Data Platforms](https://o11y.jobs/jobs/staff-product-manager-observability-data-platforms-datadog-065187?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
-| [Frontend Engineer](https://o11y.jobs/jobs/frontend-engineer-coralogix-53e60?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Technical Migration Team Lead](https://o11y.jobs/jobs/technical-migration-team-lead-coralogix-b2e61?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Fullstack Software Developer (Backend Focused)](https://o11y.jobs/jobs/senior-fullstack-software-developer-backend-focused-opslevel-6c1632?utm_source=github&utm_medium=repo&utm_campaign=jobs) | OpsLevel | Remote |
 | [Technical Migration Engineer](https://o11y.jobs/jobs/technical-migration-engineer-coralogix-d2e69?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
@@ -24,7 +29,6 @@ _Last updated: 2026-07-15 · 100 open roles_
 | [Infra Engineer](https://o11y.jobs/jobs/infra-engineer-groundcover-aba47?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Groundcover | Tel Aviv |
 | [Frontend Engineer](https://o11y.jobs/jobs/frontend-engineer-groundcover-b7635?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Groundcover | Tel Aviv |
 | [Backend Engineer](https://o11y.jobs/jobs/backend-engineer-groundcover-8b736?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Groundcover | Tel Aviv |
-| [Principal Architect](https://o11y.jobs/jobs/principal-architect-coralogix-52363?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Manager I, Engineering - APM Serverless](https://o11y.jobs/jobs/manager-i-engineering-apm-serverless-datadog-060821?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Remote |
 | [Manager I, Engineering - Experiments](https://o11y.jobs/jobs/manager-i-engineering-experiments-datadog-060788?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
 | [Senior Site Reliability Engineer- Remote](https://o11y.jobs/jobs/senior-site-reliability-engineer-remote-clickhouse-708004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | ClickHouse | Germany |
@@ -83,7 +87,6 @@ _Last updated: 2026-07-15 · 100 open roles_
 | [Staff Software Engineer – Identity and Access, Identity Squads \| Ireland \| Remote](https://o11y.jobs/jobs/staff-software-engineer-identity-and-access-identity-squads-ireland-remote-grafana-labs-595004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Staff Software Engineer – Identity and Access, Identity Squads \| UK \| Remote](https://o11y.jobs/jobs/staff-software-engineer-identity-and-access-identity-squads-uk-remote-grafana-labs-600004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Staff Software Engineer – Identity and Access, Identity Squads \| Spain \| Remote](https://o11y.jobs/jobs/staff-software-engineer-identity-and-access-identity-squads-spain-remote-grafana-labs-597004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
-| [Technical Escalations Engineer 2 (Service Management - Incident Response) - APJ](https://o11y.jobs/jobs/technical-escalations-engineer-2-service-management-incident-response-apj-datadog-037765?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Singapore, Singapore |
 | [Senior Engineering Manager - Enablement](https://o11y.jobs/jobs/senior-engineering-manager-enablement-honeycomb-118008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Honeycomb | Remote |
 | [Mid Fullstack Engineer](https://o11y.jobs/jobs/mid-fullstack-engineer-keep-4a0873?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Keep | Remote |
 | [Senior Software Engineer - Linux](https://o11y.jobs/jobs/senior-software-engineer-linux-datadog-038652?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Tel Aviv, Israel |
@@ -103,9 +106,6 @@ _Last updated: 2026-07-15 · 100 open roles_
 | [Lead Cloud Infrastructure Engineer / Site Reliability Engineer (SRE)](https://o11y.jobs/jobs/lead-cloud-infrastructure-engineer-site-reliability-engineer-sre-corelight-025820?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Corelight | North America |
 | [Senior Software Engineer - Grafana Cloud Observability Provider \| Sweden \| Remote](https://o11y.jobs/jobs/senior-software-engineer-grafana-cloud-observability-provider-sweden-remote-grafana-labs-649004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Senior Software Engineer - Grafana Cloud Observability Provider \| Spain \| Remote](https://o11y.jobs/jobs/senior-software-engineer-grafana-cloud-observability-provider-spain-remote-grafana-labs-648004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
-| [Senior Software Engineer - Grafana Cloud Observability Provider \| Germany \| Remote](https://o11y.jobs/jobs/senior-software-engineer-grafana-cloud-observability-provider-germany-remote-grafana-labs-645004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
-| [Senior Software Engineer - Grafana Cloud Observability Provider \| UK \| Remote](https://o11y.jobs/jobs/senior-software-engineer-grafana-cloud-observability-provider-uk-remote-grafana-labs-597004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
-| [Lead Software Engineer - Frontend](https://o11y.jobs/jobs/lead-software-engineer-frontend-new-relic-190008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Hyderabad, India |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

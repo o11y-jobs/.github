@@ -2,10 +2,13 @@
 
 Curated open roles in observability — OpenTelemetry, Prometheus, Grafana, tracing, metrics, logs, SRE and platform engineering. Auto-updated from [o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs).
 
-_Last updated: 2026-07-15 · 100 open roles_
+_Last updated: 2026-07-16 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Senior Software Engineering Manager (Hybrid)](https://o11y.jobs/jobs/senior-software-engineering-manager-hybrid-splunk-018813?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | San Jose, California, US |
+| [Site Reliability Engineer (FedRAMP / Security) - NY](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ny-coralogix-33c5f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Security Engineer](https://o11y.jobs/jobs/security-engineer-incident-io-d249da?utm_source=github&utm_medium=repo&utm_campaign=jobs) | incident.io | Remote · £110k – £200k |
 | [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Cloud and Observability Engineer](https://o11y.jobs/jobs/cloud-and-observability-engineer-coralogix-07c37?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [SRE Team Lead (FedRAMP / Security) - NY](https://o11y.jobs/jobs/sre-team-lead-fedramp-security-ny-coralogix-a5868?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
@@ -22,7 +25,6 @@ _Last updated: 2026-07-15 · 100 open roles_
 | [Backend Engineer - Data Pipeline](https://o11y.jobs/jobs/backend-engineer-data-pipeline-coralogix-9fa66?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Staff Software Engineer, MWS Team](https://o11y.jobs/jobs/staff-software-engineer-mws-team-splunk-019195?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
 | [Staff Software Engineer](https://o11y.jobs/jobs/staff-software-engineer-splunk-019201?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
-| [Site Reliability Engineer (FedRAMP / Security) - NY](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ny-coralogix-33c5f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Site Reliability Engineer](https://o11y.jobs/jobs/site-reliability-engineer-forward-networks-601003?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Forward Networks | Santa Clara, CA |
 | [Staff Product Manager, Observability Data Platforms](https://o11y.jobs/jobs/staff-product-manager-observability-data-platforms-datadog-065187?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
 | [Technical Migration Team Lead](https://o11y.jobs/jobs/technical-migration-team-lead-coralogix-b2e61?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
@@ -57,7 +59,6 @@ _Last updated: 2026-07-15 · 100 open roles_
 | [Senior Software Engineer with Golang](https://o11y.jobs/jobs/senior-software-engineer-with-golang-solarwinds-902005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Brno, Czech Republic |
 | [Manager I, Engineering - Source Code Integration](https://o11y.jobs/jobs/manager-i-engineering-source-code-integration-datadog-051068?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Paris, France |
 | [Staff Backend Engineer - Second Horizon \| Canada \| Remote](https://o11y.jobs/jobs/staff-backend-engineer-second-horizon-canada-remote-grafana-labs-473004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
-| [Security Engineer](https://o11y.jobs/jobs/security-engineer-incident-io-d249da?utm_source=github&utm_medium=repo&utm_campaign=jobs) | incident.io | Remote · £110k – £200k |
 | [Senior Site Reliability Engineer](https://o11y.jobs/jobs/senior-site-reliability-engineer-cribl-420004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
 | [Manager, Software Engineering](https://o11y.jobs/jobs/manager-software-engineering-new-relic-868008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Bangalore, India |
 | [Software Engineering Technical Leader](https://o11y.jobs/jobs/software-engineering-technical-leader-splunk-019137?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Krakow, Poland |
@@ -105,7 +106,6 @@ _Last updated: 2026-07-15 · 100 open roles_
 | [Manager II, Engineering - Logs](https://o11y.jobs/jobs/manager-ii-engineering-logs-datadog-031320?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
 | [Senior Product Manager - Agent Integrations](https://o11y.jobs/jobs/senior-product-manager-agent-integrations-datadog-030599?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
 | [Staff Software Engineer (Cloud Provider Team)](https://o11y.jobs/jobs/staff-software-engineer-cloud-provider-team-sysdig-085ca6?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sysdig | Remote |
-| [Senior Manager, Software Engineering](https://o11y.jobs/jobs/senior-manager-software-engineering-new-relic-138008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Hyderabad, India |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

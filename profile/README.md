@@ -6,10 +6,10 @@ _Last updated: 2026-07-16 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
-| [Senior Software Engineering Manager (Hybrid)](https://o11y.jobs/jobs/senior-software-engineering-manager-hybrid-splunk-018813?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | San Jose, California, US |
 | [Site Reliability Engineer (FedRAMP / Security) - NY](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ny-coralogix-33c5f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Security Engineer](https://o11y.jobs/jobs/security-engineer-incident-io-d249da?utm_source=github&utm_medium=repo&utm_campaign=jobs) | incident.io | Remote · £110k – £200k |
 | [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Senior Software Engineering Manager (Hybrid)](https://o11y.jobs/jobs/senior-software-engineering-manager-hybrid-splunk-018813?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | San Jose, California, US |
+| [Security Engineer](https://o11y.jobs/jobs/security-engineer-incident-io-d249da?utm_source=github&utm_medium=repo&utm_campaign=jobs) | incident.io | Remote · £110k – £200k |
 | [Cloud and Observability Engineer](https://o11y.jobs/jobs/cloud-and-observability-engineer-coralogix-07c37?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [SRE Team Lead (FedRAMP / Security) - NY](https://o11y.jobs/jobs/sre-team-lead-fedramp-security-ny-coralogix-a5868?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Principal Software Engineer - Search Infra - Elasticsearch](https://o11y.jobs/jobs/principal-software-engineer-search-infra-elasticsearch-elastic-067101?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Canada |

@@ -6,7 +6,10 @@ _Last updated: 2026-07-17 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Technical Escalations Engineer 2 (Network Monitoring) - EMEA](https://o11y.jobs/jobs/technical-escalations-engineer-2-network-monitoring-emea-datadog-064226?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Dublin, Ireland; Paris, France |
 | [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Manager, Software Engineering](https://o11y.jobs/jobs/manager-software-engineering-new-relic-847008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Atlanta, Georgia, USA; Austin, Texas, USA; Boise, Idaho, USA; Chicago, Illinois, USA; Cleveland, Ohio, USA; Detroit, Michigan, USA; Indianapolis, Indiana, USA; Las Vegas, Nevada, USA; Miami, Florida, USA; Milwaukee, Wisconsin, USA; Orlando, Florida, USA; Phoenix, Arizona, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA |
+| [Tech Lead, Agent Framework - Observability](https://o11y.jobs/jobs/tech-lead-agent-framework-observability-elastic-059920?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Spain |
 | [Cloud and Observability Engineer (Remote Role, 6pm - 3am)](https://o11y.jobs/jobs/cloud-and-observability-engineer-remote-role-6pm-3am-coralogix-4d169?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Cloud and Observability Engineer](https://o11y.jobs/jobs/cloud-and-observability-engineer-coralogix-07c37?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [Technical Migration Team Lead](https://o11y.jobs/jobs/technical-migration-team-lead-coralogix-b2e61?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
@@ -70,7 +73,6 @@ _Last updated: 2026-07-17 · 100 open roles_
 | [Manager I, Engineering - Source Code Integration](https://o11y.jobs/jobs/manager-i-engineering-source-code-integration-datadog-051068?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Paris, France |
 | [Staff Backend Engineer - Second Horizon \| Canada \| Remote](https://o11y.jobs/jobs/staff-backend-engineer-second-horizon-canada-remote-grafana-labs-473004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Senior Site Reliability Engineer](https://o11y.jobs/jobs/senior-site-reliability-engineer-cribl-420004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
-| [Manager, Software Engineering](https://o11y.jobs/jobs/manager-software-engineering-new-relic-868008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Bangalore, India |
 | [Sr. Software Engineer - Systems Insights](https://o11y.jobs/jobs/sr-software-engineer-systems-insights-cribl-907004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
 | [Manager I, Engineering - Code Coverage](https://o11y.jobs/jobs/manager-i-engineering-code-coverage-datadog-048588?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Madrid, Spain |
 | [Staff Backend Engineer - Alerting \| UK \| Remote](https://o11y.jobs/jobs/staff-backend-engineer-alerting-uk-remote-grafana-labs-876004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
@@ -78,7 +80,6 @@ _Last updated: 2026-07-17 · 100 open roles_
 | [Staff Backend Engineer - Alerting \| Ireland \| Remote](https://o11y.jobs/jobs/staff-backend-engineer-alerting-ireland-remote-grafana-labs-874004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Staff Backend Engineer - Alerting \| Spain \| Remote](https://o11y.jobs/jobs/staff-backend-engineer-alerting-spain-remote-grafana-labs-873004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Staff Backend Engineer - Alerting \| Germany \| Remote](https://o11y.jobs/jobs/staff-backend-engineer-alerting-germany-remote-grafana-labs-872004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
-| [Sr Software Engineer, License Manager](https://o11y.jobs/jobs/sr-software-engineer-license-manager-splunk-019060?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Krakow, Poland |
 | [Software Engineer (Shared Components)](https://o11y.jobs/jobs/software-engineer-shared-components-splunk-018628?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Galway, Ireland |
 | [Software Engineer 2](https://o11y.jobs/jobs/software-engineer-2-new-relic-277008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Hyderabad, India |
 | [DevRel](https://o11y.jobs/jobs/devrel-groundcover-1336f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Groundcover | Remote |
@@ -105,7 +106,6 @@ _Last updated: 2026-07-17 · 100 open roles_
 | [Senior Site Reliability Engineer](https://o11y.jobs/jobs/senior-site-reliability-engineer-solarwinds-842005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Brno, Czech Republic |
 | [Sr Backend Engineer - AI](https://o11y.jobs/jobs/sr-backend-engineer-ai-signoz-9c996d?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SigNoz | Remote |
 | [Senior Software Engineer - Streaming Platform Client](https://o11y.jobs/jobs/senior-software-engineer-streaming-platform-client-datadog-035492?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
-| [Staff Software Engineer - Databases SRE \| Germany \| Remote](https://o11y.jobs/jobs/staff-software-engineer-databases-sre-germany-remote-grafana-labs-688004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

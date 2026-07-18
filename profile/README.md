@@ -7,8 +7,9 @@ _Last updated: 2026-07-18 · 100 open roles_
 | Role | Company | Details |
 | --- | --- | --- |
 | [Cloud and Observability Engineer](https://o11y.jobs/jobs/cloud-and-observability-engineer-coralogix-07c37?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
-| [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-coralogix-ceb66?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [Site Reliability Engineer (FedRAMP / Security) - NY](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ny-coralogix-33c5f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Software Engineer II (Full-Time) - United States](https://o11y.jobs/jobs/software-engineer-ii-full-time-united-states-splunk-019205?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
 | [Backend Engineer - Data Pipeline](https://o11y.jobs/jobs/backend-engineer-data-pipeline-coralogix-9fa66?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Technical Escalations Engineer 2 (Network Monitoring) - EMEA](https://o11y.jobs/jobs/technical-escalations-engineer-2-network-monitoring-emea-datadog-064226?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Dublin, Ireland; Paris, France |
@@ -55,7 +56,6 @@ _Last updated: 2026-07-18 · 100 open roles_
 | [Manager I, Engineering - Experiments](https://o11y.jobs/jobs/manager-i-engineering-experiments-datadog-060788?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
 | [Senior Site Reliability Engineer- Remote](https://o11y.jobs/jobs/senior-site-reliability-engineer-remote-clickhouse-708004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | ClickHouse | Germany |
 | [Staff Backend Engineer - Second Horizon \| US \| Remote](https://o11y.jobs/jobs/staff-backend-engineer-second-horizon-us-remote-grafana-labs-603004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
-| [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-coralogix-ceb66?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [Principal Software Engineer](https://o11y.jobs/jobs/principal-software-engineer-splunk-019247?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Fulton, Maryland, US |
 | [Principal Tetragon Software Engineer](https://o11y.jobs/jobs/principal-tetragon-software-engineer-splunk-012996?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
 | [Staff Software Engineer, AI Developer Tooling](https://o11y.jobs/jobs/staff-software-engineer-ai-developer-tooling-sentry-529747?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $240k – $400k |

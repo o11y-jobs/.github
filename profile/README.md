@@ -6,8 +6,8 @@ _Last updated: 2026-07-19 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
-| [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Software Engineer (Coralogix AI)](https://o11y.jobs/jobs/software-engineer-coralogix-ai-coralogix-fb254?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Frontend Engineer](https://o11y.jobs/jobs/frontend-engineer-coralogix-53e60?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Technical Migration Engineer](https://o11y.jobs/jobs/technical-migration-engineer-coralogix-d2e69?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Site Reliability Engineer (FedRAMP / Security) - NY](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ny-coralogix-33c5f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
@@ -15,6 +15,7 @@ _Last updated: 2026-07-19 · 100 open roles_
 | [Site Reliability Engineer](https://o11y.jobs/jobs/site-reliability-engineer-coralogix-62e68?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Technical Support & QA Automation Engineer](https://o11y.jobs/jobs/technical-support-qa-automation-engineer-coralogix-f866a?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Bucharest, Romania |
 | [Principal Architect](https://o11y.jobs/jobs/principal-architect-coralogix-52363?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Software Engineer, Delivery Platform](https://o11y.jobs/jobs/software-engineer-delivery-platform-splunk-017487?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
 | [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-coralogix-ceb66?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [Cloud and Observability Engineer](https://o11y.jobs/jobs/cloud-and-observability-engineer-coralogix-07c37?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [Software Engineer II (Full-Time) - United States](https://o11y.jobs/jobs/software-engineer-ii-full-time-united-states-splunk-019205?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
@@ -45,7 +46,6 @@ _Last updated: 2026-07-19 · 100 open roles_
 | [Site Reliability Engineer](https://o11y.jobs/jobs/site-reliability-engineer-tinybird-accc37?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Tinybird | Remote · €58k – €97k |
 | [Senior Software Engineer - Cloud Partner Integrations](https://o11y.jobs/jobs/senior-software-engineer-cloud-partner-integrations-clickhouse-420004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | ClickHouse | Remote |
 | [Staff Software Engineer, MWS Team](https://o11y.jobs/jobs/staff-software-engineer-mws-team-splunk-019195?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
-| [Staff Software Engineer](https://o11y.jobs/jobs/staff-software-engineer-splunk-019201?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
 | [Site Reliability Engineer](https://o11y.jobs/jobs/site-reliability-engineer-forward-networks-601003?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Forward Networks | Santa Clara, CA |
 | [Staff Product Manager, Observability Data Platforms](https://o11y.jobs/jobs/staff-product-manager-observability-data-platforms-datadog-065187?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
 | [Senior Fullstack Software Developer (Backend Focused)](https://o11y.jobs/jobs/senior-fullstack-software-developer-backend-focused-opslevel-6c1632?utm_source=github&utm_medium=repo&utm_campaign=jobs) | OpsLevel | Remote |
@@ -75,6 +75,7 @@ _Last updated: 2026-07-19 · 100 open roles_
 | [Manager I, Engineering - Source Code Integration](https://o11y.jobs/jobs/manager-i-engineering-source-code-integration-datadog-051068?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Paris, France |
 | [Staff Backend Engineer - Second Horizon \| Canada \| Remote](https://o11y.jobs/jobs/staff-backend-engineer-second-horizon-canada-remote-grafana-labs-473004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Senior Site Reliability Engineer](https://o11y.jobs/jobs/senior-site-reliability-engineer-cribl-420004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
+| [Staff Software Engineer](https://o11y.jobs/jobs/staff-software-engineer-splunk-019183?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Krakow, Poland |
 | [Sr. Software Engineer - Systems Insights](https://o11y.jobs/jobs/sr-software-engineer-systems-insights-cribl-907004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
 | [Manager I, Engineering - Code Coverage](https://o11y.jobs/jobs/manager-i-engineering-code-coverage-datadog-048588?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Madrid, Spain |
 | [Staff Backend Engineer - Alerting \| UK \| Remote](https://o11y.jobs/jobs/staff-backend-engineer-alerting-uk-remote-grafana-labs-876004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
@@ -105,7 +106,6 @@ _Last updated: 2026-07-19 · 100 open roles_
 | [Senior Engineering Manager - Enablement](https://o11y.jobs/jobs/senior-engineering-manager-enablement-honeycomb-118008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Honeycomb | Remote |
 | [Mid Fullstack Engineer](https://o11y.jobs/jobs/mid-fullstack-engineer-keep-4a0873?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Keep | Remote |
 | [Senior Software Engineer - Linux](https://o11y.jobs/jobs/senior-software-engineer-linux-datadog-038652?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Tel Aviv, Israel |
-| [Senior Site Reliability Engineer](https://o11y.jobs/jobs/senior-site-reliability-engineer-solarwinds-842005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Brno, Czech Republic |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

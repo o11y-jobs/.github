@@ -6,6 +6,7 @@ _Last updated: 2026-07-19 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Principal Architect](https://o11y.jobs/jobs/principal-architect-coralogix-52363?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-coralogix-ceb66?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [Cloud and Observability Engineer](https://o11y.jobs/jobs/cloud-and-observability-engineer-coralogix-07c37?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
@@ -38,7 +39,6 @@ _Last updated: 2026-07-19 · 100 open roles_
 | [Security Engineer](https://o11y.jobs/jobs/security-engineer-incident-io-d249da?utm_source=github&utm_medium=repo&utm_campaign=jobs) | incident.io | Remote · £110k – £200k |
 | [Principal Software Engineer - Search Infra - Elasticsearch](https://o11y.jobs/jobs/principal-software-engineer-search-infra-elasticsearch-elastic-067101?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Canada |
 | [Principal Software Engineer  - Search Infra - Elasticsearch -](https://o11y.jobs/jobs/principal-software-engineer-search-infra-elasticsearch-elastic-067100?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | United States |
-| [Principal Architect](https://o11y.jobs/jobs/principal-architect-coralogix-52363?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior DevOps Engineer](https://o11y.jobs/jobs/senior-devops-engineer-logicmonitor-063912?utm_source=github&utm_medium=repo&utm_campaign=jobs) | LogicMonitor | Pune, India |
 | [Senior Product Manager, Logs - Observability](https://o11y.jobs/jobs/senior-product-manager-logs-observability-elastic-066646?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Canada |
 | [Site Reliability Engineer](https://o11y.jobs/jobs/site-reliability-engineer-tinybird-accc37?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Tinybird | Remote · €58k – €97k |

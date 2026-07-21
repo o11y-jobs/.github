@@ -6,10 +6,10 @@ _Last updated: 2026-07-21 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
-| [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Cloud and Observability Engineer (Remote Role, 6pm - 3am)](https://o11y.jobs/jobs/cloud-and-observability-engineer-remote-role-6pm-3am-coralogix-4d169?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Frontend Engineer](https://o11y.jobs/jobs/frontend-engineer-coralogix-53e60?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Cloud and Observability Engineer](https://o11y.jobs/jobs/cloud-and-observability-engineer-coralogix-07c37?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
+| [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Frontend Engineer](https://o11y.jobs/jobs/frontend-engineer-coralogix-1ac6f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Software Engineer - Databases, SRE \| USA \| Remote](https://o11y.jobs/jobs/senior-software-engineer-databases-sre-usa-remote-grafana-labs-897004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Senior Software Engineer - Databases, SRE \| Canada \| Remote](https://o11y.jobs/jobs/senior-software-engineer-databases-sre-canada-remote-grafana-labs-900004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Senior Software Engineer, Developer Infrastructure](https://o11y.jobs/jobs/senior-software-engineer-developer-infrastructure-sentry-b94a3e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $190k – $280k |

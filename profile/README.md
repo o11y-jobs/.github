@@ -2,21 +2,24 @@
 
 Curated open roles in observability — OpenTelemetry, Prometheus, Grafana, tracing, metrics, logs, SRE and platform engineering. Auto-updated from [o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs).
 
-_Last updated: 2026-07-20 · 100 open roles_
+_Last updated: 2026-07-21 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Cloud and Observability Engineer (Remote Role, 6pm - 3am)](https://o11y.jobs/jobs/cloud-and-observability-engineer-remote-role-6pm-3am-coralogix-4d169?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Frontend Engineer](https://o11y.jobs/jobs/frontend-engineer-coralogix-1ac6f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Frontend Engineer](https://o11y.jobs/jobs/frontend-engineer-coralogix-53e60?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Cloud and Observability Engineer](https://o11y.jobs/jobs/cloud-and-observability-engineer-coralogix-07c37?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
+| [Senior Software Engineer - Databases, SRE \| USA \| Remote](https://o11y.jobs/jobs/senior-software-engineer-databases-sre-usa-remote-grafana-labs-897004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
+| [Senior Software Engineer - Databases, SRE \| Canada \| Remote](https://o11y.jobs/jobs/senior-software-engineer-databases-sre-canada-remote-grafana-labs-900004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
+| [Senior Software Engineer, Developer Infrastructure](https://o11y.jobs/jobs/senior-software-engineer-developer-infrastructure-sentry-b94a3e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $190k – $280k |
 | [Senior Software Engineer - Storage Engine - Elasticsearch](https://o11y.jobs/jobs/senior-software-engineer-storage-engine-elasticsearch-elastic-074895?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Norway |
 | [Senior Software Developer - Storage Engine - Elasticsearch](https://o11y.jobs/jobs/senior-software-developer-storage-engine-elasticsearch-elastic-074844?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Canada |
 | [Principal Software Engineer - Storage Engine - Elasticsearch](https://o11y.jobs/jobs/principal-software-engineer-storage-engine-elasticsearch-elastic-074819?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | United States |
-| [Cloud and Observability Engineer](https://o11y.jobs/jobs/cloud-and-observability-engineer-coralogix-07c37?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [Sr. Forward Deployed Engineer](https://o11y.jobs/jobs/sr-forward-deployed-engineer-logicmonitor-950766?utm_source=github&utm_medium=repo&utm_campaign=jobs) | LogicMonitor | San Francisco, CA |
 | [Site Reliability Engineer](https://o11y.jobs/jobs/site-reliability-engineer-coralogix-62e68?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Backend Engineer - Data Pipeline](https://o11y.jobs/jobs/backend-engineer-data-pipeline-coralogix-afa61?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Java Engineer - Core/Infra - Elasticsearch](https://o11y.jobs/jobs/senior-java-engineer-core-infra-elasticsearch-elastic-053886?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | United States |
-| [Senior Full Stack Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Software Engineer (Coralogix AI)](https://o11y.jobs/jobs/software-engineer-coralogix-ai-coralogix-fb254?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Technical Migration Team Lead](https://o11y.jobs/jobs/technical-migration-team-lead-coralogix-b2e61?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Technical Migration Engineer](https://o11y.jobs/jobs/technical-migration-engineer-coralogix-d2e69?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
@@ -103,9 +106,6 @@ _Last updated: 2026-07-20 · 100 open roles_
 | [Senior Software Engineer, Billing Platform](https://o11y.jobs/jobs/senior-software-engineer-billing-platform-sentry-10d6d4?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $190k – $240k |
 | [Staff Software Engineer - Databases SRE \| Ireland \| Remote](https://o11y.jobs/jobs/staff-software-engineer-databases-sre-ireland-remote-grafana-labs-502004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Engineering Manager, Billing Platform](https://o11y.jobs/jobs/engineering-manager-billing-platform-sentry-79f7f2?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $220k – $350k |
-| [Senior Cloud Engineer - Product Metrics](https://o11y.jobs/jobs/senior-cloud-engineer-product-metrics-clickhouse-163004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | ClickHouse | Remote |
-| [Solutions Engineering Manager, West (Enterprise)](https://o11y.jobs/jobs/solutions-engineering-manager-west-enterprise-cribl-059004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
-| [Staff Software Engineer – Identity and Access, Identity Squads \| Ireland \| Remote](https://o11y.jobs/jobs/staff-software-engineer-identity-and-access-identity-squads-ireland-remote-grafana-labs-595004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

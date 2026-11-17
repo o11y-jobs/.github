@@ -6,6 +6,8 @@ _Last updated: 2026-11-17 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Staff Network Production Engineer, Deployment](https://o11y.jobs/jobs/staff-network-production-engineer-deployment-crusoe-f5be3f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Crusoe | San Francisco, CA - US |
+| [Senior Network Production Engineer, Operations](https://o11y.jobs/jobs/senior-network-production-engineer-operations-crusoe-9078d7?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Crusoe | San Francisco, CA - US |
 | [AI Researcher (Remote)](https://o11y.jobs/jobs/ai-researcher-remote-splunk-030322?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | San Francisco, California, US |
 | [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Network Production Engineer](https://o11y.jobs/jobs/network-production-engineer-fluidstack-20c790?utm_source=github&utm_medium=repo&utm_campaign=jobs) | FluidStack | London · $237k – $270k |
@@ -104,8 +106,6 @@ _Last updated: 2026-11-17 · 100 open roles_
 | [Infrastructure Engineering & Projects Intern](https://o11y.jobs/jobs/infrastructure-engineering-projects-intern-etched-1cf47b?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Etched | San Jose |
 | [Junior Software Engineer, Metadata Catalog - Splunk](https://o11y.jobs/jobs/junior-software-engineer-metadata-catalog-splunk-splunk-027777?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Krakow, Poland |
 | [Technical Systems Engineer II (Full-Time) - United States](https://o11y.jobs/jobs/technical-systems-engineer-ii-full-time-united-states-splunk-026274?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | RTP, North Carolina, US |
-| [Lead Performance & AI Tools Engineer, Hybrid](https://o11y.jobs/jobs/lead-performance-ai-tools-engineer-hybrid-splunk-030105?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Milpitas, California, US |
-| [Infrastructure Operations Engineer / SRE](https://o11y.jobs/jobs/infrastructure-operations-engineer-sre-tenstorrent-701007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Tenstorrent | Austin, Texas, United States; Santa Clara, California, United States; Vancouver, British Columbia, Canada |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

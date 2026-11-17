@@ -6,15 +6,22 @@ _Last updated: 2026-11-17 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
-| [Senior Staff Security Engineer](https://o11y.jobs/jobs/senior-staff-security-engineer-solarwinds-478005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Austin, Texas |
-| [Sr Software Engineer - Cloud Infrastructure/SRE - 24/7 Rotation](https://o11y.jobs/jobs/sr-software-engineer-cloud-infrastructure-sre-24-7-rotation-corelight-369707?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Corelight | North America  |
-| [Product Integration Reliability Engineer, Money Management](https://o11y.jobs/jobs/product-integration-reliability-engineer-money-management-stripe-358071?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Stripe | Toronto |
+| [AI Researcher (Remote)](https://o11y.jobs/jobs/ai-researcher-remote-splunk-030322?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | San Francisco, California, US |
 | [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
+| [Network Production Engineer](https://o11y.jobs/jobs/network-production-engineer-fluidstack-20c790?utm_source=github&utm_medium=repo&utm_campaign=jobs) | FluidStack | London · $237k – $270k |
+| [Senior Forward Deployed Engineer](https://o11y.jobs/jobs/senior-forward-deployed-engineer-datadog-346224?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
+| [Research Engineer, AI Monitoring](https://o11y.jobs/jobs/research-engineer-ai-monitoring-anthropic-416008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Anthropic | London, UK |
+| [Staff Data SRE](https://o11y.jobs/jobs/staff-data-sre-netskope-394120?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Netskope | Santa Clara, California, United States |
+| [Site Reliability Engineer (US - Pacific time)](https://o11y.jobs/jobs/site-reliability-engineer-us-pacific-time-posthog-6a26d4?utm_source=github&utm_medium=repo&utm_campaign=jobs) | PostHog | Remote |
+| [Integration Reliability Engineer, Technical Operations](https://o11y.jobs/jobs/integration-reliability-engineer-technical-operations-stripe-360332?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Stripe | Toronto |
+| [Senior Software Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Senior Staff Security Engineer](https://o11y.jobs/jobs/senior-staff-security-engineer-solarwinds-478005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Austin, Texas |
+| [Sr Software Engineer - Cloud Infrastructure/SRE](https://o11y.jobs/jobs/sr-software-engineer-cloud-infrastructure-sre-24-7-rotation-corelight-369707?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Corelight | North America  |
+| [Product Integration Reliability Engineer, Money Management](https://o11y.jobs/jobs/product-integration-reliability-engineer-money-management-stripe-358071?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Stripe | Toronto |
 | [Senior Value Engineer, Strategic Accounts](https://o11y.jobs/jobs/senior-value-engineer-strategic-accounts-cribl-767004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
 | [Senior Site Reliability Engineer (Database Focus)](https://o11y.jobs/jobs/senior-site-reliability-engineer-database-focus-gocardless-385160?utm_source=github&utm_medium=repo&utm_campaign=jobs) | GoCardless | Lisbon, Portugal |
 | [Senior Client Platform Engineer](https://o11y.jobs/jobs/senior-client-platform-engineer-robinhood-354333?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Robinhood | Menlo Park, CA |
 | [Product Engineer](https://o11y.jobs/jobs/product-engineer-komodor-d237e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
-| [Senior Software Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Engineering Manager - Grafana Productivity  (Remote, Canada)](https://o11y.jobs/jobs/engineering-manager-grafana-productivity-remote-canada-grafana-labs-327004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Engineering Manager - Grafana Productivity  (Remote, USA)](https://o11y.jobs/jobs/engineering-manager-grafana-productivity-remote-usa-grafana-labs-088004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Product Engineer - IL](https://o11y.jobs/jobs/product-engineer-il-komodor-1c37f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Tel Aviv |
@@ -30,7 +37,7 @@ _Last updated: 2026-11-17 · 100 open roles_
 | [Manager, Solutions Engineering \| West Coast \| Remote](https://o11y.jobs/jobs/manager-solutions-engineering-west-coast-remote-grafana-labs-286004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Senior Site Reliability Engineer, Agent Engine](https://o11y.jobs/jobs/senior-site-reliability-engineer-agent-engine-mongodb-366599?utm_source=github&utm_medium=repo&utm_campaign=jobs) | MongoDB | Dublin |
 | [Associate IT infrastructure Engineer](https://o11y.jobs/jobs/associate-it-infrastructure-engineer-new-relic-206008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Dublin, Ireland |
-| [Senior Production Engineer I](https://o11y.jobs/jobs/senior-production-engineer-i-coreweave-670006?utm_source=github&utm_medium=repo&utm_campaign=jobs) | CoreWeave | Sunnyvale, CA |
+| [Senior Production Engineer](https://o11y.jobs/jobs/senior-production-engineer-i-coreweave-670006?utm_source=github&utm_medium=repo&utm_campaign=jobs) | CoreWeave | Sunnyvale, CA |
 | [AI Ops Engineer](https://o11y.jobs/jobs/ai-ops-engineer-solarwinds-320005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Austin, Texas |
 | [Site Reliability Engineer](https://o11y.jobs/jobs/site-reliability-engineer-mistral-ai-5a5e6c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Mistral AI | Paris |
 | [Manager, Software Engineering - SRE Site Lead: Dublin ROC](https://o11y.jobs/jobs/manager-software-engineering-sre-site-lead-dublin-roc-riot-games-385235?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Riot Games | Dublin, Ireland |
@@ -38,8 +45,7 @@ _Last updated: 2026-11-17 · 100 open roles_
 | [Staff Research Scientist - Post-Training for Observability Native Models](https://o11y.jobs/jobs/staff-research-scientist-post-training-for-observability-native-models-datadog-385200?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Paris, France |
 | [Engineering Manager, Data Platform](https://o11y.jobs/jobs/engineering-manager-data-platform-sentry-c7d0f2?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $220k – $400k |
 | [Engineering Manager, Infrastructure](https://o11y.jobs/jobs/engineering-manager-infrastructure-sentry-8a4b7a?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $220k – $400k |
-| [Production Engineer, Network Engineering](https://o11y.jobs/jobs/production-engineer-network-engineering-fluidstack-6adf24?utm_source=github&utm_medium=repo&utm_campaign=jobs) | FluidStack | London · £176k – £221k |
-| [Integration Reliability Engineer, Technical Operations](https://o11y.jobs/jobs/integration-reliability-engineer-technical-operations-stripe-282171?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Stripe | Singapore |
+| [Production Engineer, Network Engineering](https://o11y.jobs/jobs/production-engineer-network-engineering-fluidstack-6adf24?utm_source=github&utm_medium=repo&utm_campaign=jobs) | FluidStack | London · $237k – $270k |
 | [Member of Technical Staff (Site Reliability Engineer, Crawler)](https://o11y.jobs/jobs/member-of-technical-staff-site-reliability-engineer-crawler-perplexity-bf063c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Perplexity | London |
 | [Manager, Client Platform Engineering](https://o11y.jobs/jobs/manager-client-platform-engineering-mongodb-384766?utm_source=github&utm_medium=repo&utm_campaign=jobs) | MongoDB | Remote |
 | [Machine Learning Engineer](https://o11y.jobs/jobs/machine-learning-engineer-splunk-030936?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
@@ -96,16 +102,10 @@ _Last updated: 2026-11-17 · 100 open roles_
 | [Manager I, Engineering - Client SDKs (Mobile & Browser)](https://o11y.jobs/jobs/manager-i-engineering-client-sdks-mobile-browser-datadog-358479?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Madrid, Spain; Paris, France |
 | [Product Reliability Engineer - APM](https://o11y.jobs/jobs/product-reliability-engineer-apm-coralogix-9cf67?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Infrastructure Engineering & Projects Intern](https://o11y.jobs/jobs/infrastructure-engineering-projects-intern-etched-1cf47b?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Etched | San Jose |
-| [Software Engineer Full Stack / Backend I (Full Time) - United States](https://o11y.jobs/jobs/software-engineer-full-stack-backend-i-full-time-united-states-splunk-028784?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
 | [Junior Software Engineer, Metadata Catalog - Splunk](https://o11y.jobs/jobs/junior-software-engineer-metadata-catalog-splunk-splunk-027777?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Krakow, Poland |
 | [Technical Systems Engineer II (Full-Time) - United States](https://o11y.jobs/jobs/technical-systems-engineer-ii-full-time-united-states-splunk-026274?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | RTP, North Carolina, US |
 | [Lead Performance & AI Tools Engineer, Hybrid](https://o11y.jobs/jobs/lead-performance-ai-tools-engineer-hybrid-splunk-030105?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Milpitas, California, US |
 | [Infrastructure Operations Engineer / SRE](https://o11y.jobs/jobs/infrastructure-operations-engineer-sre-tenstorrent-701007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Tenstorrent | Austin, Texas, United States; Santa Clara, California, United States; Vancouver, British Columbia, Canada |
-| [Forward Deployed Infrastructure Engineer - APAC](https://o11y.jobs/jobs/forward-deployed-infrastructure-engineer-apac-hyperbolic-0b26de?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Hyperbolic | Remote |
-| [Full Stack Technical Developer](https://o11y.jobs/jobs/full-stack-technical-developer-elastic-281841?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Costa Rica |
-| [Sr. Production Engineer](https://o11y.jobs/jobs/sr-production-engineer-zscaler-575007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote |
-| [Senior Software Engineer, Database Integration & Observability](https://o11y.jobs/jobs/senior-software-engineer-database-integration-observability-mongodb-352433?utm_source=github&utm_medium=repo&utm_campaign=jobs) | MongoDB | Austin; Boston; Chicago; Dallas; New York City; Palo Alto; San Francisco; Seattle; United States |
-| [Sr Staff Site Reliability Engineer](https://o11y.jobs/jobs/sr-staff-site-reliability-engineer-cribl-072004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

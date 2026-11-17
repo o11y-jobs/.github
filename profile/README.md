@@ -6,10 +6,11 @@ _Last updated: 2026-11-17 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
+| [Cloud and Observability Engineer (Remote Role, 6pm - 3am)](https://o11y.jobs/jobs/cloud-and-observability-engineer-remote-role-6pm-3am-coralogix-4d169?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Staff Network Production Engineer, Deployment](https://o11y.jobs/jobs/staff-network-production-engineer-deployment-crusoe-f5be3f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Crusoe | San Francisco, CA - US |
 | [Senior Network Production Engineer, Operations](https://o11y.jobs/jobs/senior-network-production-engineer-operations-crusoe-9078d7?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Crusoe | San Francisco, CA - US |
 | [AI Researcher (Remote)](https://o11y.jobs/jobs/ai-researcher-remote-splunk-030322?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | San Francisco, California, US |
-| [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Network Production Engineer](https://o11y.jobs/jobs/network-production-engineer-fluidstack-20c790?utm_source=github&utm_medium=repo&utm_campaign=jobs) | FluidStack | London · $237k – $270k |
 | [Senior Forward Deployed Engineer](https://o11y.jobs/jobs/senior-forward-deployed-engineer-datadog-346224?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
 | [Research Engineer, AI Monitoring](https://o11y.jobs/jobs/research-engineer-ai-monitoring-anthropic-416008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Anthropic | London, UK |
@@ -33,7 +34,6 @@ _Last updated: 2026-11-17 · 100 open roles_
 | [Site Reliability Engineer (FedRAMP / Security)](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ny-coralogix-33c5f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Software Engineer \| Distributed System + Fullstack (Python,Go, Java) + AI  - 7+ years](https://o11y.jobs/jobs/software-engineer-distributed-system-fullstack-python-go-java-ai-7-years-splunk-029672?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
 | [Software Engineering Technical Leader \| Enterprise AI Platforms, Infrastructure & Automation](https://o11y.jobs/jobs/software-engineering-technical-leader-enterprise-ai-platforms-infrastructure-aut-splunk-296731?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
-| [Customer Project Manager](https://o11y.jobs/jobs/customer-project-manager-splunk-029251?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Krakow, Poland |
 | [Software Engineer \| Distributed System + Fullstack (Python,Go, Java) + AI  - 4+ years](https://o11y.jobs/jobs/software-engineer-distributed-system-fullstack-python-go-java-ai-4-years-splunk-029414?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
 | [ML Performance Engineer](https://o11y.jobs/jobs/ml-performance-engineer-tensorwave-970809?utm_source=github&utm_medium=repo&utm_campaign=jobs) | TensorWave | Las Vegas, Nevada |
 | [Manager, Solutions Engineering \| West Coast \| Remote](https://o11y.jobs/jobs/manager-solutions-engineering-west-coast-remote-grafana-labs-286004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
@@ -104,8 +104,8 @@ _Last updated: 2026-11-17 · 100 open roles_
 | [Manager I, Engineering - Client SDKs (Mobile & Browser)](https://o11y.jobs/jobs/manager-i-engineering-client-sdks-mobile-browser-datadog-358479?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Madrid, Spain; Paris, France |
 | [Product Reliability Engineer - APM](https://o11y.jobs/jobs/product-reliability-engineer-apm-coralogix-9cf67?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Infrastructure Engineering & Projects Intern](https://o11y.jobs/jobs/infrastructure-engineering-projects-intern-etched-1cf47b?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Etched | San Jose |
+| [Software Engineer Full Stack / Backend I (Full Time) - United States](https://o11y.jobs/jobs/software-engineer-full-stack-backend-i-full-time-united-states-splunk-028784?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
 | [Junior Software Engineer, Metadata Catalog - Splunk](https://o11y.jobs/jobs/junior-software-engineer-metadata-catalog-splunk-splunk-027777?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Krakow, Poland |
-| [Technical Systems Engineer II (Full-Time) - United States](https://o11y.jobs/jobs/technical-systems-engineer-ii-full-time-united-states-splunk-026274?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | RTP, North Carolina, US |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

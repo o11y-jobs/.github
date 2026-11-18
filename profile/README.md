@@ -6,6 +6,11 @@ _Last updated: 2026-11-18 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
+| [Senior/Staff Site Reliability Engineer (Server Infrastructure)](https://o11y.jobs/jobs/senior-staff-site-reliability-engineer-server-infrastructure-nebius-922101?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Nebius | Remote |
+| [Product Engineer - IL](https://o11y.jobs/jobs/product-engineer-il-komodor-1c37f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Tel Aviv |
+| [Staff DevOps Engineer](https://o11y.jobs/jobs/staff-devops-engineer-zscaler-971007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote |
+| [Senior Software Engineer](https://o11y.jobs/jobs/senior-software-engineer-solarwinds-125005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Bangalore, India |
 | [Principal Site Reliability Engineer](https://o11y.jobs/jobs/principal-site-reliability-engineer-zscaler-461007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote |
 | [Product Engineer](https://o11y.jobs/jobs/product-engineer-komodor-d237e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Sr Mgr, Software Engineering (Cribl Detect)](https://o11y.jobs/jobs/sr-mgr-software-engineering-cribl-detect-cribl-104004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
@@ -34,7 +39,6 @@ _Last updated: 2026-11-18 · 100 open roles_
 | [Senior Client Platform Engineer](https://o11y.jobs/jobs/senior-client-platform-engineer-robinhood-354333?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Robinhood | Menlo Park, CA |
 | [Engineering Manager - Grafana Productivity  (Remote, Canada)](https://o11y.jobs/jobs/engineering-manager-grafana-productivity-remote-canada-grafana-labs-327004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Engineering Manager - Grafana Productivity  (Remote, USA)](https://o11y.jobs/jobs/engineering-manager-grafana-productivity-remote-usa-grafana-labs-088004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
-| [Product Engineer - IL](https://o11y.jobs/jobs/product-engineer-il-komodor-1c37f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Tel Aviv |
 | [Consulting Engineering Technical Leader](https://o11y.jobs/jobs/consulting-engineering-technical-leader-splunk-251831?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
 | [Senior Software Engineer](https://o11y.jobs/jobs/senior-software-engineer-splunk-030421?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Tel Aviv-Yafo, Israel |
 | [Software Engineering Technical Leader](https://o11y.jobs/jobs/software-engineering-technical-leader-splunk-030297?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Tel Aviv-Yafo, Israel |
@@ -102,10 +106,6 @@ _Last updated: 2026-11-18 · 100 open roles_
 | [Principal Product Security Engineer](https://o11y.jobs/jobs/principal-product-security-engineer-cribl-011004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
 | [Staff Site Reliability Engineer, InfraSec](https://o11y.jobs/jobs/staff-site-reliability-engineer-infrasec-mongodb-278921?utm_source=github&utm_medium=repo&utm_campaign=jobs) | MongoDB | Dublin |
 | [Senior Site Reliability Engineer, InfraSec](https://o11y.jobs/jobs/senior-site-reliability-engineer-infrasec-mongodb-278897?utm_source=github&utm_medium=repo&utm_campaign=jobs) | MongoDB | Dublin |
-| [Software Engineer, Size Analysis & Snapshots](https://o11y.jobs/jobs/software-engineer-size-analysis-snapshots-sentry-c4dd26?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $81k – $220k |
-| [Director, Engineering - Graphing and Visualization](https://o11y.jobs/jobs/director-engineering-graphing-and-visualization-datadog-359339?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
-| [Senior Full Stack Engineer \| Database Observability, Grafana Cloud \| Spain \| Remote](https://o11y.jobs/jobs/senior-full-stack-engineer-database-observability-grafana-cloud-spain-remote-grafana-labs-633004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
-| [Senior Full Stack Engineer \| Database Observability, Grafana Cloud \| Ireland \| Remote](https://o11y.jobs/jobs/senior-full-stack-engineer-database-observability-grafana-cloud-ireland-remote-grafana-labs-634004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

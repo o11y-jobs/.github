@@ -6,10 +6,14 @@ _Last updated: 2026-11-18 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
-| [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
+| [Product Engineer](https://o11y.jobs/jobs/product-engineer-komodor-d237e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
+| [Sr Mgr, Software Engineering (Cribl Detect)](https://o11y.jobs/jobs/sr-mgr-software-engineering-cribl-detect-cribl-104004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
+| [Senior Staff SRE, Architecture Engineering: Hosted Runners](https://o11y.jobs/jobs/senior-staff-sre-architecture-engineering-hosted-runners-gitlab-489002?utm_source=github&utm_medium=repo&utm_campaign=jobs) | GitLab | Remote |
+| [Senior Software Engineer II - Agentic Intelligence](https://o11y.jobs/jobs/senior-software-engineer-ii-agentic-intelligence-honeycomb-708008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Honeycomb | Remote |
+| [Senior Site Reliability Engineer (Data Platform)](https://o11y.jobs/jobs/senior-site-reliability-engineer-data-platform-nebius-676101?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Nebius | Remote |
+| [Staff Site Reliability Engineer](https://o11y.jobs/jobs/staff-site-reliability-engineer-okta-385706?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Okta | Bellevue, WA, United States |
 | [Full-Stack Engineer (Backend Leaning) - Platform Engineering](https://o11y.jobs/jobs/full-stack-engineer-backend-leaning-platform-engineering-elevenlabs-76c5e0?utm_source=github&utm_medium=repo&utm_campaign=jobs) | ElevenLabs | Remote |
 | [DevOps Engineer, Developer Relations](https://o11y.jobs/jobs/devops-engineer-developer-relations-vultr-0a017e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Vultr | Remote |
-| [Product Engineer](https://o11y.jobs/jobs/product-engineer-komodor-d237e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Cloud and Observability Engineer (Remote Role, 6pm - 3am)](https://o11y.jobs/jobs/cloud-and-observability-engineer-remote-role-6pm-3am-coralogix-4d169?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Staff Network Production Engineer, Deployment](https://o11y.jobs/jobs/staff-network-production-engineer-deployment-crusoe-f5be3f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Crusoe | San Francisco, CA - US |
 | [Senior Network Production Engineer, Operations](https://o11y.jobs/jobs/senior-network-production-engineer-operations-crusoe-9078d7?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Crusoe | San Francisco, CA - US |
@@ -102,10 +106,6 @@ _Last updated: 2026-11-18 · 100 open roles_
 | [Senior Full Stack Engineer \| Database Observability, Grafana Cloud \| Spain \| Remote](https://o11y.jobs/jobs/senior-full-stack-engineer-database-observability-grafana-cloud-spain-remote-grafana-labs-633004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Senior Full Stack Engineer \| Database Observability, Grafana Cloud \| Ireland \| Remote](https://o11y.jobs/jobs/senior-full-stack-engineer-database-observability-grafana-cloud-ireland-remote-grafana-labs-634004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Senior Full Stack Engineer \| Database Observability, Grafana Cloud \| Germany \| Remote](https://o11y.jobs/jobs/senior-full-stack-engineer-database-observability-grafana-cloud-germany-remote-grafana-labs-631004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
-| [Senior Full Stack Engineer \| Database Observability, Grafana Cloud \| UK \| Remote](https://o11y.jobs/jobs/senior-full-stack-engineer-database-observability-grafana-cloud-uk-remote-grafana-labs-630004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
-| [Manager I, Engineering - Client SDKs (Mobile & Browser)](https://o11y.jobs/jobs/manager-i-engineering-client-sdks-mobile-browser-datadog-358479?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Madrid, Spain; Paris, France |
-| [Product Reliability Engineer - APM](https://o11y.jobs/jobs/product-reliability-engineer-apm-coralogix-9cf67?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Infrastructure Engineering & Projects Intern](https://o11y.jobs/jobs/infrastructure-engineering-projects-intern-etched-1cf47b?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Etched | San Jose |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

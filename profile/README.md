@@ -6,6 +6,7 @@ _Last updated: 2026-11-18 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Principal Site Reliability Engineer](https://o11y.jobs/jobs/principal-site-reliability-engineer-zscaler-461007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote |
 | [Product Engineer](https://o11y.jobs/jobs/product-engineer-komodor-d237e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Sr Mgr, Software Engineering (Cribl Detect)](https://o11y.jobs/jobs/sr-mgr-software-engineering-cribl-detect-cribl-104004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
 | [Senior Staff SRE, Architecture Engineering: Hosted Runners](https://o11y.jobs/jobs/senior-staff-sre-architecture-engineering-hosted-runners-gitlab-489002?utm_source=github&utm_medium=repo&utm_campaign=jobs) | GitLab | Remote |
@@ -19,7 +20,7 @@ _Last updated: 2026-11-18 · 100 open roles_
 | [Senior Network Production Engineer, Operations](https://o11y.jobs/jobs/senior-network-production-engineer-operations-crusoe-9078d7?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Crusoe | San Francisco, CA - US |
 | [AI Researcher (Remote)](https://o11y.jobs/jobs/ai-researcher-remote-splunk-030322?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | San Francisco, California, US |
 | [Network Production Engineer](https://o11y.jobs/jobs/network-production-engineer-fluidstack-20c790?utm_source=github&utm_medium=repo&utm_campaign=jobs) | FluidStack | London · $237k – $270k |
-| [Senior Forward Deployed Engineer](https://o11y.jobs/jobs/senior-forward-deployed-engineer-datadog-346224?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
+| [Senior Forward Deployed Engineer](https://o11y.jobs/jobs/senior-forward-deployed-engineer-datadog-346224?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA |
 | [Research Engineer, AI Monitoring](https://o11y.jobs/jobs/research-engineer-ai-monitoring-anthropic-416008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Anthropic | London, UK |
 | [Staff Data SRE](https://o11y.jobs/jobs/staff-data-sre-netskope-394120?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Netskope | Santa Clara, California, United States |
 | [Site Reliability Engineer (US - Pacific time)](https://o11y.jobs/jobs/site-reliability-engineer-us-pacific-time-posthog-6a26d4?utm_source=github&utm_medium=repo&utm_campaign=jobs) | PostHog | Remote |
@@ -105,7 +106,6 @@ _Last updated: 2026-11-18 · 100 open roles_
 | [Director, Engineering - Graphing and Visualization](https://o11y.jobs/jobs/director-engineering-graphing-and-visualization-datadog-359339?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA |
 | [Senior Full Stack Engineer \| Database Observability, Grafana Cloud \| Spain \| Remote](https://o11y.jobs/jobs/senior-full-stack-engineer-database-observability-grafana-cloud-spain-remote-grafana-labs-633004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Senior Full Stack Engineer \| Database Observability, Grafana Cloud \| Ireland \| Remote](https://o11y.jobs/jobs/senior-full-stack-engineer-database-observability-grafana-cloud-ireland-remote-grafana-labs-634004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
-| [Senior Full Stack Engineer \| Database Observability, Grafana Cloud \| Germany \| Remote](https://o11y.jobs/jobs/senior-full-stack-engineer-database-observability-grafana-cloud-germany-remote-grafana-labs-631004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

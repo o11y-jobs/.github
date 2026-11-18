@@ -2,11 +2,14 @@
 
 Curated open roles in observability, OpenTelemetry, Prometheus, Grafana, tracing, metrics, logs, SRE and platform engineering. Auto-updated from [o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs).
 
-_Last updated: 2026-11-17 · 100 open roles_
+_Last updated: 2026-11-18 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
 | [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
+| [Full-Stack Engineer (Backend Leaning) - Platform Engineering](https://o11y.jobs/jobs/full-stack-engineer-backend-leaning-platform-engineering-elevenlabs-76c5e0?utm_source=github&utm_medium=repo&utm_campaign=jobs) | ElevenLabs | Remote |
+| [DevOps Engineer, Developer Relations](https://o11y.jobs/jobs/devops-engineer-developer-relations-vultr-0a017e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Vultr | Remote |
+| [Product Engineer](https://o11y.jobs/jobs/product-engineer-komodor-d237e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Cloud and Observability Engineer (Remote Role, 6pm - 3am)](https://o11y.jobs/jobs/cloud-and-observability-engineer-remote-role-6pm-3am-coralogix-4d169?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Staff Network Production Engineer, Deployment](https://o11y.jobs/jobs/staff-network-production-engineer-deployment-crusoe-f5be3f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Crusoe | San Francisco, CA - US |
 | [Senior Network Production Engineer, Operations](https://o11y.jobs/jobs/senior-network-production-engineer-operations-crusoe-9078d7?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Crusoe | San Francisco, CA - US |
@@ -24,7 +27,6 @@ _Last updated: 2026-11-17 · 100 open roles_
 | [Senior Value Engineer, Strategic Accounts](https://o11y.jobs/jobs/senior-value-engineer-strategic-accounts-cribl-767004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
 | [Senior Site Reliability Engineer (Database Focus)](https://o11y.jobs/jobs/senior-site-reliability-engineer-database-focus-gocardless-385160?utm_source=github&utm_medium=repo&utm_campaign=jobs) | GoCardless | Lisbon, Portugal |
 | [Senior Client Platform Engineer](https://o11y.jobs/jobs/senior-client-platform-engineer-robinhood-354333?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Robinhood | Menlo Park, CA |
-| [Product Engineer](https://o11y.jobs/jobs/product-engineer-komodor-d237e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Engineering Manager - Grafana Productivity  (Remote, Canada)](https://o11y.jobs/jobs/engineering-manager-grafana-productivity-remote-canada-grafana-labs-327004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Engineering Manager - Grafana Productivity  (Remote, USA)](https://o11y.jobs/jobs/engineering-manager-grafana-productivity-remote-usa-grafana-labs-088004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Product Engineer - IL](https://o11y.jobs/jobs/product-engineer-il-komodor-1c37f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Tel Aviv |
@@ -104,8 +106,6 @@ _Last updated: 2026-11-17 · 100 open roles_
 | [Manager I, Engineering - Client SDKs (Mobile & Browser)](https://o11y.jobs/jobs/manager-i-engineering-client-sdks-mobile-browser-datadog-358479?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Madrid, Spain; Paris, France |
 | [Product Reliability Engineer - APM](https://o11y.jobs/jobs/product-reliability-engineer-apm-coralogix-9cf67?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Infrastructure Engineering & Projects Intern](https://o11y.jobs/jobs/infrastructure-engineering-projects-intern-etched-1cf47b?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Etched | San Jose |
-| [Software Engineer Full Stack / Backend I (Full Time) - United States](https://o11y.jobs/jobs/software-engineer-full-stack-backend-i-full-time-united-states-splunk-028784?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
-| [Junior Software Engineer, Metadata Catalog - Splunk](https://o11y.jobs/jobs/junior-software-engineer-metadata-catalog-splunk-splunk-027777?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Krakow, Poland |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

@@ -6,6 +6,7 @@ _Last updated: 2026-11-19 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Senior Software Engineer (hybrid)](https://o11y.jobs/jobs/senior-software-engineer-hybrid-splunk-290451?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | RTP, North Carolina, US |
 | [Product Engineer](https://o11y.jobs/jobs/product-engineer-komodor-d237e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Staff Software Engineer, Search Core](https://o11y.jobs/jobs/staff-software-engineer-search-core-cribl-458004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
@@ -105,7 +106,6 @@ _Last updated: 2026-11-19 · 100 open roles_
 | [Software Engineer](https://o11y.jobs/jobs/software-engineer-solarwinds-006005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Austin, Texas |
 | [Manager, Systems Engineering](https://o11y.jobs/jobs/manager-systems-engineering-solarwinds-898005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Austin, Texas |
 | [Senior Manager, Site Reliability Engineering](https://o11y.jobs/jobs/senior-manager-site-reliability-engineering-okta-353207?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Okta | Dublin, Ireland |
-| [Backend Engineer - Alerting](https://o11y.jobs/jobs/backend-engineer-alerting-coralogix-1be5c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

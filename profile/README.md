@@ -6,9 +6,10 @@ _Last updated: 2026-11-19 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
+| [Senior Site Reliability Engineer](https://o11y.jobs/jobs/senior-site-reliability-engineer-thought-machine-2e5fd6?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Thought Machine | Remote |
 | [Senior SOC Engineer - Security Engineering](https://o11y.jobs/jobs/senior-soc-engineer-security-engineering-solarwinds-423005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Manila, Philippines |
 | [Senior Software Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Staff Site Reliability Engineer - IDaaS](https://o11y.jobs/jobs/staff-site-reliability-engineer-idaas-okta-071442?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Okta | Toronto, ON, Canada |
 | [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-sentry-0f616a?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $210k – $250k |
 | [Senior Software Engineer (hybrid)](https://o11y.jobs/jobs/senior-software-engineer-hybrid-splunk-290451?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | RTP, North Carolina, US |
@@ -105,7 +106,6 @@ _Last updated: 2026-11-19 · 100 open roles_
 | [Senior SRE, Site Experience](https://o11y.jobs/jobs/senior-sre-site-experience-reddit-369767?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Reddit | Remote |
 | [PCBA Reliability Engineer - All Levels](https://o11y.jobs/jobs/pcba-reliability-engineer-all-levels-figure-462006?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Figure | San Jose, CA |
 | [Deployment Engineer](https://o11y.jobs/jobs/deployment-engineer-groundcover-99379?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Groundcover | Boston |
-| [Software Engineer](https://o11y.jobs/jobs/software-engineer-solarwinds-006005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Austin, Texas |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

@@ -2,17 +2,23 @@
 
 Curated open roles in observability, OpenTelemetry, Prometheus, Grafana, tracing, metrics, logs, SRE and platform engineering. Auto-updated from [o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs).
 
-_Last updated: 2026-11-18 · 100 open roles_
+_Last updated: 2026-11-19 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Product Engineer](https://o11y.jobs/jobs/product-engineer-komodor-d237e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
+| [Staff Software Engineer, Search Core](https://o11y.jobs/jobs/staff-software-engineer-search-core-cribl-458004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
+| [Director of Security Research, Cribl Detect](https://o11y.jobs/jobs/director-of-security-research-cribl-detect-cribl-099004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
+| [Platform Engineer](https://o11y.jobs/jobs/platform-engineer-opslevel-662be2?utm_source=github&utm_medium=repo&utm_campaign=jobs) | OpsLevel | Remote |
+| [Staff Field Engineer \| US \| Remote](https://o11y.jobs/jobs/staff-field-engineer-us-remote-grafana-labs-289004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
+| [Software Engineer - Platform Engineering](https://o11y.jobs/jobs/software-engineer-platform-engineering-twilio-385593?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Twilio | Remote |
 | [Senior/Staff Site Reliability Engineer (Server Infrastructure)](https://o11y.jobs/jobs/senior-staff-site-reliability-engineer-server-infrastructure-nebius-922101?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Nebius | Remote |
 | [Product Engineer - IL](https://o11y.jobs/jobs/product-engineer-il-komodor-1c37f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Tel Aviv |
 | [Staff DevOps Engineer](https://o11y.jobs/jobs/staff-devops-engineer-zscaler-971007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote |
 | [Senior Software Engineer](https://o11y.jobs/jobs/senior-software-engineer-solarwinds-125005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Bangalore, India |
 | [Principal Site Reliability Engineer](https://o11y.jobs/jobs/principal-site-reliability-engineer-zscaler-461007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote |
-| [Product Engineer](https://o11y.jobs/jobs/product-engineer-komodor-d237e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
+| [Principal Software Engineer, Applied AI – Splunk Observability Cloud](https://o11y.jobs/jobs/principal-software-engineer-applied-ai-splunk-observability-cloud-splunk-028421?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Seattle, Washington, US |
 | [Sr Mgr, Software Engineering (Cribl Detect)](https://o11y.jobs/jobs/sr-mgr-software-engineering-cribl-detect-cribl-104004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
 | [Senior Staff SRE, Architecture Engineering: Hosted Runners](https://o11y.jobs/jobs/senior-staff-sre-architecture-engineering-hosted-runners-gitlab-489002?utm_source=github&utm_medium=repo&utm_campaign=jobs) | GitLab | Remote |
 | [Senior Software Engineer II - Agentic Intelligence](https://o11y.jobs/jobs/senior-software-engineer-ii-agentic-intelligence-honeycomb-708008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Honeycomb | Remote |
@@ -59,7 +65,7 @@ _Last updated: 2026-11-18 · 100 open roles_
 | [Engineering Manager, Data Platform](https://o11y.jobs/jobs/engineering-manager-data-platform-sentry-c7d0f2?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $220k – $400k |
 | [Engineering Manager, Infrastructure](https://o11y.jobs/jobs/engineering-manager-infrastructure-sentry-8a4b7a?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $220k – $400k |
 | [Production Engineer, Network Engineering](https://o11y.jobs/jobs/production-engineer-network-engineering-fluidstack-6adf24?utm_source=github&utm_medium=repo&utm_campaign=jobs) | FluidStack | London · $237k – $270k |
-| [Member of Technical Staff (Site Reliability Engineer, Crawler)](https://o11y.jobs/jobs/member-of-technical-staff-site-reliability-engineer-crawler-perplexity-bf063c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Perplexity | London |
+| [Member of Technical Staff (Site Reliability Engineer, Search Crawler)](https://o11y.jobs/jobs/member-of-technical-staff-site-reliability-engineer-crawler-perplexity-bf063c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Perplexity | London |
 | [Manager, Client Platform Engineering](https://o11y.jobs/jobs/manager-client-platform-engineering-mongodb-384766?utm_source=github&utm_medium=repo&utm_campaign=jobs) | MongoDB | Remote |
 | [Machine Learning Engineer](https://o11y.jobs/jobs/machine-learning-engineer-splunk-030936?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
 | [Staff Network Production Engineer, Operations](https://o11y.jobs/jobs/staff-network-production-engineer-operations-crusoe-6a1b8d?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Crusoe | San Francisco, CA - US |
@@ -100,12 +106,6 @@ _Last updated: 2026-11-18 · 100 open roles_
 | [Manager, Systems Engineering](https://o11y.jobs/jobs/manager-systems-engineering-solarwinds-898005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Austin, Texas |
 | [Senior Manager, Site Reliability Engineering](https://o11y.jobs/jobs/senior-manager-site-reliability-engineering-okta-353207?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Okta | Dublin, Ireland |
 | [Backend Engineer - Alerting](https://o11y.jobs/jobs/backend-engineer-alerting-coralogix-1be5c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Senior AI Research Engineer - GPU Systems & Kernels](https://o11y.jobs/jobs/senior-ai-research-engineer-gpu-systems-kernels-datadog-365206?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Paris, France |
-| [Senior AI Research Engineer - LLM Training & Inference Infrastructure](https://o11y.jobs/jobs/senior-ai-research-engineer-llm-training-inference-infrastructure-datadog-364908?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Remote |
-| [Engineering Manager, Site Reliability Engineering](https://o11y.jobs/jobs/engineering-manager-site-reliability-engineering-baseten-f74c00?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Baseten | Remote · £185k – £276k |
-| [Principal Product Security Engineer](https://o11y.jobs/jobs/principal-product-security-engineer-cribl-011004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
-| [Staff Site Reliability Engineer, InfraSec](https://o11y.jobs/jobs/staff-site-reliability-engineer-infrasec-mongodb-278921?utm_source=github&utm_medium=repo&utm_campaign=jobs) | MongoDB | Dublin |
-| [Senior Site Reliability Engineer, InfraSec](https://o11y.jobs/jobs/senior-site-reliability-engineer-infrasec-mongodb-278897?utm_source=github&utm_medium=repo&utm_campaign=jobs) | MongoDB | Dublin |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

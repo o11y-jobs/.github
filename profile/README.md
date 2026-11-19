@@ -6,9 +6,13 @@ _Last updated: 2026-11-19 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Senior SOC Engineer - Security Engineering](https://o11y.jobs/jobs/senior-soc-engineer-security-engineering-solarwinds-423005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Manila, Philippines |
+| [Senior Software Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
+| [Staff Site Reliability Engineer - IDaaS](https://o11y.jobs/jobs/staff-site-reliability-engineer-idaas-okta-071442?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Okta | Toronto, ON, Canada |
+| [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-sentry-0f616a?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $210k – $250k |
 | [Senior Software Engineer (hybrid)](https://o11y.jobs/jobs/senior-software-engineer-hybrid-splunk-290451?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | RTP, North Carolina, US |
 | [Product Engineer](https://o11y.jobs/jobs/product-engineer-komodor-d237e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
-| [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Staff Software Engineer, Search Core](https://o11y.jobs/jobs/staff-software-engineer-search-core-cribl-458004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
 | [Director of Security Research, Cribl Detect](https://o11y.jobs/jobs/director-of-security-research-cribl-detect-cribl-099004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
 | [Platform Engineer](https://o11y.jobs/jobs/platform-engineer-opslevel-662be2?utm_source=github&utm_medium=repo&utm_campaign=jobs) | OpsLevel | Remote |
@@ -37,7 +41,6 @@ _Last updated: 2026-11-19 · 100 open roles_
 | [Staff Data SRE](https://o11y.jobs/jobs/staff-data-sre-netskope-394120?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Netskope | Santa Clara, California, United States |
 | [Site Reliability Engineer (US - Pacific time)](https://o11y.jobs/jobs/site-reliability-engineer-us-pacific-time-posthog-6a26d4?utm_source=github&utm_medium=repo&utm_campaign=jobs) | PostHog | Remote |
 | [Integration Reliability Engineer, Technical Operations](https://o11y.jobs/jobs/integration-reliability-engineer-technical-operations-stripe-360332?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Stripe | Toronto |
-| [Senior Software Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Staff Security Engineer](https://o11y.jobs/jobs/senior-staff-security-engineer-solarwinds-478005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Austin, Texas |
 | [Sr Software Engineer - Cloud Infrastructure/SRE](https://o11y.jobs/jobs/sr-software-engineer-cloud-infrastructure-sre-24-7-rotation-corelight-369707?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Corelight | North America  |
 | [Product Integration Reliability Engineer, Money Management](https://o11y.jobs/jobs/product-integration-reliability-engineer-money-management-stripe-358071?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Stripe | Toronto |
@@ -101,11 +104,8 @@ _Last updated: 2026-11-19 · 100 open roles_
 | [Senior Staff SRE, Site Experience](https://o11y.jobs/jobs/senior-staff-sre-site-experience-reddit-369169?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Reddit | Remote |
 | [Senior SRE, Site Experience](https://o11y.jobs/jobs/senior-sre-site-experience-reddit-369767?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Reddit | Remote |
 | [PCBA Reliability Engineer - All Levels](https://o11y.jobs/jobs/pcba-reliability-engineer-all-levels-figure-462006?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Figure | San Jose, CA |
-| [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-sentry-956300?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $175k – $200k |
 | [Deployment Engineer](https://o11y.jobs/jobs/deployment-engineer-groundcover-99379?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Groundcover | Boston |
 | [Software Engineer](https://o11y.jobs/jobs/software-engineer-solarwinds-006005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Austin, Texas |
-| [Manager, Systems Engineering](https://o11y.jobs/jobs/manager-systems-engineering-solarwinds-898005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Austin, Texas |
-| [Senior Manager, Site Reliability Engineering](https://o11y.jobs/jobs/senior-manager-site-reliability-engineering-okta-353207?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Okta | Dublin, Ireland |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

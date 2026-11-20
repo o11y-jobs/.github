@@ -6,6 +6,8 @@ _Last updated: 2026-11-20 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
+| [Staff Site Reliability Engineer](https://o11y.jobs/jobs/staff-site-reliability-engineer-okta-403862?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Okta | Toronto, ON, Canada · CA$168k – CA$231k |
 | [DevOps / SRE / Infrastructure Engineer, AI Training (Remote US, Part-time, $80–$120/hr) — Mercor via AI Gig Scout](https://o11y.jobs/jobs/devops-sre-infrastructure-engineer-ai-training-remote-us-part-time-80-120-hr-mer-mercor-via-ai-gig-scout-711783?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Mercor (via AI Gig Scout) | Remote · $80 – $120 |
 | [Design for Reliability Engineer](https://o11y.jobs/jobs/design-for-reliability-engineer-cerebras-3b036c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cerebras | Sunnyvale, CA · $180k – $250k |
 | [Enterprise Automation Engineer](https://o11y.jobs/jobs/enterprise-automation-engineer-datadog-404061?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA · $150k – $191k |
@@ -17,7 +19,6 @@ _Last updated: 2026-11-20 · 100 open roles_
 | [Senior Frontend Engineer, Foundations](https://o11y.jobs/jobs/senior-frontend-engineer-foundations-netbox-labs-c535f3?utm_source=github&utm_medium=repo&utm_campaign=jobs) | NetBox Labs | Remote · $85k – $195k |
 | [Software Engineer II](https://o11y.jobs/jobs/software-engineer-ii-sumo-logic-402011?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sumo Logic | Noida , Uttar Pradesh , India |
 | [Storage Platform Engineer](https://o11y.jobs/jobs/storage-platform-engineer-supabase-8e569e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Supabase | Remote |
-| [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Senior Site Reliability Engineer](https://o11y.jobs/jobs/senior-site-reliability-engineer-thought-machine-2e5fd6?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Thought Machine | Remote |
 | [Senior SOC Engineer - Security Engineering](https://o11y.jobs/jobs/senior-soc-engineer-security-engineering-solarwinds-423005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Manila, Philippines |
 | [Senior Software Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
@@ -41,7 +42,6 @@ _Last updated: 2026-11-20 · 100 open roles_
 | [Senior Staff SRE, Architecture Engineering: Hosted Runners](https://o11y.jobs/jobs/senior-staff-sre-architecture-engineering-hosted-runners-gitlab-489002?utm_source=github&utm_medium=repo&utm_campaign=jobs) | GitLab | Remote |
 | [Senior Software Engineer II - Agentic Intelligence](https://o11y.jobs/jobs/senior-software-engineer-ii-agentic-intelligence-honeycomb-708008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Honeycomb | Remote · CA$250k – CA$280k |
 | [Senior Site Reliability Engineer (Data Platform)](https://o11y.jobs/jobs/senior-site-reliability-engineer-data-platform-nebius-676101?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Nebius | Remote |
-| [Staff Site Reliability Engineer](https://o11y.jobs/jobs/staff-site-reliability-engineer-okta-385706?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Okta | Bellevue, WA, United States · $180k – $248k |
 | [Full-Stack Engineer (Backend Leaning) - Platform Engineering](https://o11y.jobs/jobs/full-stack-engineer-backend-leaning-platform-engineering-elevenlabs-76c5e0?utm_source=github&utm_medium=repo&utm_campaign=jobs) | ElevenLabs | Remote |
 | [DevOps Engineer, Developer Relations](https://o11y.jobs/jobs/devops-engineer-developer-relations-vultr-0a017e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Vultr | Remote |
 | [Cloud and Observability Engineer (Remote Role, 6pm - 3am)](https://o11y.jobs/jobs/cloud-and-observability-engineer-remote-role-6pm-3am-coralogix-4d169?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |

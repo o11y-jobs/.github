@@ -6,6 +6,11 @@ _Last updated: 2026-11-20 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [DevOps / SRE / Infrastructure Engineer, AI Training (Remote US, Part-time, $80–$120/hr) — Mercor via AI Gig Scout](https://o11y.jobs/jobs/devops-sre-infrastructure-engineer-ai-training-remote-us-part-time-80-120-hr-mer-mercor-via-ai-gig-scout-711783?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Mercor (via AI Gig Scout) | Remote · $80 – $120 |
+| [Design for Reliability Engineer](https://o11y.jobs/jobs/design-for-reliability-engineer-cerebras-3b036c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cerebras | Sunnyvale, CA · $180k – $250k |
+| [Enterprise Automation Engineer](https://o11y.jobs/jobs/enterprise-automation-engineer-datadog-404061?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA · $150k – $191k |
+| [Senior Engineering Manager, Grafana Data Visualization \| Canada \| Remote](https://o11y.jobs/jobs/senior-engineering-manager-grafana-data-visualization-canada-remote-grafana-labs-531004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote · CA$219k – CA$263k |
+| [Senior Engineering Manager, Grafana Data Visualization \| USA \| Remote](https://o11y.jobs/jobs/senior-engineering-manager-grafana-data-visualization-usa-remote-grafana-labs-529004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote · $215k – $258k |
 | [Lead IT Systems Engineer](https://o11y.jobs/jobs/lead-it-systems-engineer-elastic-395756?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | United States |
 | [Infrastructure Operations Engineer / SRE](https://o11y.jobs/jobs/infrastructure-operations-engineer-sre-tenstorrent-289007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Tenstorrent | Gdańsk, Pomeranian Voivodeship, Poland; Warszawa, Masovian Voivodeship, Poland |
 | [Senior Product Engineer (Incident Response, remote)](https://o11y.jobs/jobs/senior-product-engineer-incident-response-remote-checkly-b8ff79?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Checkly | Remote · €79k – €107k |
@@ -20,7 +25,6 @@ _Last updated: 2026-11-20 · 100 open roles_
 | [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-sentry-0f616a?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $210k – $250k |
 | [Site Reliability Engineer - Python, Splunk- Telecom Product - 7+ Years](https://o11y.jobs/jobs/site-reliability-engineer-python-splunk-telecom-product-7-years-splunk-306831?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
 | [Software Engineering Technical Leader](https://o11y.jobs/jobs/software-engineering-technical-leader-splunk-031721?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Krakow, Poland |
-| [Senior Software Engineer (hybrid)](https://o11y.jobs/jobs/senior-software-engineer-hybrid-splunk-290451?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | RTP, North Carolina, US · $139k – $282k |
 | [Product Engineer](https://o11y.jobs/jobs/product-engineer-komodor-d237e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Staff Software Engineer, Search Core](https://o11y.jobs/jobs/staff-software-engineer-search-core-cribl-458004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote · $205k – $240k |
 | [Director of Security Research, Cribl Detect](https://o11y.jobs/jobs/director-of-security-research-cribl-detect-cribl-099004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
@@ -102,10 +106,6 @@ _Last updated: 2026-11-20 · 100 open roles_
 | [Senior AI Platform Engineer](https://o11y.jobs/jobs/senior-ai-platform-engineer-zscaler-563007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote |
 | [Software Engineer](https://o11y.jobs/jobs/software-engineer-splunk-030298?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Boston, Massachusetts, US · $149k – $282k |
 | [Customer Delivery Architect](https://o11y.jobs/jobs/customer-delivery-architect-splunk-027102?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote · $139k – $282k |
-| [Senior Forward Deployed Engineer](https://o11y.jobs/jobs/senior-forward-deployed-engineer-splunk-030352?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Washington, District of Columbia, US · $149k – $282k |
-| [Incident Commander, Detection & Response - US](https://o11y.jobs/jobs/incident-commander-detection-response-us-openai-12106b?utm_source=github&utm_medium=repo&utm_campaign=jobs) | OpenAI | Remote · $347k – $510k |
-| [Senior Security Engineer, Enterprise Security](https://o11y.jobs/jobs/senior-security-engineer-enterprise-security-rootly-swjvet?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Rootly | Hybrid |
-| [Senior Infrastructure Engineer](https://o11y.jobs/jobs/senior-infrastructure-engineer-crusoe-fd4922?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Crusoe | Sunnyvale, CA - US · $170k – $205k |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

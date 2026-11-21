@@ -6,6 +6,7 @@ _Last updated: 2026-11-21 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Engineering Manager](https://o11y.jobs/jobs/engineering-manager-cortex-593008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cortex | Remote · $200k – $260k |
 | [QA Software Engineer NC Hybrid](https://o11y.jobs/jobs/qa-software-engineer-nc-hybrid-splunk-023065?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | RTP, North Carolina, US · $139k – $282k |
 | [Principal Software Engineer - Search Infra - Elasticsearch](https://o11y.jobs/jobs/principal-software-engineer-search-infra-elasticsearch-elastic-407578?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | United States · $160k – $304k |
 | [Principal Software Developer - Search Infra - Elasticsearch](https://o11y.jobs/jobs/principal-software-developer-search-infra-elasticsearch-elastic-407549?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Canada · CA$154k – CA$244k |
@@ -104,7 +105,6 @@ _Last updated: 2026-11-21 · 100 open roles_
 | [Production Engineer, Network Engineering](https://o11y.jobs/jobs/production-engineer-network-engineering-fluidstack-6adf24?utm_source=github&utm_medium=repo&utm_campaign=jobs) | FluidStack | London · $237k – $270k |
 | [Member of Technical Staff (Site Reliability Engineer, Search Crawler)](https://o11y.jobs/jobs/member-of-technical-staff-site-reliability-engineer-crawler-perplexity-bf063c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Perplexity | London |
 | [Manager, Client Platform Engineering](https://o11y.jobs/jobs/manager-client-platform-engineering-mongodb-384766?utm_source=github&utm_medium=repo&utm_campaign=jobs) | MongoDB | Remote · $137k – $270k |
-| [Machine Learning Engineer](https://o11y.jobs/jobs/machine-learning-engineer-splunk-030936?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
 | [Staff Network Production Engineer, Operations](https://o11y.jobs/jobs/staff-network-production-engineer-operations-crusoe-6a1b8d?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Crusoe | San Francisco, CA - US · $215k – $260k |
 
 ---

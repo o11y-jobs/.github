@@ -2,12 +2,25 @@
 
 Curated open roles in observability, OpenTelemetry, Prometheus, Grafana, tracing, metrics, logs, SRE and platform engineering. Auto-updated from [o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs).
 
-_Last updated: 2026-11-20 · 100 open roles_
+_Last updated: 2026-11-21 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Integration Reliability Engineer, Payments](https://o11y.jobs/jobs/integration-reliability-engineer-payments-stripe-406660?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Stripe | Toronto |
+| [Senior Software Developer - Vector Search - Elasticsearch](https://o11y.jobs/jobs/senior-software-developer-vector-search-elasticsearch-elastic-066493?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Canada · CA$128k – CA$203k |
+| [Senior Software Engineer - Vector Search - Elasticsearch](https://o11y.jobs/jobs/senior-software-engineer-vector-search-elasticsearch-elastic-406174?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | United Kingdom |
+| [Principal Production Engineer](https://o11y.jobs/jobs/principal-production-engineer-zscaler-529007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote · $212k – $265k |
+| [Staff Software Engineer, Tech Lead - NetBox Core](https://o11y.jobs/jobs/staff-software-engineer-tech-lead-netbox-core-netbox-labs-d34c5d?utm_source=github&utm_medium=repo&utm_campaign=jobs) | NetBox Labs | Remote · $110k – $240k |
+| [Staff Field Engineer \| Canada \| Remote](https://o11y.jobs/jobs/staff-field-engineer-canada-remote-grafana-labs-173004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
+| [Engineering Manager - Grafana Infrastructure (Remote, USA)](https://o11y.jobs/jobs/engineering-manager-grafana-infrastructure-remote-usa-grafana-labs-134004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote · $189k – $227k |
+| [Engineering Manager - Grafana Infrastructure (Remote, Canada)](https://o11y.jobs/jobs/engineering-manager-grafana-infrastructure-remote-canada-grafana-labs-139004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote · CA$193k – CA$231k |
+| [Engineering Manager - Grafana Infrastructure (Remote, UK)](https://o11y.jobs/jobs/engineering-manager-grafana-infrastructure-remote-uk-grafana-labs-141004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote · £107k – £128k |
+| [Engineering Manager - Grafana Infrastructure (Remote, Spain)](https://o11y.jobs/jobs/engineering-manager-grafana-infrastructure-remote-spain-grafana-labs-147004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote · €97k – €116k |
+| [Engineering Manager - Grafana Infrastructure (Remote, Ireland)](https://o11y.jobs/jobs/engineering-manager-grafana-infrastructure-remote-ireland-grafana-labs-148004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote · €121k – €145k |
+| [Senior Software Engineer (TypeScript) - Marketplaces, SSC](https://o11y.jobs/jobs/senior-software-engineer-typescript-marketplaces-ssc-elastic-405579?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Portugal · €56k – €88k |
 | [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Staff Site Reliability Engineer](https://o11y.jobs/jobs/staff-site-reliability-engineer-okta-403862?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Okta | Toronto, ON, Canada · CA$168k – CA$231k |
+| [Software Engineer](https://o11y.jobs/jobs/software-engineer-splunk-031075?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | London, United Kingdom |
 | [DevOps / SRE / Infrastructure Engineer, AI Training (Remote US, Part-time, $80–$120/hr) — Mercor via AI Gig Scout](https://o11y.jobs/jobs/devops-sre-infrastructure-engineer-ai-training-remote-us-part-time-80-120-hr-mer-mercor-via-ai-gig-scout-711783?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Mercor (via AI Gig Scout) | Remote · $80 – $120 |
 | [Design for Reliability Engineer](https://o11y.jobs/jobs/design-for-reliability-engineer-cerebras-3b036c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cerebras | Sunnyvale, CA · $180k – $250k |
 | [Enterprise Automation Engineer](https://o11y.jobs/jobs/enterprise-automation-engineer-datadog-404061?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA · $150k – $191k |
@@ -33,7 +46,6 @@ _Last updated: 2026-11-20 · 100 open roles_
 | [Staff Field Engineer \| US \| Remote](https://o11y.jobs/jobs/staff-field-engineer-us-remote-grafana-labs-289004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Software Engineer - Platform Engineering](https://o11y.jobs/jobs/software-engineer-platform-engineering-twilio-385593?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Twilio | Remote · $109k – $136k |
 | [Senior/Staff Site Reliability Engineer (Server Infrastructure)](https://o11y.jobs/jobs/senior-staff-site-reliability-engineer-server-infrastructure-nebius-922101?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Nebius | Remote |
-| [Product Engineer - IL](https://o11y.jobs/jobs/product-engineer-il-komodor-1c37f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Tel Aviv |
 | [Staff DevOps Engineer](https://o11y.jobs/jobs/staff-devops-engineer-zscaler-971007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote |
 | [Senior Software Engineer](https://o11y.jobs/jobs/senior-software-engineer-solarwinds-125005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Bangalore, India |
 | [Principal Site Reliability Engineer](https://o11y.jobs/jobs/principal-site-reliability-engineer-zscaler-461007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote · $212k – $265k |
@@ -49,7 +61,6 @@ _Last updated: 2026-11-20 · 100 open roles_
 | [Senior Network Production Engineer, Operations](https://o11y.jobs/jobs/senior-network-production-engineer-operations-crusoe-9078d7?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Crusoe | San Francisco, CA - US · $230k – $280k |
 | [AI Researcher (Remote)](https://o11y.jobs/jobs/ai-researcher-remote-splunk-030322?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | San Francisco, California, US · $234k – $384k |
 | [Network Production Engineer](https://o11y.jobs/jobs/network-production-engineer-fluidstack-20c790?utm_source=github&utm_medium=repo&utm_campaign=jobs) | FluidStack | London · $237k – $270k |
-| [Senior Forward Deployed Engineer](https://o11y.jobs/jobs/senior-forward-deployed-engineer-datadog-346224?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA · $154k – $205k |
 | [Research Engineer, AI Monitoring](https://o11y.jobs/jobs/research-engineer-ai-monitoring-anthropic-416008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Anthropic | London, UK |
 | [Staff Data SRE](https://o11y.jobs/jobs/staff-data-sre-netskope-394120?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Netskope | Santa Clara, California, United States · $89k – $180k |
 | [Site Reliability Engineer (US - Pacific time)](https://o11y.jobs/jobs/site-reliability-engineer-us-pacific-time-posthog-6a26d4?utm_source=github&utm_medium=repo&utm_campaign=jobs) | PostHog | Remote |
@@ -95,17 +106,6 @@ _Last updated: 2026-11-20 · 100 open roles_
 | [Site Reliability Engineer, Mistral Cloud](https://o11y.jobs/jobs/site-reliability-engineer-mistral-cloud-mistral-ai-1c52ae?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Mistral AI | New York |
 | [Backend Engineer](https://o11y.jobs/jobs/backend-engineer-coralogix-e9377?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Frontend Engineer](https://o11y.jobs/jobs/senior-frontend-engineer-coralogix-d3270?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Network Engineer – Engineering Lab Operations](https://o11y.jobs/jobs/network-engineer-engineering-lab-operations-solarwinds-974005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Brno, Czech Republic |
-| [Manager I, Engineering - Observability Pipelines](https://o11y.jobs/jobs/manager-i-engineering-observability-pipelines-datadog-378768?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | New York, New York, USA · $192k – $240k |
-| [Software Engineer (Coralogix AI)](https://o11y.jobs/jobs/software-engineer-coralogix-ai-coralogix-fb254?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch](https://o11y.jobs/jobs/principal-java-engineer-distributed-systems-serverless-elasticsearch-elastic-378143?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Spain · €80k – €127k |
-| [Principal Java Developer - Distributed Systems, Serverless - Elasticsearch](https://o11y.jobs/jobs/principal-java-developer-distributed-systems-serverless-elasticsearch-elastic-378130?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Canada · CA$128k – CA$203k |
-| [Senior Mobile SDK Engineer](https://o11y.jobs/jobs/senior-mobile-sdk-engineer-coralogix-e0475?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch](https://o11y.jobs/jobs/senior-java-engineer-distributed-systems-serverless-elasticsearch-elastic-378126?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | United Kingdom |
-| [Senior Java Developer - Distributed Systems, Serverless - Elasticsearch](https://o11y.jobs/jobs/senior-java-developer-distributed-systems-serverless-elasticsearch-elastic-378072?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Canada · CA$128k – CA$203k |
-| [Senior AI Platform Engineer](https://o11y.jobs/jobs/senior-ai-platform-engineer-zscaler-563007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote |
-| [Software Engineer](https://o11y.jobs/jobs/software-engineer-splunk-030298?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Boston, Massachusetts, US · $149k – $282k |
-| [Customer Delivery Architect](https://o11y.jobs/jobs/customer-delivery-architect-splunk-027102?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote · $139k – $282k |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

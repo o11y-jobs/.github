@@ -6,6 +6,7 @@ _Last updated: 2026-11-21 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Engineering Manager](https://o11y.jobs/jobs/engineering-manager-cortex-593008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cortex | Remote · $200k – $260k |
 | [QA Software Engineer NC Hybrid](https://o11y.jobs/jobs/qa-software-engineer-nc-hybrid-splunk-023065?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | RTP, North Carolina, US · $139k – $282k |
 | [Principal Software Engineer - Search Infra - Elasticsearch](https://o11y.jobs/jobs/principal-software-engineer-search-infra-elasticsearch-elastic-407578?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | United States · $160k – $304k |
@@ -29,7 +30,6 @@ _Last updated: 2026-11-21 · 100 open roles_
 | [Engineering Manager - Grafana Infrastructure (Remote, Spain)](https://o11y.jobs/jobs/engineering-manager-grafana-infrastructure-remote-spain-grafana-labs-147004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote · €97k – €116k |
 | [Engineering Manager - Grafana Infrastructure (Remote, Ireland)](https://o11y.jobs/jobs/engineering-manager-grafana-infrastructure-remote-ireland-grafana-labs-148004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote · €121k – €145k |
 | [Senior Software Engineer (TypeScript) - Marketplaces, SSC](https://o11y.jobs/jobs/senior-software-engineer-typescript-marketplaces-ssc-elastic-405579?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Portugal · €56k – €88k |
-| [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Staff Site Reliability Engineer](https://o11y.jobs/jobs/staff-site-reliability-engineer-okta-403862?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Okta | Toronto, ON, Canada · CA$168k – CA$231k |
 | [Software Engineer](https://o11y.jobs/jobs/software-engineer-splunk-031075?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | London, United Kingdom |
 | [DevOps / SRE / Infrastructure Engineer, AI Training (Remote US, Part-time, $80–$120/hr) — Mercor via AI Gig Scout](https://o11y.jobs/jobs/devops-sre-infrastructure-engineer-ai-training-remote-us-part-time-80-120-hr-mer-mercor-via-ai-gig-scout-711783?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Mercor (via AI Gig Scout) | Remote · $80 – $120 |
@@ -105,7 +105,7 @@ _Last updated: 2026-11-21 · 100 open roles_
 | [Production Engineer, Network Engineering](https://o11y.jobs/jobs/production-engineer-network-engineering-fluidstack-6adf24?utm_source=github&utm_medium=repo&utm_campaign=jobs) | FluidStack | London · $237k – $270k |
 | [Member of Technical Staff (Site Reliability Engineer, Search Crawler)](https://o11y.jobs/jobs/member-of-technical-staff-site-reliability-engineer-crawler-perplexity-bf063c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Perplexity | London |
 | [Manager, Client Platform Engineering](https://o11y.jobs/jobs/manager-client-platform-engineering-mongodb-384766?utm_source=github&utm_medium=repo&utm_campaign=jobs) | MongoDB | Remote · $137k – $270k |
-| [Staff Network Production Engineer, Operations](https://o11y.jobs/jobs/staff-network-production-engineer-operations-crusoe-6a1b8d?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Crusoe | San Francisco, CA - US · $215k – $260k |
+| [Machine Learning Engineer](https://o11y.jobs/jobs/machine-learning-engineer-splunk-030936?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

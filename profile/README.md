@@ -6,6 +6,16 @@ _Last updated: 2026-11-21 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [QA Software Engineer NC Hybrid](https://o11y.jobs/jobs/qa-software-engineer-nc-hybrid-splunk-023065?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | RTP, North Carolina, US · $139k – $282k |
+| [Principal Software Engineer - Search Infra - Elasticsearch](https://o11y.jobs/jobs/principal-software-engineer-search-infra-elasticsearch-elastic-407578?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | United States · $160k – $304k |
+| [Principal Software Developer - Search Infra - Elasticsearch](https://o11y.jobs/jobs/principal-software-developer-search-infra-elasticsearch-elastic-407549?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Canada · CA$154k – CA$244k |
+| [Principal Software Engineer - Vector Search - Elasticsearch](https://o11y.jobs/jobs/principal-software-engineer-vector-search-elasticsearch-elastic-407526?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | United Kingdom |
+| [Principal Software Developer - Vector Search - Elasticsearch](https://o11y.jobs/jobs/principal-software-developer-vector-search-elasticsearch-elastic-407510?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Canada · CA$154k – CA$244k |
+| [Principal DevOps Engineer](https://o11y.jobs/jobs/principal-devops-engineer-sambanova-168004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SambaNova | Austin, Texas, United States; San Jose, California, United States · $200k – $260k |
+| [Incident Response Engineer, SIRT](https://o11y.jobs/jobs/incident-response-engineer-sirt-cloudflare-399197?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cloudflare | Hybrid |
+| [Senior CX Platform Engineer](https://o11y.jobs/jobs/senior-cx-platform-engineer-gitlab-066002?utm_source=github&utm_medium=repo&utm_campaign=jobs) | GitLab | Remote |
+| [Staff Software Engineer, Agentic Tools](https://o11y.jobs/jobs/staff-software-engineer-agentic-tools-cribl-187004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote · $205k – $240k |
+| [Staff Production Engineer](https://o11y.jobs/jobs/staff-production-engineer-zscaler-574007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote · $152k – $190k |
 | [Integration Reliability Engineer, Payments](https://o11y.jobs/jobs/integration-reliability-engineer-payments-stripe-406660?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Stripe | Toronto |
 | [Senior Software Developer - Vector Search - Elasticsearch](https://o11y.jobs/jobs/senior-software-developer-vector-search-elasticsearch-elastic-066493?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Canada · CA$128k – CA$203k |
 | [Senior Software Engineer - Vector Search - Elasticsearch](https://o11y.jobs/jobs/senior-software-engineer-vector-search-elasticsearch-elastic-406174?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | United Kingdom |
@@ -96,16 +106,6 @@ _Last updated: 2026-11-21 · 100 open roles_
 | [Manager, Client Platform Engineering](https://o11y.jobs/jobs/manager-client-platform-engineering-mongodb-384766?utm_source=github&utm_medium=repo&utm_campaign=jobs) | MongoDB | Remote · $137k – $270k |
 | [Machine Learning Engineer](https://o11y.jobs/jobs/machine-learning-engineer-splunk-030936?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
 | [Staff Network Production Engineer, Operations](https://o11y.jobs/jobs/staff-network-production-engineer-operations-crusoe-6a1b8d?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Crusoe | San Francisco, CA - US · $215k – $260k |
-| [Staff Mobile Engineer - Session Replay \| Canada \| Remote](https://o11y.jobs/jobs/staff-mobile-engineer-session-replay-canada-remote-grafana-labs-843004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
-| [Staff Mobile Engineer - Session Replay \| US \| Remote](https://o11y.jobs/jobs/staff-mobile-engineer-session-replay-us-remote-grafana-labs-844004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
-| [Security Incident Response Team Manager](https://o11y.jobs/jobs/security-incident-response-team-manager-openai-10bf3d?utm_source=github&utm_medium=repo&utm_campaign=jobs) | OpenAI | San Francisco · $401k – $510k |
-| [Director of Data and Analytics, Self Service Cloud](https://o11y.jobs/jobs/director-of-data-and-analytics-self-service-cloud-elastic-372380?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | United States · $170k – $323k |
-| [Senior Data Engineer](https://o11y.jobs/jobs/senior-data-engineer-sumo-logic-353318?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sumo Logic | Hybrid |
-| [Infrastructure Engineer - Labs](https://o11y.jobs/jobs/infrastructure-engineer-labs-etched-fbae65?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Etched | San Jose |
-| [Senior Engineering Manager, Infrastructure Platform](https://o11y.jobs/jobs/senior-engineering-manager-infrastructure-platform-coralogix-3c47e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Site Reliability Engineer, Mistral Cloud](https://o11y.jobs/jobs/site-reliability-engineer-mistral-cloud-mistral-ai-1c52ae?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Mistral AI | New York |
-| [Backend Engineer](https://o11y.jobs/jobs/backend-engineer-coralogix-e9377?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Senior Frontend Engineer](https://o11y.jobs/jobs/senior-frontend-engineer-coralogix-d3270?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

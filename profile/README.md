@@ -6,8 +6,8 @@ _Last updated: 2026-11-22 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
-| [Senior Platform Engineer, Replicate](https://o11y.jobs/jobs/senior-platform-engineer-replicate-cloudflare-406944?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cloudflare | In-Office |
 | [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
+| [Senior Platform Engineer, Replicate](https://o11y.jobs/jobs/senior-platform-engineer-replicate-cloudflare-406944?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cloudflare | In-Office |
 | [Engineering Manager](https://o11y.jobs/jobs/engineering-manager-cortex-593008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cortex | Remote · $200k – $260k |
 | [QA Software Engineer NC Hybrid](https://o11y.jobs/jobs/qa-software-engineer-nc-hybrid-splunk-023065?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | RTP, North Carolina, US · $139k – $282k |
 | [Principal Software Engineer - Search Infra - Elasticsearch](https://o11y.jobs/jobs/principal-software-engineer-search-infra-elasticsearch-elastic-407578?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | United States · $160k – $304k |

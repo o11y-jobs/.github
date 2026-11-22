@@ -2,10 +2,11 @@
 
 Curated open roles in observability, OpenTelemetry, Prometheus, Grafana, tracing, metrics, logs, SRE and platform engineering. Auto-updated from [o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs).
 
-_Last updated: 2026-11-21 · 100 open roles_
+_Last updated: 2026-11-22 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Senior Platform Engineer, Replicate](https://o11y.jobs/jobs/senior-platform-engineer-replicate-cloudflare-406944?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cloudflare | In-Office |
 | [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Engineering Manager](https://o11y.jobs/jobs/engineering-manager-cortex-593008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cortex | Remote · $200k – $260k |
 | [QA Software Engineer NC Hybrid](https://o11y.jobs/jobs/qa-software-engineer-nc-hybrid-splunk-023065?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | RTP, North Carolina, US · $139k – $282k |
@@ -105,7 +106,6 @@ _Last updated: 2026-11-21 · 100 open roles_
 | [Production Engineer, Network Engineering](https://o11y.jobs/jobs/production-engineer-network-engineering-fluidstack-6adf24?utm_source=github&utm_medium=repo&utm_campaign=jobs) | FluidStack | London · $237k – $270k |
 | [Member of Technical Staff (Site Reliability Engineer, Search Crawler)](https://o11y.jobs/jobs/member-of-technical-staff-site-reliability-engineer-crawler-perplexity-bf063c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Perplexity | London |
 | [Manager, Client Platform Engineering](https://o11y.jobs/jobs/manager-client-platform-engineering-mongodb-384766?utm_source=github&utm_medium=repo&utm_campaign=jobs) | MongoDB | Remote · $137k – $270k |
-| [Machine Learning Engineer](https://o11y.jobs/jobs/machine-learning-engineer-splunk-030936?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

@@ -6,6 +6,7 @@ _Last updated: 2026-11-23 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Incident Management / SRE & Reliability Lead, AI Training (Remote, Contract, $80/hr) — Ethos via AI Gig Scout](https://o11y.jobs/jobs/incident-management-sre-reliability-lead-ai-training-remote-contract-80-hr-ethos-ethos-via-ai-gig-scout-8a907c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Ethos (via AI Gig Scout) | Remote · $80 |
 | [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Backend Engineer](https://o11y.jobs/jobs/backend-engineer-coralogix-0ec68?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Platform Engineer, Replicate](https://o11y.jobs/jobs/senior-platform-engineer-replicate-cloudflare-406944?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cloudflare | In-Office |
@@ -105,7 +106,6 @@ _Last updated: 2026-11-23 · 100 open roles_
 | [Engineering Manager, Data Platform](https://o11y.jobs/jobs/engineering-manager-data-platform-sentry-c7d0f2?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $220k – $400k |
 | [Engineering Manager, Infrastructure](https://o11y.jobs/jobs/engineering-manager-infrastructure-sentry-8a4b7a?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $220k – $400k |
 | [Production Engineer, Network Engineering](https://o11y.jobs/jobs/production-engineer-network-engineering-fluidstack-6adf24?utm_source=github&utm_medium=repo&utm_campaign=jobs) | FluidStack | London · $237k – $270k |
-| [Member of Technical Staff (Site Reliability Engineer, Search Crawler)](https://o11y.jobs/jobs/member-of-technical-staff-site-reliability-engineer-crawler-perplexity-bf063c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Perplexity | London |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

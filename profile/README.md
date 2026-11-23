@@ -6,6 +6,8 @@ _Last updated: 2026-11-23 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Software Engineering Manager, Data pipeline](https://o11y.jobs/jobs/software-engineer-team-leader-data-pipeline-coralogix-2d55b?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Backend Engineer](https://o11y.jobs/jobs/backend-engineer-groundcover-8b736?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Groundcover | Tel Aviv |
 | [Incident Management / SRE & Reliability Lead, AI Training (Remote, Contract, $80/hr) — Ethos via AI Gig Scout](https://o11y.jobs/jobs/incident-management-sre-reliability-lead-ai-training-remote-contract-80-hr-ethos-ethos-via-ai-gig-scout-8a907c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Ethos (via AI Gig Scout) | Remote · $80 |
 | [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Backend Engineer](https://o11y.jobs/jobs/backend-engineer-coralogix-0ec68?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
@@ -89,7 +91,6 @@ _Last updated: 2026-11-23 · 100 open roles_
 | [Engineering Manager - Grafana Productivity  (Remote, USA)](https://o11y.jobs/jobs/engineering-manager-grafana-productivity-remote-usa-grafana-labs-088004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote · $189k – $227k |
 | [Consulting Engineering Technical Leader](https://o11y.jobs/jobs/consulting-engineering-technical-leader-splunk-251831?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote · $143k – $253k |
 | [Senior Software Engineer](https://o11y.jobs/jobs/senior-software-engineer-splunk-030421?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Tel Aviv-Yafo, Israel |
-| [Site Reliability Engineer (FedRAMP / Security)](https://o11y.jobs/jobs/site-reliability-engineer-fedramp-security-ny-coralogix-33c5f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote · $170k – $350k |
 | [Software Engineer \| Distributed System + Fullstack (Python,Go, Java) + AI  - 7+ years](https://o11y.jobs/jobs/software-engineer-distributed-system-fullstack-python-go-java-ai-7-years-splunk-029672?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
 | [Software Engineering Technical Leader \| Enterprise AI Platforms, Infrastructure & Automation](https://o11y.jobs/jobs/software-engineering-technical-leader-enterprise-ai-platforms-infrastructure-aut-splunk-296731?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
 | [Software Engineer \| Distributed System + Fullstack (Python,Go, Java) + AI  - 4+ years](https://o11y.jobs/jobs/software-engineer-distributed-system-fullstack-python-go-java-ai-4-years-splunk-029414?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
@@ -105,7 +106,6 @@ _Last updated: 2026-11-23 · 100 open roles_
 | [Staff Research Scientist - Post-Training for Observability Native Models](https://o11y.jobs/jobs/staff-research-scientist-post-training-for-observability-native-models-datadog-385200?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Paris, France |
 | [Engineering Manager, Data Platform](https://o11y.jobs/jobs/engineering-manager-data-platform-sentry-c7d0f2?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $220k – $400k |
 | [Engineering Manager, Infrastructure](https://o11y.jobs/jobs/engineering-manager-infrastructure-sentry-8a4b7a?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $220k – $400k |
-| [Production Engineer, Network Engineering](https://o11y.jobs/jobs/production-engineer-network-engineering-fluidstack-6adf24?utm_source=github&utm_medium=repo&utm_campaign=jobs) | FluidStack | London · $237k – $270k |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

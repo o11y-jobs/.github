@@ -6,13 +6,16 @@ _Last updated: 2026-11-24 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Senior Site Reliability Engineer - Kubernetes & AWS](https://o11y.jobs/jobs/senior-site-reliability-engineer-kubernetes-aws-okta-255907?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Okta | Bengaluru |
+| [Product Engineer](https://o11y.jobs/jobs/product-engineer-komodor-d237e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
+| [Production Engineer, Infrastructure](https://o11y.jobs/jobs/production-engineer-infrastructure-mercor-2ef383?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Mercor | San Francisco · $160k – $500k |
+| [GVP, AI Applications & Technology](https://o11y.jobs/jobs/gvp-ai-applications-technology-new-relic-039008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Atlanta, Georgia, USA; Denver, Colorado, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA; San Francisco, California, USA; Seattle, Washington, USA · $338k – $420k |
 | [Senior Platform Engineer, Cloud Infra & SRE for AI Training (Remote, Contract, per-task pay) — Micro1 via AI Gig Scout](https://o11y.jobs/jobs/senior-platform-engineer-cloud-infra-sre-for-ai-training-remote-contract-per-tas-micro1-via-ai-gig-scout-810261?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Micro1 (via AI Gig Scout) | Remote |
 | [Staff Software Engineer, Control Plane](https://o11y.jobs/jobs/staff-software-engineer-control-plane-cribl-722004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote · $200k – $240k |
 | [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Senior Security Operations Engineer, Incident Response](https://o11y.jobs/jobs/senior-security-operations-engineer-incident-response-roblox-260128?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Roblox | San Mateo, CA, United States · $160k – $194k |
 | [Intermediate Security Engineer, Security Incident Response Team (SIRT)](https://o11y.jobs/jobs/intermediate-security-engineer-security-incident-response-team-sirt-gitlab-027002?utm_source=github&utm_medium=repo&utm_campaign=jobs) | GitLab | Remote |
 | [Staff Machine Learning Platform Engineer](https://o11y.jobs/jobs/staff-machine-learning-platform-engineer-adyen-288601?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Adyen | Amsterdam |
-| [Product Engineer](https://o11y.jobs/jobs/product-engineer-komodor-d237e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Senior Software Engineer - Platform Billing Core](https://o11y.jobs/jobs/senior-software-engineer-platform-billing-core-elastic-411240?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Ireland · €87k – €138k |
 | [Software Engineer - Riot Operations Center (SRE)](https://o11y.jobs/jobs/software-engineer-riot-operations-center-sre-riot-games-397811?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Riot Games | Dublin, Ireland |
 | [Software Engineering Manager, Data pipeline](https://o11y.jobs/jobs/software-engineer-team-leader-data-pipeline-coralogix-2d55b?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
@@ -103,9 +106,6 @@ _Last updated: 2026-11-24 · 100 open roles_
 | [Software Engineer \| Distributed System + Fullstack (Python,Go, Java) + AI  - 4+ years](https://o11y.jobs/jobs/software-engineer-distributed-system-fullstack-python-go-java-ai-4-years-splunk-029414?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
 | [ML Performance Engineer](https://o11y.jobs/jobs/ml-performance-engineer-tensorwave-970809?utm_source=github&utm_medium=repo&utm_campaign=jobs) | TensorWave | Las Vegas, Nevada |
 | [Manager, Solutions Engineering \| West Coast \| Remote](https://o11y.jobs/jobs/manager-solutions-engineering-west-coast-remote-grafana-labs-286004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
-| [Senior Site Reliability Engineer, Agent Engine](https://o11y.jobs/jobs/senior-site-reliability-engineer-agent-engine-mongodb-366599?utm_source=github&utm_medium=repo&utm_campaign=jobs) | MongoDB | Dublin |
-| [Associate IT infrastructure Engineer](https://o11y.jobs/jobs/associate-it-infrastructure-engineer-new-relic-206008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Dublin, Ireland |
-| [Senior Production Engineer](https://o11y.jobs/jobs/senior-production-engineer-i-coreweave-670006?utm_source=github&utm_medium=repo&utm_campaign=jobs) | CoreWeave | Sunnyvale, CA · $153k – $204k |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

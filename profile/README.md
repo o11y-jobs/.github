@@ -2,10 +2,14 @@
 
 Curated open roles in observability, OpenTelemetry, Prometheus, Grafana, tracing, metrics, logs, SRE and platform engineering. Auto-updated from [o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs).
 
-_Last updated: 2026-11-23 · 100 open roles_
+_Last updated: 2026-11-24 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Staff Machine Learning Platform Engineer](https://o11y.jobs/jobs/staff-machine-learning-platform-engineer-adyen-288601?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Adyen | Amsterdam |
+| [Product Engineer](https://o11y.jobs/jobs/product-engineer-komodor-d237e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
+| [Senior Software Engineer - Platform Billing Core](https://o11y.jobs/jobs/senior-software-engineer-platform-billing-core-elastic-411240?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Ireland · €87k – €138k |
+| [Software Engineer - Riot Operations Center (SRE)](https://o11y.jobs/jobs/software-engineer-riot-operations-center-sre-riot-games-397811?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Riot Games | Dublin, Ireland |
 | [Software Engineering Manager, Data pipeline](https://o11y.jobs/jobs/software-engineer-team-leader-data-pipeline-coralogix-2d55b?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Backend Engineer](https://o11y.jobs/jobs/backend-engineer-groundcover-8b736?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Groundcover | Tel Aviv |
 | [Incident Management / SRE & Reliability Lead, AI Training (Remote, Contract, $80/hr) — Ethos via AI Gig Scout](https://o11y.jobs/jobs/incident-management-sre-reliability-lead-ai-training-remote-contract-80-hr-ethos-ethos-via-ai-gig-scout-8a907c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Ethos (via AI Gig Scout) | Remote · $80 |
@@ -18,7 +22,7 @@ _Last updated: 2026-11-23 · 100 open roles_
 | [Principal Software Developer - Search Infra - Elasticsearch](https://o11y.jobs/jobs/principal-software-developer-search-infra-elasticsearch-elastic-407549?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Canada · CA$154k – CA$244k |
 | [Principal Software Engineer - Vector Search - Elasticsearch](https://o11y.jobs/jobs/principal-software-engineer-vector-search-elasticsearch-elastic-407526?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | United Kingdom |
 | [Principal Software Developer - Vector Search - Elasticsearch](https://o11y.jobs/jobs/principal-software-developer-vector-search-elasticsearch-elastic-407510?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Canada · CA$154k – CA$244k |
-| [Principal DevOps Engineer](https://o11y.jobs/jobs/principal-devops-engineer-sambanova-168004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SambaNova | Austin, Texas, United States; San Jose, California, United States · $200k – $260k |
+| [Principal DevOps Engineer](https://o11y.jobs/jobs/principal-devops-engineer-sambanova-168004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SambaNova | Austin, Texas, United States; San Jose, California, United States · $180k – $250k |
 | [Incident Response Engineer, SIRT](https://o11y.jobs/jobs/incident-response-engineer-sirt-cloudflare-399197?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cloudflare | Hybrid |
 | [Senior CX Platform Engineer](https://o11y.jobs/jobs/senior-cx-platform-engineer-gitlab-066002?utm_source=github&utm_medium=repo&utm_campaign=jobs) | GitLab | Remote |
 | [Staff Software Engineer, Agentic Tools](https://o11y.jobs/jobs/staff-software-engineer-agentic-tools-cribl-187004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote · $205k – $240k |
@@ -55,7 +59,6 @@ _Last updated: 2026-11-23 · 100 open roles_
 | [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-sentry-0f616a?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $210k – $250k |
 | [Site Reliability Engineer - Python, Splunk- Telecom Product - 7+ Years](https://o11y.jobs/jobs/site-reliability-engineer-python-splunk-telecom-product-7-years-splunk-306831?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
 | [Software Engineering Technical Leader](https://o11y.jobs/jobs/software-engineering-technical-leader-splunk-031721?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Krakow, Poland |
-| [Product Engineer](https://o11y.jobs/jobs/product-engineer-komodor-d237e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Staff Software Engineer, Search Core](https://o11y.jobs/jobs/staff-software-engineer-search-core-cribl-458004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote · $205k – $240k |
 | [Director of Security Research, Cribl Detect](https://o11y.jobs/jobs/director-of-security-research-cribl-detect-cribl-099004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
 | [Platform Engineer](https://o11y.jobs/jobs/platform-engineer-opslevel-662be2?utm_source=github&utm_medium=repo&utm_campaign=jobs) | OpsLevel | Remote |
@@ -103,9 +106,6 @@ _Last updated: 2026-11-23 · 100 open roles_
 | [Site Reliability Engineer](https://o11y.jobs/jobs/site-reliability-engineer-mistral-ai-5a5e6c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Mistral AI | Paris |
 | [Manager, Software Engineering - SRE Site Lead: Dublin ROC](https://o11y.jobs/jobs/manager-software-engineering-sre-site-lead-dublin-roc-riot-games-385235?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Riot Games | Dublin, Ireland |
 | [Staff Research Scientist - Foundation & World Models](https://o11y.jobs/jobs/staff-research-scientist-foundation-world-models-datadog-385205?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Remote |
-| [Staff Research Scientist - Post-Training for Observability Native Models](https://o11y.jobs/jobs/staff-research-scientist-post-training-for-observability-native-models-datadog-385200?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Paris, France |
-| [Engineering Manager, Data Platform](https://o11y.jobs/jobs/engineering-manager-data-platform-sentry-c7d0f2?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $220k – $400k |
-| [Engineering Manager, Infrastructure](https://o11y.jobs/jobs/engineering-manager-infrastructure-sentry-8a4b7a?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $220k – $400k |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

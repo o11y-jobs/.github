@@ -6,13 +6,14 @@ _Last updated: 2026-11-24 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Senior Full-Stack Engineer, Growth (React, TypeScript, Go/Java)](https://o11y.jobs/jobs/senior-full-stack-engineer-growth-react-typescript-go-java-dash0-f6e613?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Dash0 | Remote |
+| [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Senior Site Reliability Engineer - Kubernetes & AWS](https://o11y.jobs/jobs/senior-site-reliability-engineer-kubernetes-aws-okta-255907?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Okta | Bengaluru |
 | [Product Engineer](https://o11y.jobs/jobs/product-engineer-komodor-d237e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Production Engineer, Infrastructure](https://o11y.jobs/jobs/production-engineer-infrastructure-mercor-2ef383?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Mercor | San Francisco · $160k – $500k |
 | [GVP, AI Applications & Technology](https://o11y.jobs/jobs/gvp-ai-applications-technology-new-relic-039008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Atlanta, Georgia, USA; Denver, Colorado, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA; San Francisco, California, USA; Seattle, Washington, USA · $338k – $420k |
 | [Senior Platform Engineer, Cloud Infra & SRE for AI Training (Remote, Contract, per-task pay) — Micro1 via AI Gig Scout](https://o11y.jobs/jobs/senior-platform-engineer-cloud-infra-sre-for-ai-training-remote-contract-per-tas-micro1-via-ai-gig-scout-810261?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Micro1 (via AI Gig Scout) | Remote |
 | [Staff Software Engineer, Control Plane](https://o11y.jobs/jobs/staff-software-engineer-control-plane-cribl-722004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote · $200k – $240k |
-| [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Senior Security Operations Engineer, Incident Response](https://o11y.jobs/jobs/senior-security-operations-engineer-incident-response-roblox-260128?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Roblox | San Mateo, CA, United States · $160k – $194k |
 | [Intermediate Security Engineer, Security Incident Response Team (SIRT)](https://o11y.jobs/jobs/intermediate-security-engineer-security-incident-response-team-sirt-gitlab-027002?utm_source=github&utm_medium=repo&utm_campaign=jobs) | GitLab | Remote |
 | [Staff Machine Learning Platform Engineer](https://o11y.jobs/jobs/staff-machine-learning-platform-engineer-adyen-288601?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Adyen | Amsterdam |
@@ -57,7 +58,6 @@ _Last updated: 2026-11-24 · 100 open roles_
 | [Infrastructure Operations Engineer / SRE](https://o11y.jobs/jobs/infrastructure-operations-engineer-sre-tenstorrent-289007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Tenstorrent | Gdańsk, Pomeranian Voivodeship, Poland; Warszawa, Masovian Voivodeship, Poland |
 | [Senior Product Engineer (Incident Response, remote)](https://o11y.jobs/jobs/senior-product-engineer-incident-response-remote-checkly-b8ff79?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Checkly | Remote · €79k – €107k |
 | [Senior Frontend Engineer, Foundations](https://o11y.jobs/jobs/senior-frontend-engineer-foundations-netbox-labs-c535f3?utm_source=github&utm_medium=repo&utm_campaign=jobs) | NetBox Labs | Remote · $85k – $195k |
-| [Software Engineer II](https://o11y.jobs/jobs/software-engineer-ii-sumo-logic-402011?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sumo Logic | Noida , Uttar Pradesh , India |
 | [Storage Platform Engineer](https://o11y.jobs/jobs/storage-platform-engineer-supabase-8e569e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Supabase | Remote |
 | [Senior Site Reliability Engineer](https://o11y.jobs/jobs/senior-site-reliability-engineer-thought-machine-2e5fd6?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Thought Machine | Remote |
 | [Senior SOC Engineer - Security Engineering](https://o11y.jobs/jobs/senior-soc-engineer-security-engineering-solarwinds-423005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Manila, Philippines |

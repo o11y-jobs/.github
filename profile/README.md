@@ -6,6 +6,11 @@ _Last updated: 2026-11-24 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Senior Platform Engineer, Cloud Infra & SRE for AI Training (Remote, Contract, per-task pay) — Micro1 via AI Gig Scout](https://o11y.jobs/jobs/senior-platform-engineer-cloud-infra-sre-for-ai-training-remote-contract-per-tas-micro1-via-ai-gig-scout-810261?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Micro1 (via AI Gig Scout) | Remote |
+| [Staff Software Engineer, Control Plane](https://o11y.jobs/jobs/staff-software-engineer-control-plane-cribl-722004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote · $200k – $240k |
+| [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
+| [Senior Security Operations Engineer, Incident Response](https://o11y.jobs/jobs/senior-security-operations-engineer-incident-response-roblox-260128?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Roblox | San Mateo, CA, United States · $160k – $194k |
+| [Intermediate Security Engineer, Security Incident Response Team (SIRT)](https://o11y.jobs/jobs/intermediate-security-engineer-security-incident-response-team-sirt-gitlab-027002?utm_source=github&utm_medium=repo&utm_campaign=jobs) | GitLab | Remote |
 | [Staff Machine Learning Platform Engineer](https://o11y.jobs/jobs/staff-machine-learning-platform-engineer-adyen-288601?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Adyen | Amsterdam |
 | [Product Engineer](https://o11y.jobs/jobs/product-engineer-komodor-d237e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Senior Software Engineer - Platform Billing Core](https://o11y.jobs/jobs/senior-software-engineer-platform-billing-core-elastic-411240?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Ireland · €87k – €138k |
@@ -13,7 +18,6 @@ _Last updated: 2026-11-24 · 100 open roles_
 | [Software Engineering Manager, Data pipeline](https://o11y.jobs/jobs/software-engineer-team-leader-data-pipeline-coralogix-2d55b?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Backend Engineer](https://o11y.jobs/jobs/backend-engineer-groundcover-8b736?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Groundcover | Tel Aviv |
 | [Incident Management / SRE & Reliability Lead, AI Training (Remote, Contract, $80/hr) — Ethos via AI Gig Scout](https://o11y.jobs/jobs/incident-management-sre-reliability-lead-ai-training-remote-contract-80-hr-ethos-ethos-via-ai-gig-scout-8a907c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Ethos (via AI Gig Scout) | Remote · $80 |
-| [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Backend Engineer](https://o11y.jobs/jobs/backend-engineer-coralogix-0ec68?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Platform Engineer, Replicate](https://o11y.jobs/jobs/senior-platform-engineer-replicate-cloudflare-406944?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cloudflare | In-Office |
 | [Engineering Manager](https://o11y.jobs/jobs/engineering-manager-cortex-593008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cortex | Remote · $200k – $260k |
@@ -56,7 +60,7 @@ _Last updated: 2026-11-24 · 100 open roles_
 | [Senior SOC Engineer - Security Engineering](https://o11y.jobs/jobs/senior-soc-engineer-security-engineering-solarwinds-423005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Manila, Philippines |
 | [Senior Software Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Staff Site Reliability Engineer - IDaaS](https://o11y.jobs/jobs/staff-site-reliability-engineer-idaas-okta-071442?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Okta | Toronto, ON, Canada · CA$168k – CA$231k |
-| [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-sentry-0f616a?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · $210k – $250k |
+| [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-sentry-0f616a?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · CA$210k – CA$250k |
 | [Site Reliability Engineer - Python, Splunk- Telecom Product - 7+ Years](https://o11y.jobs/jobs/site-reliability-engineer-python-splunk-telecom-product-7-years-splunk-306831?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
 | [Software Engineering Technical Leader](https://o11y.jobs/jobs/software-engineering-technical-leader-splunk-031721?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Krakow, Poland |
 | [Staff Software Engineer, Search Core](https://o11y.jobs/jobs/staff-software-engineer-search-core-cribl-458004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote · $205k – $240k |
@@ -102,10 +106,6 @@ _Last updated: 2026-11-24 · 100 open roles_
 | [Senior Site Reliability Engineer, Agent Engine](https://o11y.jobs/jobs/senior-site-reliability-engineer-agent-engine-mongodb-366599?utm_source=github&utm_medium=repo&utm_campaign=jobs) | MongoDB | Dublin |
 | [Associate IT infrastructure Engineer](https://o11y.jobs/jobs/associate-it-infrastructure-engineer-new-relic-206008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Dublin, Ireland |
 | [Senior Production Engineer](https://o11y.jobs/jobs/senior-production-engineer-i-coreweave-670006?utm_source=github&utm_medium=repo&utm_campaign=jobs) | CoreWeave | Sunnyvale, CA · $153k – $204k |
-| [AI Ops Engineer](https://o11y.jobs/jobs/ai-ops-engineer-solarwinds-320005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Austin, Texas |
-| [Site Reliability Engineer](https://o11y.jobs/jobs/site-reliability-engineer-mistral-ai-5a5e6c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Mistral AI | Paris |
-| [Manager, Software Engineering - SRE Site Lead: Dublin ROC](https://o11y.jobs/jobs/manager-software-engineering-sre-site-lead-dublin-roc-riot-games-385235?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Riot Games | Dublin, Ireland |
-| [Staff Research Scientist - Foundation & World Models](https://o11y.jobs/jobs/staff-research-scientist-foundation-world-models-datadog-385205?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Remote |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

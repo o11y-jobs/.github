@@ -6,6 +6,9 @@ _Last updated: 2026-11-25 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Director, Solutions Consulting](https://o11y.jobs/jobs/director-solutions-consulting-new-relic-578008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Melbourne, Australia; Sydney, Australia |
+| [Principal Software Engineer](https://o11y.jobs/jobs/principal-software-engineer-sumo-logic-386571?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sumo Logic | Remote · $213k – $250k |
+| [Frontend Software Engineer II](https://o11y.jobs/jobs/frontend-software-engineer-ii-sumo-logic-415608?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sumo Logic | San José, Costa Rica |
 | [Backend Software Engineer II Backend - Cloud SIEM, CyberSecurity](https://o11y.jobs/jobs/backend-software-engineer-ii-backend-cloud-siem-cybersecurity-sumo-logic-415651?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sumo Logic | Hybrid |
 | [Site Reliability / Cloud Platform Engineer (Agent Infra)](https://o11y.jobs/jobs/site-reliability-cloud-platform-engineer-agent-infra-baseten-df57e1?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Baseten | Remote · $200k – $400k |
 | [Staff Software Engineer, Platform Engineering](https://o11y.jobs/jobs/staff-software-engineer-platform-engineering-crusoe-0137a4?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Crusoe | San Francisco, CA - US · $215k – $260k |
@@ -103,9 +106,6 @@ _Last updated: 2026-11-25 · 100 open roles_
 | [Integration Reliability Engineer, Technical Operations](https://o11y.jobs/jobs/integration-reliability-engineer-technical-operations-stripe-360332?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Stripe | Toronto |
 | [Senior Staff Security Engineer](https://o11y.jobs/jobs/senior-staff-security-engineer-solarwinds-478005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Austin, Texas |
 | [Sr Software Engineer - Cloud Infrastructure/SRE](https://o11y.jobs/jobs/sr-software-engineer-cloud-infrastructure-sre-24-7-rotation-corelight-369707?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Corelight | North America  · $147k – $195k |
-| [Product Integration Reliability Engineer, Money Management](https://o11y.jobs/jobs/product-integration-reliability-engineer-money-management-stripe-358071?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Stripe | Toronto |
-| [Senior Value Engineer, Strategic Accounts](https://o11y.jobs/jobs/senior-value-engineer-strategic-accounts-cribl-767004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote · $170k – $200k |
-| [Senior Site Reliability Engineer (Database Focus)](https://o11y.jobs/jobs/senior-site-reliability-engineer-database-focus-gocardless-385160?utm_source=github&utm_medium=repo&utm_campaign=jobs) | GoCardless | Lisbon, Portugal · €76k – €114k |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

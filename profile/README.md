@@ -2,16 +2,20 @@
 
 Curated open roles in observability, OpenTelemetry, Prometheus, Grafana, tracing, metrics, logs, SRE and platform engineering. Auto-updated from [o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs).
 
-_Last updated: 2026-11-24 · 100 open roles_
+_Last updated: 2026-11-25 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Infrastructure Engineer, Workflow Engine](https://o11y.jobs/jobs/infrastructure-engineer-workflow-engine-stripe-414532?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Stripe | Seattle, WA  · $157k – $235k |
+| [Staff Observability Infrastructure Engineer](https://o11y.jobs/jobs/staff-observability-infrastructure-engineer-okta-359929?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Okta | San Francisco, CA, United States · $206k – $283k |
+| [Enterprise Platform Engineer, EMEA](https://o11y.jobs/jobs/enterprise-platform-engineer-emea-abnormal-ai-310003?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Abnormal AI | Remote |
+| [Automation Engineer](https://o11y.jobs/jobs/automation-engineer-coralogix-4a570?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [Senior Full-Stack Engineer, Growth (React, TypeScript, Go/Java)](https://o11y.jobs/jobs/senior-full-stack-engineer-growth-react-typescript-go-java-dash0-f6e613?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Dash0 | Remote |
 | [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Senior Site Reliability Engineer - Kubernetes & AWS](https://o11y.jobs/jobs/senior-site-reliability-engineer-kubernetes-aws-okta-255907?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Okta | Bengaluru |
-| [Product Engineer](https://o11y.jobs/jobs/product-engineer-komodor-d237e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Production Engineer, Infrastructure](https://o11y.jobs/jobs/production-engineer-infrastructure-mercor-2ef383?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Mercor | San Francisco · $160k – $500k |
 | [GVP, AI Applications & Technology](https://o11y.jobs/jobs/gvp-ai-applications-technology-new-relic-039008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Atlanta, Georgia, USA; Denver, Colorado, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA; San Francisco, California, USA; Seattle, Washington, USA · $338k – $420k |
+| [Partner Alliance Manager -  Splunk PBST](https://o11y.jobs/jobs/partner-alliance-manager-splunk-pbst-splunk-322791?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote · $275k – $460k |
 | [Senior Platform Engineer, Cloud Infra & SRE for AI Training (Remote, Contract, per-task pay) — Micro1 via AI Gig Scout](https://o11y.jobs/jobs/senior-platform-engineer-cloud-infra-sre-for-ai-training-remote-contract-per-tas-micro1-via-ai-gig-scout-810261?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Micro1 (via AI Gig Scout) | Remote |
 | [Staff Software Engineer, Control Plane](https://o11y.jobs/jobs/staff-software-engineer-control-plane-cribl-722004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote · $200k – $240k |
 | [Senior Security Operations Engineer, Incident Response](https://o11y.jobs/jobs/senior-security-operations-engineer-incident-response-roblox-260128?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Roblox | San Mateo, CA, United States · $160k – $194k |
@@ -102,10 +106,6 @@ _Last updated: 2026-11-24 · 100 open roles_
 | [Consulting Engineering Technical Leader](https://o11y.jobs/jobs/consulting-engineering-technical-leader-splunk-251831?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote · $143k – $253k |
 | [Senior Software Engineer](https://o11y.jobs/jobs/senior-software-engineer-splunk-030421?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Tel Aviv-Yafo, Israel |
 | [Software Engineer \| Distributed System + Fullstack (Python,Go, Java) + AI  - 7+ years](https://o11y.jobs/jobs/software-engineer-distributed-system-fullstack-python-go-java-ai-7-years-splunk-029672?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
-| [Software Engineering Technical Leader \| Enterprise AI Platforms, Infrastructure & Automation](https://o11y.jobs/jobs/software-engineering-technical-leader-enterprise-ai-platforms-infrastructure-aut-splunk-296731?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
-| [Software Engineer \| Distributed System + Fullstack (Python,Go, Java) + AI  - 4+ years](https://o11y.jobs/jobs/software-engineer-distributed-system-fullstack-python-go-java-ai-4-years-splunk-029414?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
-| [ML Performance Engineer](https://o11y.jobs/jobs/ml-performance-engineer-tensorwave-970809?utm_source=github&utm_medium=repo&utm_campaign=jobs) | TensorWave | Las Vegas, Nevada |
-| [Manager, Solutions Engineering \| West Coast \| Remote](https://o11y.jobs/jobs/manager-solutions-engineering-west-coast-remote-grafana-labs-286004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

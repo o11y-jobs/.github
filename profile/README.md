@@ -6,6 +6,12 @@ _Last updated: 2026-11-25 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Backend Software Engineer II Backend - Cloud SIEM, CyberSecurity](https://o11y.jobs/jobs/backend-software-engineer-ii-backend-cloud-siem-cybersecurity-sumo-logic-415651?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sumo Logic | Hybrid |
+| [Site Reliability / Cloud Platform Engineer (Agent Infra)](https://o11y.jobs/jobs/site-reliability-cloud-platform-engineer-agent-infra-baseten-df57e1?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Baseten | Remote · $200k – $400k |
+| [Staff Software Engineer, Platform Engineering](https://o11y.jobs/jobs/staff-software-engineer-platform-engineering-crusoe-0137a4?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Crusoe | San Francisco, CA - US · $215k – $260k |
+| [Senior Staff Platform Engineer](https://o11y.jobs/jobs/senior-staff-platform-engineer-crusoe-4f3c6a?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Crusoe | San Francisco, CA - US · $250k – $300k |
+| [Senior Manager, Networking Monitoring](https://o11y.jobs/jobs/senior-manager-networking-monitoring-tensorwave-64d6ae?utm_source=github&utm_medium=repo&utm_campaign=jobs) | TensorWave | Remote |
+| [Staff Software Engineer, Observability](https://o11y.jobs/jobs/staff-software-engineer-observability-robinhood-412800?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Robinhood | Menlo Park, CA · $153k – $230k |
 | [Infrastructure Engineer, Workflow Engine](https://o11y.jobs/jobs/infrastructure-engineer-workflow-engine-stripe-414532?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Stripe | Seattle, WA  · $157k – $235k |
 | [Staff Observability Infrastructure Engineer](https://o11y.jobs/jobs/staff-observability-infrastructure-engineer-okta-359929?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Okta | San Francisco, CA, United States · $206k – $283k |
 | [Enterprise Platform Engineer, EMEA](https://o11y.jobs/jobs/enterprise-platform-engineer-emea-abnormal-ai-310003?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Abnormal AI | Remote |
@@ -100,12 +106,6 @@ _Last updated: 2026-11-25 · 100 open roles_
 | [Product Integration Reliability Engineer, Money Management](https://o11y.jobs/jobs/product-integration-reliability-engineer-money-management-stripe-358071?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Stripe | Toronto |
 | [Senior Value Engineer, Strategic Accounts](https://o11y.jobs/jobs/senior-value-engineer-strategic-accounts-cribl-767004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote · $170k – $200k |
 | [Senior Site Reliability Engineer (Database Focus)](https://o11y.jobs/jobs/senior-site-reliability-engineer-database-focus-gocardless-385160?utm_source=github&utm_medium=repo&utm_campaign=jobs) | GoCardless | Lisbon, Portugal · €76k – €114k |
-| [Senior Client Platform Engineer](https://o11y.jobs/jobs/senior-client-platform-engineer-robinhood-354333?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Robinhood | Menlo Park, CA · $126k – $190k |
-| [Engineering Manager - Grafana Productivity  (Remote, Canada)](https://o11y.jobs/jobs/engineering-manager-grafana-productivity-remote-canada-grafana-labs-327004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote · CA$193k – CA$231k |
-| [Engineering Manager - Grafana Productivity  (Remote, USA)](https://o11y.jobs/jobs/engineering-manager-grafana-productivity-remote-usa-grafana-labs-088004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote · $189k – $227k |
-| [Consulting Engineering Technical Leader](https://o11y.jobs/jobs/consulting-engineering-technical-leader-splunk-251831?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote · $143k – $253k |
-| [Senior Software Engineer](https://o11y.jobs/jobs/senior-software-engineer-splunk-030421?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Tel Aviv-Yafo, Israel |
-| [Software Engineer \| Distributed System + Fullstack (Python,Go, Java) + AI  - 7+ years](https://o11y.jobs/jobs/software-engineer-distributed-system-fullstack-python-go-java-ai-7-years-splunk-029672?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

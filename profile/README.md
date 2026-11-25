@@ -6,6 +6,10 @@ _Last updated: 2026-11-25 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Staff Production Engineer (SRE / Dev-Python)](https://o11y.jobs/jobs/staff-production-engineer-sre-dev-python-zscaler-551007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote |
+| [Sr Production Engineer (SRE / Dev-Python)](https://o11y.jobs/jobs/sr-production-engineer-sre-dev-python-zscaler-549007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote |
+| [Production Engineer (SRE/Dev - Python)](https://o11y.jobs/jobs/production-engineer-sre-dev-python-zscaler-559007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote |
+| [Manager, Engineering](https://o11y.jobs/jobs/manager-engineering-sumo-logic-416329?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sumo Logic | Noida , Uttar Pradesh , India |
 | [Director, Solutions Consulting](https://o11y.jobs/jobs/director-solutions-consulting-new-relic-578008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | New Relic | Melbourne, Australia; Sydney, Australia |
 | [Principal Software Engineer](https://o11y.jobs/jobs/principal-software-engineer-sumo-logic-386571?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sumo Logic | Remote · $213k – $250k |
 | [Frontend Software Engineer II](https://o11y.jobs/jobs/frontend-software-engineer-ii-sumo-logic-415608?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sumo Logic | San José, Costa Rica |
@@ -54,11 +58,11 @@ _Last updated: 2026-11-25 · 100 open roles_
 | [Principal Production Engineer](https://o11y.jobs/jobs/principal-production-engineer-zscaler-529007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote · $212k – $265k |
 | [Staff Software Engineer, Tech Lead - NetBox Core](https://o11y.jobs/jobs/staff-software-engineer-tech-lead-netbox-core-netbox-labs-d34c5d?utm_source=github&utm_medium=repo&utm_campaign=jobs) | NetBox Labs | Remote · $110k – $240k |
 | [Staff Field Engineer \| Canada \| Remote](https://o11y.jobs/jobs/staff-field-engineer-canada-remote-grafana-labs-173004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
-| [Engineering Manager - Grafana Infrastructure (Remote, USA)](https://o11y.jobs/jobs/engineering-manager-grafana-infrastructure-remote-usa-grafana-labs-134004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote · $189k – $227k |
-| [Engineering Manager - Grafana Infrastructure (Remote, Canada)](https://o11y.jobs/jobs/engineering-manager-grafana-infrastructure-remote-canada-grafana-labs-139004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote · CA$193k – CA$231k |
-| [Engineering Manager - Grafana Infrastructure (Remote, UK)](https://o11y.jobs/jobs/engineering-manager-grafana-infrastructure-remote-uk-grafana-labs-141004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote · £107k – £128k |
-| [Engineering Manager - Grafana Infrastructure (Remote, Spain)](https://o11y.jobs/jobs/engineering-manager-grafana-infrastructure-remote-spain-grafana-labs-147004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote · €97k – €116k |
-| [Engineering Manager - Grafana Infrastructure (Remote, Ireland)](https://o11y.jobs/jobs/engineering-manager-grafana-infrastructure-remote-ireland-grafana-labs-148004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote · €121k – €145k |
+| [Engineering Manager - Grafana Infrastructure \| USA \| Remote](https://o11y.jobs/jobs/engineering-manager-grafana-infrastructure-remote-usa-grafana-labs-134004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote · $189k – $227k |
+| [Engineering Manager - Grafana Infrastructure \| Canada \| Remote](https://o11y.jobs/jobs/engineering-manager-grafana-infrastructure-remote-canada-grafana-labs-139004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote · CA$193k – CA$231k |
+| [Engineering Manager - Grafana Infrastructure \| UK \| Remote](https://o11y.jobs/jobs/engineering-manager-grafana-infrastructure-remote-uk-grafana-labs-141004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote · £107k – £128k |
+| [Engineering Manager - Grafana Infrastructure \| Spain \| Remote](https://o11y.jobs/jobs/engineering-manager-grafana-infrastructure-remote-spain-grafana-labs-147004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote · €97k – €116k |
+| [Engineering Manager - Grafana Infrastructure \| Ireland \| Remote](https://o11y.jobs/jobs/engineering-manager-grafana-infrastructure-remote-ireland-grafana-labs-148004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote · €121k – €145k |
 | [Senior Software Engineer (TypeScript) - Marketplaces, SSC](https://o11y.jobs/jobs/senior-software-engineer-typescript-marketplaces-ssc-elastic-405579?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Elastic | Portugal · €56k – €88k |
 | [Staff Site Reliability Engineer](https://o11y.jobs/jobs/staff-site-reliability-engineer-okta-403862?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Okta | Toronto, ON, Canada · CA$168k – CA$231k |
 | [Software Engineer](https://o11y.jobs/jobs/software-engineer-splunk-031075?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | London, United Kingdom |
@@ -102,10 +106,6 @@ _Last updated: 2026-11-25 · 100 open roles_
 | [Network Production Engineer](https://o11y.jobs/jobs/network-production-engineer-fluidstack-20c790?utm_source=github&utm_medium=repo&utm_campaign=jobs) | FluidStack | London · $237k – $270k |
 | [Research Engineer, AI Monitoring](https://o11y.jobs/jobs/research-engineer-ai-monitoring-anthropic-416008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Anthropic | London, UK |
 | [Staff Data SRE](https://o11y.jobs/jobs/staff-data-sre-netskope-394120?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Netskope | Santa Clara, California, United States · $89k – $180k |
-| [Site Reliability Engineer (US - Pacific time)](https://o11y.jobs/jobs/site-reliability-engineer-us-pacific-time-posthog-6a26d4?utm_source=github&utm_medium=repo&utm_campaign=jobs) | PostHog | Remote |
-| [Integration Reliability Engineer, Technical Operations](https://o11y.jobs/jobs/integration-reliability-engineer-technical-operations-stripe-360332?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Stripe | Toronto |
-| [Senior Staff Security Engineer](https://o11y.jobs/jobs/senior-staff-security-engineer-solarwinds-478005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Austin, Texas |
-| [Sr Software Engineer - Cloud Infrastructure/SRE](https://o11y.jobs/jobs/sr-software-engineer-cloud-infrastructure-sre-24-7-rotation-corelight-369707?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Corelight | North America  · $147k – $195k |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

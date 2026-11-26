@@ -100,12 +100,12 @@ _Last updated: 2026-11-26 · 100 open roles_
 | [Staff DevOps Engineer](https://o11y.jobs/jobs/staff-devops-engineer-zscaler-971007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote |
 | [Senior Software Engineer](https://o11y.jobs/jobs/senior-software-engineer-solarwinds-125005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Bangalore, India |
 | [Principal Site Reliability Engineer](https://o11y.jobs/jobs/principal-site-reliability-engineer-zscaler-461007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote · $212k – $265k |
-| [Principal Software Engineer, Applied AI – Splunk Observability Cloud](https://o11y.jobs/jobs/principal-software-engineer-applied-ai-splunk-observability-cloud-splunk-028421?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Seattle, Washington, US · $241k – $417k |
 | [Sr Mgr, Software Engineering (Cribl Detect)](https://o11y.jobs/jobs/sr-mgr-software-engineering-cribl-detect-cribl-104004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote · $230k – $300k |
 | [Senior Staff SRE, Architecture Engineering: Hosted Runners](https://o11y.jobs/jobs/senior-staff-sre-architecture-engineering-hosted-runners-gitlab-489002?utm_source=github&utm_medium=repo&utm_campaign=jobs) | GitLab | Remote |
 | [Senior Software Engineer II - Agentic Intelligence](https://o11y.jobs/jobs/senior-software-engineer-ii-agentic-intelligence-honeycomb-708008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Honeycomb | Remote · CA$250k – CA$280k |
 | [Senior Site Reliability Engineer (Data Platform)](https://o11y.jobs/jobs/senior-site-reliability-engineer-data-platform-nebius-676101?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Nebius | Remote |
 | [Full-Stack Engineer (Backend Leaning) - Platform Engineering](https://o11y.jobs/jobs/full-stack-engineer-backend-leaning-platform-engineering-elevenlabs-76c5e0?utm_source=github&utm_medium=repo&utm_campaign=jobs) | ElevenLabs | Remote |
+| [DevOps Engineer, Developer Relations](https://o11y.jobs/jobs/devops-engineer-developer-relations-vultr-0a017e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Vultr | Remote |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

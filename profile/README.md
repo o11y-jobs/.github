@@ -6,6 +6,11 @@ _Last updated: 2026-11-26 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Software Developer](https://o11y.jobs/jobs/software-developer-splunk-030392?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Vancouver, British Columbia, Canada |
+| [Senior Technical Account Engineer](https://o11y.jobs/jobs/senior-technical-account-engineer-sumo-logic-418201?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sumo Logic | San José, Costa Rica |
+| [Senior Developer Advocate, OpenTelemetry](https://o11y.jobs/jobs/senior-developer-advocate-opentelemetry-datadog-418089?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Remote · $172k – $215k |
+| [Vice President, Technical Solutions Operations](https://o11y.jobs/jobs/vice-president-technical-solutions-operations-datadog-414502?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | San Francisco, California, USA · $275k – $350k |
+| [Engineering Manager](https://o11y.jobs/jobs/engineering-manager-incident-io-1f7a1e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | incident.io | London · £125k – £160k |
 | [Senior Site Reliability Engineer - AUS](https://o11y.jobs/jobs/senior-site-reliability-engineer-aus-teleport-22ea2b?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Teleport | Remote · A$216k – A$294k |
 | [Cloud Platform Engineer Intern (San Jose)](https://o11y.jobs/jobs/cloud-platform-engineer-intern-san-jose-sambanova-352004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SambaNova | San Jose, California, United States |
 | [ML Infrastructure Engineer Intern](https://o11y.jobs/jobs/ml-infrastructure-engineer-intern-sambanova-289004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SambaNova | Austin, Texas, United States; San Jose, California, United States |
@@ -22,7 +27,7 @@ _Last updated: 2026-11-26 · 100 open roles_
 | [Backend Software Engineer II Backend - Cloud SIEM, CyberSecurity](https://o11y.jobs/jobs/backend-software-engineer-ii-backend-cloud-siem-cybersecurity-sumo-logic-415651?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sumo Logic | Hybrid |
 | [Site Reliability / Cloud Platform Engineer (Agent Infra)](https://o11y.jobs/jobs/site-reliability-cloud-platform-engineer-agent-infra-baseten-df57e1?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Baseten | Remote · $200k – $400k |
 | [Staff Software Engineer, Platform Engineering](https://o11y.jobs/jobs/staff-software-engineer-platform-engineering-crusoe-0137a4?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Crusoe | San Francisco, CA - US · $215k – $260k |
-| [Senior Staff Platform Engineer](https://o11y.jobs/jobs/senior-staff-platform-engineer-crusoe-4f3c6a?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Crusoe | San Francisco, CA - US · $250k – $300k |
+| [Senior Staff Software Engineer, Platform Engineering](https://o11y.jobs/jobs/senior-staff-platform-engineer-crusoe-4f3c6a?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Crusoe | San Francisco, CA - US · $250k – $300k |
 | [Senior Manager, Networking Monitoring](https://o11y.jobs/jobs/senior-manager-networking-monitoring-tensorwave-64d6ae?utm_source=github&utm_medium=repo&utm_campaign=jobs) | TensorWave | Remote |
 | [Staff Software Engineer, Observability](https://o11y.jobs/jobs/staff-software-engineer-observability-robinhood-412800?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Robinhood | Menlo Park, CA · $153k – $230k |
 | [Infrastructure Engineer, Workflow Engine](https://o11y.jobs/jobs/infrastructure-engineer-workflow-engine-stripe-414532?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Stripe | Seattle, WA  · $157k – $235k |
@@ -101,11 +106,6 @@ _Last updated: 2026-11-26 · 100 open roles_
 | [Senior Software Engineer II - Agentic Intelligence](https://o11y.jobs/jobs/senior-software-engineer-ii-agentic-intelligence-honeycomb-708008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Honeycomb | Remote · CA$250k – CA$280k |
 | [Senior Site Reliability Engineer (Data Platform)](https://o11y.jobs/jobs/senior-site-reliability-engineer-data-platform-nebius-676101?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Nebius | Remote |
 | [Full-Stack Engineer (Backend Leaning) - Platform Engineering](https://o11y.jobs/jobs/full-stack-engineer-backend-leaning-platform-engineering-elevenlabs-76c5e0?utm_source=github&utm_medium=repo&utm_campaign=jobs) | ElevenLabs | Remote |
-| [DevOps Engineer, Developer Relations](https://o11y.jobs/jobs/devops-engineer-developer-relations-vultr-0a017e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Vultr | Remote |
-| [Cloud and Observability Engineer (Remote Role, 6pm - 3am)](https://o11y.jobs/jobs/cloud-and-observability-engineer-remote-role-6pm-3am-coralogix-4d169?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
-| [Staff Network Production Engineer, Deployment](https://o11y.jobs/jobs/staff-network-production-engineer-deployment-crusoe-f5be3f?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Crusoe | San Francisco, CA - US · $215k – $260k |
-| [Senior Network Production Engineer, Operations](https://o11y.jobs/jobs/senior-network-production-engineer-operations-crusoe-9078d7?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Crusoe | San Francisco, CA - US · $230k – $280k |
-| [AI Researcher (Remote)](https://o11y.jobs/jobs/ai-researcher-remote-splunk-030322?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | San Francisco, California, US · $234k – $384k |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

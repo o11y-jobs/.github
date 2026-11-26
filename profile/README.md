@@ -6,6 +6,16 @@ _Last updated: 2026-11-26 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Platform Engineer - Database](https://o11y.jobs/jobs/platform-engineer-database-supabase-4d0bf9?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Supabase | Remote |
+| [Staff Site Reliability Engineer](https://o11y.jobs/jobs/staff-site-reliability-engineer-solarwinds-325005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Bangalore, India |
+| [Cloud and Observability Engineer (Remote Role, 6pm - 3am)](https://o11y.jobs/jobs/cloud-and-observability-engineer-remote-role-6pm-3am-coralogix-4d169?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Staff DevOps Engineer, AI Security](https://o11y.jobs/jobs/staff-devops-engineer-ai-security-zscaler-660007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote |
+| [Automation Engineer](https://o11y.jobs/jobs/automation-engineer-coralogix-4a570?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
+| [Backend Engineer](https://o11y.jobs/jobs/backend-engineer-coralogix-e9377?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [Backend Engineer - Alerting](https://o11y.jobs/jobs/backend-engineer-alerting-coralogix-1be5c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
+| [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
+| [Site Reliability Engineer (US - Pacific/mountain time)](https://o11y.jobs/jobs/site-reliability-engineer-us-pacific-time-posthog-6a26d4?utm_source=github&utm_medium=repo&utm_campaign=jobs) | PostHog | Remote |
+| [Software Engineering Technical Leader](https://o11y.jobs/jobs/software-engineering-technical-leader-splunk-032070?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Krakow, Poland |
 | [Software Developer](https://o11y.jobs/jobs/software-developer-splunk-030392?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Vancouver, British Columbia, Canada |
 | [Senior Technical Account Engineer](https://o11y.jobs/jobs/senior-technical-account-engineer-sumo-logic-418201?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sumo Logic | San José, Costa Rica |
 | [Senior Developer Advocate, OpenTelemetry](https://o11y.jobs/jobs/senior-developer-advocate-opentelemetry-datadog-418089?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Datadog | Remote · $172k – $215k |
@@ -16,7 +26,6 @@ _Last updated: 2026-11-26 · 100 open roles_
 | [ML Infrastructure Engineer Intern](https://o11y.jobs/jobs/ml-infrastructure-engineer-intern-sambanova-289004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SambaNova | Austin, Texas, United States; San Jose, California, United States |
 | [AI Performance Engineer Intern](https://o11y.jobs/jobs/ai-performance-engineer-intern-sambanova-183004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SambaNova | Austin, Texas, United States; San Jose, California, United States |
 | [Senior Data Platform Engineer, Intelligent Platforms](https://o11y.jobs/jobs/senior-data-platform-engineer-intelligent-platforms-hellofresh-366501?utm_source=github&utm_medium=repo&utm_campaign=jobs) | HelloFresh | Warszawa, Masovian Voivodeship, Poland |
-| [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Staff Production Engineer (SRE / Dev-Python)](https://o11y.jobs/jobs/staff-production-engineer-sre-dev-python-zscaler-551007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote |
 | [Sr Production Engineer (SRE / Dev-Python)](https://o11y.jobs/jobs/sr-production-engineer-sre-dev-python-zscaler-549007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote |
 | [Production Engineer (SRE/Dev - Python)](https://o11y.jobs/jobs/production-engineer-sre-dev-python-zscaler-559007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote |
@@ -33,7 +42,6 @@ _Last updated: 2026-11-26 · 100 open roles_
 | [Infrastructure Engineer, Workflow Engine](https://o11y.jobs/jobs/infrastructure-engineer-workflow-engine-stripe-414532?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Stripe | Seattle, WA  · $157k – $235k |
 | [Staff Observability Infrastructure Engineer](https://o11y.jobs/jobs/staff-observability-infrastructure-engineer-okta-359929?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Okta | San Francisco, CA, United States · $206k – $283k |
 | [Enterprise Platform Engineer, EMEA](https://o11y.jobs/jobs/enterprise-platform-engineer-emea-abnormal-ai-310003?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Abnormal AI | Remote |
-| [Automation Engineer](https://o11y.jobs/jobs/automation-engineer-coralogix-4a570?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Gurugram |
 | [Senior Full-Stack Engineer, Growth (React, TypeScript, Go/Java)](https://o11y.jobs/jobs/senior-full-stack-engineer-growth-react-typescript-go-java-dash0-f6e613?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Dash0 | Remote |
 | [Senior Site Reliability Engineer - Kubernetes & AWS](https://o11y.jobs/jobs/senior-site-reliability-engineer-kubernetes-aws-okta-255907?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Okta | Bengaluru |
 | [Production Engineer, Infrastructure](https://o11y.jobs/jobs/production-engineer-infrastructure-mercor-2ef383?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Mercor | San Francisco · $160k – $500k |
@@ -48,7 +56,6 @@ _Last updated: 2026-11-26 · 100 open roles_
 | [Software Engineering Manager, Data pipeline](https://o11y.jobs/jobs/software-engineer-team-leader-data-pipeline-coralogix-2d55b?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Backend Engineer](https://o11y.jobs/jobs/backend-engineer-groundcover-8b736?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Groundcover | Tel Aviv |
 | [Incident Management / SRE & Reliability Lead, AI Training (Remote, Contract, $80/hr) — Ethos via AI Gig Scout](https://o11y.jobs/jobs/incident-management-sre-reliability-lead-ai-training-remote-contract-80-hr-ethos-ethos-via-ai-gig-scout-8a907c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Ethos (via AI Gig Scout) | Remote · $80 |
-| [Backend Engineer](https://o11y.jobs/jobs/backend-engineer-coralogix-0ec68?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Senior Platform Engineer, Replicate](https://o11y.jobs/jobs/senior-platform-engineer-replicate-cloudflare-406944?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cloudflare | In-Office |
 | [Engineering Manager](https://o11y.jobs/jobs/engineering-manager-cortex-593008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cortex | Remote · $200k – $260k |
 | [QA Software Engineer NC Hybrid](https://o11y.jobs/jobs/qa-software-engineer-nc-hybrid-splunk-023065?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | RTP, North Carolina, US · $139k – $282k |
@@ -91,7 +98,6 @@ _Last updated: 2026-11-26 · 100 open roles_
 | [Staff Site Reliability Engineer - IDaaS](https://o11y.jobs/jobs/staff-site-reliability-engineer-idaas-okta-071442?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Okta | Toronto, ON, Canada · CA$168k – CA$231k |
 | [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-sentry-0f616a?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · CA$210k – CA$250k |
 | [Site Reliability Engineer - Python, Splunk- Telecom Product - 7+ Years](https://o11y.jobs/jobs/site-reliability-engineer-python-splunk-telecom-product-7-years-splunk-306831?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
-| [Software Engineering Technical Leader](https://o11y.jobs/jobs/software-engineering-technical-leader-splunk-031721?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Krakow, Poland |
 | [Staff Software Engineer, Search Core](https://o11y.jobs/jobs/staff-software-engineer-search-core-cribl-458004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote · $205k – $240k |
 | [Director of Security Research, Cribl Detect](https://o11y.jobs/jobs/director-of-security-research-cribl-detect-cribl-099004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
 | [Platform Engineer](https://o11y.jobs/jobs/platform-engineer-opslevel-662be2?utm_source=github&utm_medium=repo&utm_campaign=jobs) | OpsLevel | Remote |
@@ -100,12 +106,6 @@ _Last updated: 2026-11-26 · 100 open roles_
 | [Staff DevOps Engineer](https://o11y.jobs/jobs/staff-devops-engineer-zscaler-971007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote |
 | [Senior Software Engineer](https://o11y.jobs/jobs/senior-software-engineer-solarwinds-125005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Bangalore, India |
 | [Principal Site Reliability Engineer](https://o11y.jobs/jobs/principal-site-reliability-engineer-zscaler-461007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote · $212k – $265k |
-| [Sr Mgr, Software Engineering (Cribl Detect)](https://o11y.jobs/jobs/sr-mgr-software-engineering-cribl-detect-cribl-104004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote · $230k – $300k |
-| [Senior Staff SRE, Architecture Engineering: Hosted Runners](https://o11y.jobs/jobs/senior-staff-sre-architecture-engineering-hosted-runners-gitlab-489002?utm_source=github&utm_medium=repo&utm_campaign=jobs) | GitLab | Remote |
-| [Senior Software Engineer II - Agentic Intelligence](https://o11y.jobs/jobs/senior-software-engineer-ii-agentic-intelligence-honeycomb-708008?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Honeycomb | Remote · CA$250k – CA$280k |
-| [Senior Site Reliability Engineer (Data Platform)](https://o11y.jobs/jobs/senior-site-reliability-engineer-data-platform-nebius-676101?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Nebius | Remote |
-| [Full-Stack Engineer (Backend Leaning) - Platform Engineering](https://o11y.jobs/jobs/full-stack-engineer-backend-leaning-platform-engineering-elevenlabs-76c5e0?utm_source=github&utm_medium=repo&utm_campaign=jobs) | ElevenLabs | Remote |
-| [DevOps Engineer, Developer Relations](https://o11y.jobs/jobs/devops-engineer-developer-relations-vultr-0a017e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Vultr | Remote |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

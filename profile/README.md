@@ -6,6 +6,8 @@ _Last updated: 2026-11-27 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Graduate Site Reliability Engineer](https://o11y.jobs/jobs/graduate-site-reliability-engineer-splunk-033056?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | London, United Kingdom |
+| [Splunk Admin (Remote)](https://o11y.jobs/jobs/splunk-admin-remote-splunk-027478?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote · $138k – $256k |
 | [Site Reliability Engineer - Devops, AWS, Python/GO -  8 to 10 years](https://o11y.jobs/jobs/site-reliability-engineer-devops-aws-python-go-8-to-10-years-splunk-028704?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
 | [Director of Infrastructure Engineering (Remote, Full-time, $230k–$260k/yr) — Micro1 via AI Gig Scout](https://o11y.jobs/jobs/director-of-infrastructure-engineering-remote-full-time-230k-260k-yr-micro1-via--micro1-via-ai-gig-scout-8ba74d?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Micro1 (via AI Gig Scout) | Remote · $230k – $260k |
 | [Software Engineer, Intern (Summer 2027)](https://o11y.jobs/jobs/software-engineer-intern-summer-2027-sentry-a235a2?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · €3k |
@@ -104,8 +106,6 @@ _Last updated: 2026-11-27 · 100 open roles_
 | [Site Reliability Engineer - Python, Splunk- Telecom Product - 7+ Years](https://o11y.jobs/jobs/site-reliability-engineer-python-splunk-telecom-product-7-years-splunk-306831?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
 | [Staff Software Engineer, Search Core](https://o11y.jobs/jobs/staff-software-engineer-search-core-cribl-458004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote · $205k – $240k |
 | [Director of Security Research, Cribl Detect](https://o11y.jobs/jobs/director-of-security-research-cribl-detect-cribl-099004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
-| [Platform Engineer](https://o11y.jobs/jobs/platform-engineer-opslevel-662be2?utm_source=github&utm_medium=repo&utm_campaign=jobs) | OpsLevel | Remote |
-| [Staff Field Engineer \| US \| Remote](https://o11y.jobs/jobs/staff-field-engineer-us-remote-grafana-labs-289004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

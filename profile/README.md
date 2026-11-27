@@ -2,10 +2,11 @@
 
 Curated open roles in observability, OpenTelemetry, Prometheus, Grafana, tracing, metrics, logs, SRE and platform engineering. Auto-updated from [o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs).
 
-_Last updated: 2026-11-26 · 100 open roles_
+_Last updated: 2026-11-27 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Software Engineer, Intern (Summer 2027)](https://o11y.jobs/jobs/software-engineer-intern-summer-2027-sentry-a235a2?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · €3k |
 | [Platform Engineer - Database](https://o11y.jobs/jobs/platform-engineer-database-supabase-4d0bf9?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Supabase | Remote |
 | [Staff Site Reliability Engineer](https://o11y.jobs/jobs/staff-site-reliability-engineer-solarwinds-325005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Bangalore, India |
 | [Cloud and Observability Engineer (Remote Role, 6pm - 3am)](https://o11y.jobs/jobs/cloud-and-observability-engineer-remote-role-6pm-3am-coralogix-4d169?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
@@ -15,6 +16,7 @@ _Last updated: 2026-11-26 · 100 open roles_
 | [Backend Engineer - Alerting](https://o11y.jobs/jobs/backend-engineer-alerting-coralogix-1be5c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [AI Software Engineer](https://o11y.jobs/jobs/ai-software-engineer-komodor-4e47c?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Komodor | Remote |
 | [Site Reliability Engineer (US - Pacific/mountain time)](https://o11y.jobs/jobs/site-reliability-engineer-us-pacific-time-posthog-6a26d4?utm_source=github&utm_medium=repo&utm_campaign=jobs) | PostHog | Remote |
+| [Consulting Engineering Technical Leader](https://o11y.jobs/jobs/consulting-engineering-technical-leader-splunk-252951?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Seattle, Washington, US · $165k – $272k |
 | [Software Engineering Technical Leader](https://o11y.jobs/jobs/software-engineering-technical-leader-splunk-032070?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Krakow, Poland |
 | [Software Developer](https://o11y.jobs/jobs/software-developer-splunk-030392?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Vancouver, British Columbia, Canada |
 | [Senior Technical Account Engineer](https://o11y.jobs/jobs/senior-technical-account-engineer-sumo-logic-418201?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sumo Logic | San José, Costa Rica |
@@ -104,8 +106,6 @@ _Last updated: 2026-11-26 · 100 open roles_
 | [Staff Field Engineer \| US \| Remote](https://o11y.jobs/jobs/staff-field-engineer-us-remote-grafana-labs-289004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Senior/Staff Site Reliability Engineer (Server Infrastructure)](https://o11y.jobs/jobs/senior-staff-site-reliability-engineer-server-infrastructure-nebius-922101?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Nebius | Remote |
 | [Staff DevOps Engineer](https://o11y.jobs/jobs/staff-devops-engineer-zscaler-971007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote |
-| [Senior Software Engineer](https://o11y.jobs/jobs/senior-software-engineer-solarwinds-125005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Bangalore, India |
-| [Principal Site Reliability Engineer](https://o11y.jobs/jobs/principal-site-reliability-engineer-zscaler-461007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote · $212k – $265k |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

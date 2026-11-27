@@ -6,6 +6,7 @@ _Last updated: 2026-11-27 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Director of Infrastructure Engineering (Remote, Full-time, $230k–$260k/yr) — Micro1 via AI Gig Scout](https://o11y.jobs/jobs/director-of-infrastructure-engineering-remote-full-time-230k-260k-yr-micro1-via--micro1-via-ai-gig-scout-8ba74d?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Micro1 (via AI Gig Scout) | Remote · $230k – $260k |
 | [Software Engineer, Intern (Summer 2027)](https://o11y.jobs/jobs/software-engineer-intern-summer-2027-sentry-a235a2?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · €3k |
 | [Platform Engineer - Database](https://o11y.jobs/jobs/platform-engineer-database-supabase-4d0bf9?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Supabase | Remote |
 | [Staff Site Reliability Engineer](https://o11y.jobs/jobs/staff-site-reliability-engineer-solarwinds-325005?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SolarWinds | Bangalore, India |
@@ -105,7 +106,6 @@ _Last updated: 2026-11-27 · 100 open roles_
 | [Platform Engineer](https://o11y.jobs/jobs/platform-engineer-opslevel-662be2?utm_source=github&utm_medium=repo&utm_campaign=jobs) | OpsLevel | Remote |
 | [Staff Field Engineer \| US \| Remote](https://o11y.jobs/jobs/staff-field-engineer-us-remote-grafana-labs-289004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Grafana Labs | Remote |
 | [Senior/Staff Site Reliability Engineer (Server Infrastructure)](https://o11y.jobs/jobs/senior-staff-site-reliability-engineer-server-infrastructure-nebius-922101?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Nebius | Remote |
-| [Staff DevOps Engineer](https://o11y.jobs/jobs/staff-devops-engineer-zscaler-971007?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Zscaler | Remote |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

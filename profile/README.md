@@ -6,6 +6,7 @@ _Last updated: 2026-11-28 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Growth Engineer, Open Source](https://o11y.jobs/jobs/growth-engineer-open-source-signoz-4c694d?utm_source=github&utm_medium=repo&utm_campaign=jobs) | SigNoz | India |
 | [Cloud Engineer, AI Evaluation Scenarios (Remote, Contract, $85–$165/hr) — AfterQuery via AI Gig Scout](https://o11y.jobs/jobs/cloud-engineer-ai-evaluation-scenarios-remote-contract-85-165-hr-afterquery-via--afterquery-via-ai-gig-scout-bf4abe?utm_source=github&utm_medium=repo&utm_campaign=jobs) | AfterQuery (via AI Gig Scout) | Remote · $85 – $165 |
 | [Software Engineering Technical Leader - Splunk (fixed-term, 12 months)](https://o11y.jobs/jobs/software-engineering-technical-leader-splunk-fixed-term-12-months-splunk-031044?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Krakow, Poland |
 | [Graduate Site Reliability Engineer](https://o11y.jobs/jobs/graduate-site-reliability-engineer-splunk-033056?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | London, United Kingdom |
@@ -105,7 +106,6 @@ _Last updated: 2026-11-28 · 100 open roles_
 | [Senior Software Engineer](https://o11y.jobs/jobs/senior-full-stack-engineer-coralogix-03b6e?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Coralogix | Remote |
 | [Staff Site Reliability Engineer - IDaaS](https://o11y.jobs/jobs/staff-site-reliability-engineer-idaas-okta-071442?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Okta | Toronto, ON, Canada · CA$168k – CA$231k |
 | [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-sentry-0f616a?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · CA$210k – CA$250k |
-| [Site Reliability Engineer - Python, Splunk- Telecom Product - 7+ Years](https://o11y.jobs/jobs/site-reliability-engineer-python-splunk-telecom-product-7-years-splunk-306831?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.

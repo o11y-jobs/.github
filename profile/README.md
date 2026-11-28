@@ -2,10 +2,11 @@
 
 Curated open roles in observability, OpenTelemetry, Prometheus, Grafana, tracing, metrics, logs, SRE and platform engineering. Auto-updated from [o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs).
 
-_Last updated: 2026-11-27 · 100 open roles_
+_Last updated: 2026-11-28 · 100 open roles_
 
 | Role | Company | Details |
 | --- | --- | --- |
+| [Software Engineering Technical Leader - Splunk (fixed-term, 12 months)](https://o11y.jobs/jobs/software-engineering-technical-leader-splunk-fixed-term-12-months-splunk-031044?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Krakow, Poland |
 | [Graduate Site Reliability Engineer](https://o11y.jobs/jobs/graduate-site-reliability-engineer-splunk-033056?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | London, United Kingdom |
 | [Splunk Admin (Remote)](https://o11y.jobs/jobs/splunk-admin-remote-splunk-027478?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Remote · $138k – $256k |
 | [Site Reliability Engineer - Devops, AWS, Python/GO -  8 to 10 years](https://o11y.jobs/jobs/site-reliability-engineer-devops-aws-python-go-8-to-10-years-splunk-028704?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
@@ -105,7 +106,6 @@ _Last updated: 2026-11-27 · 100 open roles_
 | [Forward Deployed Engineer](https://o11y.jobs/jobs/forward-deployed-engineer-sentry-0f616a?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Sentry | Remote · CA$210k – CA$250k |
 | [Site Reliability Engineer - Python, Splunk- Telecom Product - 7+ Years](https://o11y.jobs/jobs/site-reliability-engineer-python-splunk-telecom-product-7-years-splunk-306831?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Splunk | Bangalore, India |
 | [Staff Software Engineer, Search Core](https://o11y.jobs/jobs/staff-software-engineer-search-core-cribl-458004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote · $205k – $240k |
-| [Director of Security Research, Cribl Detect](https://o11y.jobs/jobs/director-of-security-research-cribl-detect-cribl-099004?utm_source=github&utm_medium=repo&utm_campaign=jobs) | Cribl | Remote |
 
 ---
 Browse all roles, filter by stack, or get them by email at **[o11y.jobs](https://o11y.jobs?utm_source=github&utm_medium=repo&utm_campaign=jobs)**.
